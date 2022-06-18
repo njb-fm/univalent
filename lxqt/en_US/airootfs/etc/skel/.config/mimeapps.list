@@ -1,0 +1,12 @@
+[Default Applications]
+x-scheme-handler/http=chromium.desktop
+x-scheme-handler/https=chromium.desktop
+x-scheme-handler/mailto=sylpheed.desktop
+
+[Added Associations]
+x-scheme-handler/http=chromium.desktop
+x-scheme-handler/https=chromium.desktop
+x-scheme-handler/mailto=sylpheed.desktop
+image/jpeg=lximage-qt.desktop;
+image/png=lximage-qt.desktop;
+image/gif=lximage-qt.desktop;
