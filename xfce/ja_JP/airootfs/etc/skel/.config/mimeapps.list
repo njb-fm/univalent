@@ -1,0 +1,13 @@
+[Default Applications]
+x-scheme-handler/http=xfce4-web-browser.desktop
+x-scheme-handler/https=xfce4-web-browser.desktop
+x-scheme-handler/mailto=xfce4-mail-reader.desktop
+
+[Added Associations]
+x-scheme-handler/http=xfce4-web-browser.desktop;
+x-scheme-handler/https=xfce4-web-browser.desktop;
+x-scheme-handler/mailto=xfce4-mail-reader.desktop;
+image/jpeg=lximage-qt.desktop;
+image/png=lximage-qt.desktop;
+image/gif=lximage-qt.desktop;
+
