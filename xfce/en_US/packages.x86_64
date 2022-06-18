@@ -117,7 +117,10 @@ gvfs
 neofetch
 xfce4-pulseaudio-plugin
 pulseaudio-alsa
+<<<<<<< HEAD
 ristretto
+=======
+>>>>>>> origin/master
 noto-fonts-cjk
 noto-fonts
 
@@ -153,9 +156,9 @@ libreoffice-fresh
 pamac-aur
 papirus-icon-theme
 partitionmanager
-qlipper
 sylpheed
 unzip
+sylpheed
 vim
 vlc
 wget

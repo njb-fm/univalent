@@ -135,7 +135,7 @@ xf86-video-nouveau
 xf86-video-openchrome
 xf86-video-vmware
 
-#UVGL Applications
+#UVGL softwares
 aptpac
 archlinux-appstream-data-pamac
 base-devel
@@ -158,7 +158,6 @@ libreoffice-fresh
 pamac-aur
 papirus-icon-theme
 partitionmanager
-qlipper
 sylpheed
 unzip
 vim

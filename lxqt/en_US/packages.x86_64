@@ -152,6 +152,7 @@ partitionmanager
 qlipper
 qpdfview
 sylpheed
+unzip
 vim
 vlc
 wget
@@ -160,3 +161,4 @@ vim
 vlc
 wget
 yay
+zip
