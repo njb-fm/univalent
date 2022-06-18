@@ -138,7 +138,7 @@ xf86-video-nouveau
 xf86-video-openchrome
 xf86-video-vmware
 
-#UVGL Applications
+#UVGL Softwares
 aptpac
 archlinux-appstream-data-pamac
 base-devel
