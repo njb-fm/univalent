@@ -117,10 +117,7 @@ gvfs
 neofetch
 xfce4-pulseaudio-plugin
 pulseaudio-alsa
-<<<<<<< HEAD
 ristretto
-=======
->>>>>>> origin/master
 noto-fonts-cjk
 noto-fonts
 
@@ -162,6 +159,7 @@ sylpheed
 vim
 vlc
 wget
+xfce4-clipman-plugin
 xscreensaver
 vim
 vlc
