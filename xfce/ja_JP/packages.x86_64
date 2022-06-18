@@ -140,7 +140,6 @@ aptpac
 archlinux-appstream-data-pamac
 base-devel
 chromium
-clipman
 curl
 epdfview
 fcitx5
@@ -163,6 +162,7 @@ unzip
 vim
 vlc
 wget
+xfce4-clipman-plugin
 xscreensaver
 vim
 vlc
