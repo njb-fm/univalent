@@ -9,5 +9,5 @@ cd univaiso-channels
 sudo mkarchiso -v <desktop>/<locale>
 ```
 
-Choose from "lxqt" and "xfce" for <desktop> and "en_US" and "ja_JP" for <locale>.
+Choose from "lxqt" and "xfce" for <desktop> and "en_US" and "ja_JP" for <locale>.[[br]]
 <desktop>を「lxqt」か「xfce」から、「locale」を「en_US」(アメリカ語)か「ja_JP」(日本語)からお選び下さい。
