@@ -1,7 +1,7 @@
 # univaiso-channels
 Channels for UniVaISO.
 
-UniVaISO用のチャンネルです。LXQtのはUniVaISO本体に同梱してあるのと同じです。
+UniVaISO用のチャンネルです。
 
 ## Usage 使用法
 ```bash
