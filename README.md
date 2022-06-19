@@ -7,7 +7,7 @@ UniVaISO用のチャンネルです。LXQtのはUniVaISO本体に同梱してあ
 ```bash
 git clone https://github.com/Jin-Asanami/univaiso-channels
 cd univaiso-channels
-sudo mkarchiso -v <desktop>/<locale>
+sudo mkunivaiso -v <desktop>/<locale>
 ```
 
 Choose from "lxqt" and "xfce" for "desktop" and "en_US" and "ja_JP" for "locale"
