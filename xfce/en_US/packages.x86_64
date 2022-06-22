@@ -106,6 +106,7 @@ zsh
 xfce4
 xorg-server
 xfce4-whiskermenu-plugin
+xfce4-goodies
 lightdm
 lightdm-gtk-greeter
 xdg-user-dirs
@@ -118,6 +119,7 @@ neofetch
 xfce4-pulseaudio-plugin
 pulseaudio-alsa
 ristretto
+xfce4-screenshooter
 noto-fonts-cjk
 noto-fonts
 
