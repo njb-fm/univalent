@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-os_name="Univalent GNU/Linux"
 iso_name="uvgl-xfce-ja"
 iso_label="UNIVALENT_XFCE_JA_$(date +%Y%m%d)_ALPHA"
 iso_publisher="RadioNewJapan"
