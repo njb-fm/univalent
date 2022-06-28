@@ -139,6 +139,7 @@ archlinux-appstream-data-pamac
 base-devel
 chromium
 curl
+devtools
 fcitx5
 fcitx5-configtool
 fcitx5-gtk
