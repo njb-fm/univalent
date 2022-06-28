@@ -143,6 +143,7 @@ archlinux-appstream-data-pamac
 base-devel
 chromium
 curl
+devtools
 epdfview
 fdclone
 git
