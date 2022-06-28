@@ -142,6 +142,7 @@ archlinux-appstream-data-pamac
 base-devel
 chromium
 curl
+devtools
 epdfview
 fcitx5
 fcitx5-configtool
