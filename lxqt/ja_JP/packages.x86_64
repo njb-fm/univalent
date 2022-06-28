@@ -140,7 +140,6 @@ base-devel
 chromium
 curl
 devtools
-epdfview
 fcitx5
 fcitx5-configtool
 fcitx5-gtk
@@ -158,8 +157,9 @@ pamac-aur
 papirus-icon-theme
 partitionmanager
 qlipper
+qpdfview
 screengrab
-trojita
+sylpheed
 unzip
 vim
 vlc
