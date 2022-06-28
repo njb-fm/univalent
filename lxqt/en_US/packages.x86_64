@@ -137,6 +137,7 @@ xf86-video-vmware
 aptpac
 archlinux-appstream-data-pamac
 base-devel
+devtools
 chromium
 curl
 fdclone
