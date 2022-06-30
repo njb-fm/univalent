@@ -138,6 +138,7 @@ aptpac
 archlinux-appstream-data-pamac
 base-devel
 chromium
+copyq
 curl
 devtools
 fcitx5
@@ -156,10 +157,8 @@ libreoffice-fresh-ja
 pamac-aur
 papirus-icon-theme
 partitionmanager
-qlipper
-qpdfview
 screengrab
-sylpheed
+trojita
 unzip
 vim
 vlc
