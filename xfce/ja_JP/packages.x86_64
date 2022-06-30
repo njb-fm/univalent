@@ -142,8 +142,8 @@ archlinux-appstream-data-pamac
 base-devel
 chromium
 curl
+claws-mail
 devtools
-epdfview
 fcitx5
 fcitx5-configtool
 fcitx5-gtk
@@ -159,7 +159,6 @@ libreoffice-fresh
 pamac-aur
 papirus-icon-theme
 partitionmanager
-sylpheed
 unzip
 vim
 vlc
