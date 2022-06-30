@@ -142,9 +142,9 @@ aptpac
 archlinux-appstream-data-pamac
 base-devel
 chromium
+
 curl
 devtools
-epdfview
 fdclone
 git
 galculator
@@ -155,9 +155,7 @@ libreoffice-fresh
 pamac-aur
 papirus-icon-theme
 partitionmanager
-sylpheed
 unzip
-sylpheed
 vim
 vlc
 wget
