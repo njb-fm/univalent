@@ -138,6 +138,7 @@ aptpac
 archlinux-appstream-data-pamac
 base-devel
 chromium
+claws-mail
 copyq
 curl
 devtools
@@ -152,7 +153,6 @@ pamac-aur
 papirus-icon-theme
 partitionmanager
 screengrab
-trojita
 unzip
 vim
 vlc
