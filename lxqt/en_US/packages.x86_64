@@ -137,9 +137,10 @@ xf86-video-vmware
 aptpac
 archlinux-appstream-data-pamac
 base-devel
-devtools
 chromium
+copyq
 curl
+devtools
 fdclone
 git
 k3b
@@ -150,10 +151,8 @@ libreoffice-fresh
 pamac-aur
 papirus-icon-theme
 partitionmanager
-qlipper
-qpdfview
 screengrab
-sylpheed
+trojita
 unzip
 vim
 vlc
@@ -164,3 +163,4 @@ vlc
 wget
 yay
 zip
+
