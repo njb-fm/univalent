@@ -142,9 +142,8 @@ aptpac
 archlinux-appstream-data-pamac
 base-devel
 chromium
-
+claws-mail
 curl
-devtools
 fdclone
 git
 galculator
