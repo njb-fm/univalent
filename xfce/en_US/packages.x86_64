@@ -125,7 +125,7 @@ noto-fonts
 
 #Installer
 grub
-calamares
+univalent/calamares
 uvgl-calam-cfg
 os-prober
 
