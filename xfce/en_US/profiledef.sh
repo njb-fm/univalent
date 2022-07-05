@@ -2,10 +2,10 @@
 # shellcheck disable=SC2034
 
 iso_name="uvgl-xfce-en"
-iso_label="UNIVALENT_XFCE_EN_$(date +%Y%m%d)_ALPHA"
+iso_label="UNIVALENT_XFCE_EN_$(date +%y%m%d)_ALPHA"
 iso_publisher="RadioNewJapan"
 iso_application="UVGL Install Drive"
-iso_version="$(date +%Y.%m.%d).a"
+iso_version="$(date +%y.%m.%d).a"
 install_dir="arch"
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
 arch="x86_64"
