@@ -1,5 +1,5 @@
 # XScreenSaver Preferences File
-# Written by xscreensaver-settings 6.03 for hay on Tue May 17 15:11:19 2022.
+# Written by xscreensaver-demo 6.04 for hay on Sun Jul 10 12:02:34 2022.
 # https://www.jwz.org/xscreensaver/
 
 timeout:	0:10:00
@@ -14,12 +14,12 @@ splash:		True
 splashDuration:	0:00:05
 demoCommand:	xscreensaver-settings
 nice:		10
-fade:		True
-unfade:		True
+fade:		False
+unfade:		False
 fadeSeconds:	0:00:03
 ignoreUninstalledPrograms:False
 font:		
-dpmsEnabled:	False
+dpmsEnabled:	True
 dpmsQuickOff:	False
 dpmsStandby:	2:00:00
 dpmsSuspend:	2:00:00
@@ -30,7 +30,7 @@ chooseRandomImages: False
 imageDirectory:	
 
 mode:		one
-selected:	51
+selected:	116
 
 textMode:	file
 textLiteral:	XScreenSaver
@@ -286,7 +286,10 @@ programs:								      \
 				marbling -root				    \n\
   GL: 				mapscroller -root			    \n\
   GL: 				squirtorus -root			    \n\
+  GL: 				chompytower -root			    \n\
+  GL: 				nakagin -root				    \n\
 
 
 pointerHysteresis:  10
 authWarningSlack:   20
+
