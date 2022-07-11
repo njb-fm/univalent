@@ -129,10 +129,6 @@ univalent/calamares
 uvgl-calam-cfg
 os-prober
 
-#Chaotic AUR
-chaotic-keyring
-chaotic-mirrorlist
-
 #Graphics Driver
 xf86-video-amdgpu
 xf86-video-ati
