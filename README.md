@@ -1,7 +1,7 @@
 # univaiso-channels
-Channels for UniVaISO.
+Channels for UniVaISO. Testing channels are here -> https://github.com/Jin-Asanami/univaiso-testing-channels
 
-UniVaISO用のチャンネルです。
+UniVaISO用のチャンネルです。テスト用チャンネルはこちら → https://github.com/Jin-Asanami/univaiso-testing-channels
 
 ## Usage 使用法
 ```bash
