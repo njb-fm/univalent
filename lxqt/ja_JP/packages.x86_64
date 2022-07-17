@@ -165,3 +165,12 @@ wget
 xscreensaver
 yay
 zip
+
+# Printer Settings
+cups
+ghostscript
+gsfonts
+cups-pdf
+poppler
+a2ps
+system-config-printer
