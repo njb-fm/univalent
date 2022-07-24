@@ -10,6 +10,6 @@ cd univaiso-channels
 sudo mkunivaiso -v <desktop>/<locale>
 ```
 
-Choose from "lxqt" and "xfce" for "desktop" and "en_US" and "ja_JP" for "locale"
+Choose from "lxqt", "xfce", or "jwm" for "desktop", and "en_US" or "ja_JP" for "locale"
 
-"desktop"を「lxqt」か「xfce」から、「locale」を「en_US」(アメリカ語)か「ja_JP」(日本語)からお選び下さい。
+"desktop"を「lxqt」か「xfce」か「jwm」から、「locale」を「en_US」(アメリカ語)か「ja_JP」(日本語)からお選び下さい。

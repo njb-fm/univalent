@@ -1,0 +1,7 @@
+Channel Name : jwm
+
+This edition is using Joe's Window Manager for desktop-environment.
+It's an edition focused on running web applications and starts Chromium automatically after you log in.
+
+デスクトップ環境にJWM (ジョーさんのウインドウマネージャー) を採用したエディションです。
+ウェブアプリケーションの実行に重きをおいたエディションで、ログイン後自動的にChromiumが起動します。
