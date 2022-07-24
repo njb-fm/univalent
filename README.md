@@ -7,9 +7,9 @@ UniVaISO用のチャンネルです。テスト用チャンネルはこちら �
 ```bash
 git clone https://github.com/Jin-Asanami/univaiso-channels
 cd univaiso-channels
-sudo mkunivaiso -v <desktop>/<locale>
+sudo mkunivaiso -v <channel>/<locale>
 ```
 
-Choose from "lxqt", "xfce", or "jwm" for "desktop", and "en_US" or "ja_JP" for "locale"
+Choose from "lxqt", "xfce", "jwm", or "releng" for "desktop", and "en_US" or "ja_JP" for "locale"
 
-"desktop"を「lxqt」か「xfce」か「jwm」から、「locale」を「en_US」(アメリカ語)か「ja_JP」(日本語)からお選び下さい。
+"channel"を「lxqt」「xfce」「jwm」「releng」から、「locale」を「en_US」(アメリカ語)か「ja_JP」(日本語)からお選び下さい。relengは日本語に対応しておりません。
