@@ -181,3 +181,5 @@ cups-pdf
 poppler
 a2ps
 system-config-printer
+sane
+xsane

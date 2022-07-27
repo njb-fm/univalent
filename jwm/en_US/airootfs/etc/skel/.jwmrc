@@ -25,11 +25,13 @@
         <Menu icon="folder" label="Graphics">
             <Program icon="image-viewer" label="Ristretto">ristretto</Program>
             <Program icon="applets-screenshooter" label="screenshot">screengrab</Program>
+            <Program icon="xsane" label="XSane">xsane</program>
         </Menu>
         <Menu icon="folder" label="Utilities">
             <Program icon="gparted" label="GParted">gparted</Program>
             <Program icon="package" label="Pamac Software Centre">pamac-manager</Program>
             <Program icon="utilities-system-monitor" label="htop">xfce4-terminal -e 'htop'</Program>
+            <Program icon="cups" label="印刷の管理" >/usr/bin/xdg-open http://localhost:631/</program>
         </Menu>
         <Menu icon="folder" label="Settings">
             <Program icon="preferences-desktop" label="Configuration Centre">xfce4-settings-manager</Program>
