@@ -144,7 +144,7 @@ archlinux-appstream-data-pamac
 base-devel
 chromium
 curl
-featherpad
+leafpad
 git
 galculator
 xfce4-settings
