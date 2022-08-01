@@ -111,7 +111,7 @@ xdg-user-dirs
 bash-completion
 networkmanager
 network-manager-applet
-featherpad
+leafpad
 gvfs
 neofetch
 pavucontrol-qt
