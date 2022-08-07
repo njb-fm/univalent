@@ -142,6 +142,7 @@ aptpac
 archlinux-appstream-data-pamac
 base-devel
 chromium
+gparted
 curl
 claws-mail
 fcitx5
@@ -155,7 +156,6 @@ libpamac-aur
 libreoffice-fresh
 pamac-aur
 papirus-icon-theme
-partitionmanager
 unzip
 vim
 vlc
