@@ -118,6 +118,7 @@ pavucontrol-qt
 pulseaudio-alsa
 noto-fonts-cjk
 noto-fonts
+noto-fonts-emoji
 
 #Installer
 grub
