@@ -2,7 +2,7 @@
 # shellcheck disable=SC2034
 
 iso_name="uvgl-lxqt-ja"
-iso_label="UNIVALENT_LXQT_JA_$(date +%y.%m)"
+iso_label="UVGL_LXQT_JA_$(date +%y.%m)"
 iso_publisher="RadioNewJapan"
 iso_application="UVGL Install Drive"
 iso_version="$(date +%y.%m)"

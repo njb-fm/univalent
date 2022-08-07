@@ -2,7 +2,7 @@
 # shellcheck disable=SC2034
 
 iso_name="uvgl-xfce-en"
-iso_label="UNIVALENT_XFCE_EN_$(date +%y%m%d)_GAMMA1"
+iso_label="UVGL_XFCE_EN_$(date +%y%m%d)_GAMMA1"
 iso_publisher="RadioNewJapan"
 iso_application="UVGL Install Drive"
 iso_version="$(date +%y.%m.%d).g1"
