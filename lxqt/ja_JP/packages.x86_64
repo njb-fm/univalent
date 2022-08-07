@@ -122,7 +122,7 @@ noto-fonts-emoji
 
 #Installer
 grub
-univalent/calamares
+calamares
 uvgl-calam-cfg
 os-prober
 
