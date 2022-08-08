@@ -82,10 +82,10 @@
     <property name="zoom_desktop" type="bool" value="true"/>
     <property name="zoom_pointer" type="bool" value="true"/>
     <property name="workspace_names" type="array">
-      <value type="string" value="ワークスペース 1"/>
-      <value type="string" value="ワークスペース 2"/>
-      <value type="string" value="ワークスペース 3"/>
-      <value type="string" value="ワークスペース 4"/>
+      <value type="string" value="Workspace 1"/>
+      <value type="string" value="Workspace 2"/>
+      <value type="string" value="Workspace 3"/>
+      <value type="string" value="Workspace 4"/>
     </property>
   </property>
 </channel>
