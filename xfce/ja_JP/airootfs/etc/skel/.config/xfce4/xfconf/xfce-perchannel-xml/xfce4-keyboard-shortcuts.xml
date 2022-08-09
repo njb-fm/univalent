@@ -153,7 +153,7 @@
       <property name="&lt;Alt&gt;F10" type="string" value="maximize_window_key"/>
       <property name="&lt;Alt&gt;Delete" type="string" value="del_workspace_key"/>
       <property name="&lt;Super&gt;Tab" type="string" value="switch_window_key"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;d" type="string" value="show_desktop_key"/>
+      <property name="&lt;Super&gt;d" type="string" value="show_desktop_key"/>
       <property name="&lt;Primary&gt;F4" type="string" value="workspace_4_key"/>
       <property name="&lt;Super&gt;KP_Page_Up" type="string" value="tile_up_right_key"/>
       <property name="&lt;Alt&gt;F7" type="string" value="move_window_key"/>
