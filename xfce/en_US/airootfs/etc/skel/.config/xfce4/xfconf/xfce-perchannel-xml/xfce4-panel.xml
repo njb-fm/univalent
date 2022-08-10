@@ -10,12 +10,15 @@
       <property name="length" type="uint" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="icon-size" type="uint" value="16"/>
-      <property name="size" type="uint" value="40"/>
+      <property name="size" type="uint" value="25"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="7"/>
+        <value type="int" value="4"/>
+        <value type="int" value="17"/>
+        <value type="int" value="18"/>
+        <value type="int" value="1"/>
         <value type="int" value="2"/>
         <value type="int" value="3"/>
-        <value type="int" value="4"/>
         <value type="int" value="5"/>
         <value type="int" value="6"/>
         <value type="int" value="8"/>
@@ -44,8 +47,8 @@
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
         <value type="string" value="thunar"/>
-        <value type="string" value="networkmanager アプレット"/>
-        <value type="string" value="ethernet ネットワーク接続 &apos;有線接続 1&apos; はアクティブです"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="ethernet network connection &apos;Wired Connection 1&apos; is active"/>
         <value type="string" value="pamac-tray"/>
         <value type="string" value="fcitx5 tray window"/>
       </property>
@@ -68,5 +71,16 @@
     </property>
     <property name="plugin-14" type="string" value="actions"/>
     <property name="plugin-7" type="string" value="whiskermenu"/>
+    <property name="plugin-1" type="string" value="showdesktop"/>
+    <property name="plugin-17" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16601353721.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-18" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16601353722.desktop"/>
+      </property>
+    </property>
   </property>
 </channel>
