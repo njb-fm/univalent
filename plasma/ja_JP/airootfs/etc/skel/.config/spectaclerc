@@ -1,0 +1,5 @@
+[$Version]
+update_info=spectacle_newConfig.upd:spectacle-new-config,spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[GuiConfig]
+window-position=0,22
