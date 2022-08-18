@@ -1,2 +1,2 @@
-pacman -Syu
-pacman -S wine lib32-libglvnd lib32-jack2 wine-desktop-entries wine-mono wine-gecko lib32-alsa-lib lib32-alsa-plugins lib32-libpulse lib32-alsa-oss lib32-openal lib32-libxml2 lib32-mpg123 lib32-lcms2 lib32-giflib lib32-libpng lib32-gnutls gst-plugins-base gst-plugins-good gst-plugins-bad gst-plugins-ugly lib32-gst-plugins-base lib32-gst-plugins-good
+#!/bin/sh
+pacman -S wine wine-mono wine-gecko lib32-alsa-lib lib32-alsa-plugins lib32-libpulse lib32-alsa-oss lib32-openal lib32-libxml2 lib32-mpg123 lib32-lcms2 lib32-giflib lib32-libpng lib32-gnutls gst-plugins-base gst-plugins-good gst-plugins-bad gst-plugins-ugly lib32-gst-plugins-base lib32-gst-plugins-good
