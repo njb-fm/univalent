@@ -1,9 +1,0 @@
-Channel Name : releng
-
-This channel recreates releng of the original Arch.
-ALL original functions such as UniVaG repository and Japanese translation have been disabled for this channel.
-Use only if you want to build from the beginning.
-
-本家Archのrelengを再現したチャンネルです。
-このチャンネルはUVGLのリポジトリや日本語化などの独自機能は全て無効化しております。
-一から調教をしたい方のみお使い下さい。
