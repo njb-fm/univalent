@@ -1,3 +1,5 @@
 [Formats]
-LANG=en_US
+LANG=en_US.UTF-8
 
+[Translations]
+LANGUAGE=en_US
