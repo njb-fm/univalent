@@ -1,0 +1,44 @@
+UVGL i3 Edition Shortcuts list
+
+Our "Mod" key is set to the command key.
+If the corresponding part of the configuration file is not rewritten, the following "Mod" may be replaced with "Cmd", "Super" or "Win".
+
+Mod+Return or Ctrl-Alt-T - exec terminal emulator
+Mod+Shift+Q or Alt+F4 - close focused window
+Mod+T - exec thunar
+Mod+D - open rofi launcher
+Mod+X - lock screen
+Mod+S - suspend
+Mod+Shift+S - shutdown now
+Mod+R - reboot
+
+Mod+H or Mod+Left - focus left
+Mod+J or Mod+Down - focus down
+Mod+K or Mod+Up - focus up
+Mod+L or Mod+Right - focus right
+
+Mod+G - split in horizontal orientation
+Mod+V - split in vertical orientation
+Mod+F - enter fullscreen mode for the focused window
+
+ 
+「Mod」キーはコマンドキーに設定されています。
+設定ファイルの該当部分を書き換えない場合は、以下の「Mod」を「Cmd」「Super」「Win」と読み替えて頂いて構いません。
+
+Mod+Return or Ctrl-Alt-T - 端末エミュレータの起動
+Mod+Shift+Q or Alt+F4 - アクティブなウインドウを閉じる
+Mod+T - Thunarの起動
+Mod+D - ランチャー「rofi」の表示
+Mod+X - 画面のロック
+Mod+S - サスペンド
+Mod+Shift+S - シャットダウン
+Mod+R - 再起動
+
+Mod+H or Mod+Left - アクティブなウインドウを左のモノに切り替える
+Mod+J or Mod+Down - アクティブなウインドウを下のモノに切り替える
+Mod+K or Mod+Up - アクティブなウインドウを上のモノに切り替える
+Mod+L or Mod+Right - アクティブなウインドウを右のモノに切り替える
+
+Mod+G - 新規ウインドウの作成位置を横方向にする
+Mod+V - 新規ウインドウの作成位置を縦方向にする
+Mod+F - アクティブなウインドウを全画面表示する

@@ -1,0 +1,18 @@
+[Default Applications]
+x-scheme-handler/http=chromium.desktop
+x-scheme-handler/https=chromium.desktop
+x-scheme-handler/mailto=claws-mail.desktop
+image/jpeg=org.xfce.ristretto.desktop
+image/png=org.xfce.ristretto.desktop
+image/gif=org.xfce.ristretto.desktop
+
+[Added Associations]
+x-scheme-handler/http=chromium.desktop
+x-scheme-handler/https=chromium.desktop
+x-scheme-handler/mailto=claws-mail.desktop
+image/jpeg=lximage-qt.desktop;org.xfce.ristretto.desktop;
+image/png=lximage-qt.desktop;org.xfce.ristretto.desktop;
+image/gif=lximage-qt.desktop;org.xfce.ristretto.desktop;
+application/vnd.kde.kxmlguirc=leafpad.desktop;
+text/plain=leafpad.desktop;
+application/x-shellscript=leafpad.desktop;

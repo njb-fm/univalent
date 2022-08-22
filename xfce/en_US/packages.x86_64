@@ -145,6 +145,7 @@ base-devel
 chromium
 claws-mail
 curl
+chaotic-mirrorlist
 git
 galculator
 libpamac-aur
