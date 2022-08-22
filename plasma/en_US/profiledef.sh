@@ -4,7 +4,7 @@
 iso_name="uvgl-plasma-en"
 iso_label="UVGL_PLASMA_EN_$(date +%y%m%d)_ALPHA2"
 iso_publisher="RadioNewJapan"
-iso_application="UVGL Install Drive"
+iso_application="UVGL Installation Drive"
 iso_version="$(date +%y.%m.%d).a2"
 install_dir="arch"
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')

@@ -80,6 +80,9 @@ bindsym $mod+r exec systemctl reboot
 # Suspend the system to RAM (needs swap space)
 bindsym $mod+s exec systemctl suspend
 
+# take a screenshot
+bindsym Print exec --no-startup-id screengrab
+
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
 
