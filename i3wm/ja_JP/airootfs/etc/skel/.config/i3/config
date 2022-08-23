@@ -75,10 +75,10 @@ bindsym $mod+x exec betterlockscreen -l
 bindsym $mod+Shift+s exec shutdown now
 
 #Reboot Machine
-bindsym $mod+r exec systemctl reboot
+bindsym $mod+Mod1+r exec systemctl reboot
 
 # Suspend the system to RAM (needs swap space)
-bindsym $mod+s exec systemctl suspend
+bindsym $mod+Mod1+s exec systemctl suspend
 
 # take a screenshot
 bindsym Print exec --no-startup-id screengrab
@@ -269,7 +269,6 @@ for_window [class="firefox"] move to workspace $ws5
 # touching program launcher. Assign Programs to respective
 # workspaces.
 bindsym $mod+b workspace 5; exec chromium
-
 
 #Multi Monitor (Dual Monitor, extended monitor)
 #Replace HDMI2 with DVI-2, VGA-2, DP-2, DVI-2 etc. Get value by typing xrandr in the terminal.

@@ -1,16 +1,17 @@
-UVGL i3 Edition Shortcuts list
+UVGL i3 Flavour (Web Edition) Shortcuts list
+UVGL i3フレーバー(ウェブエディション)ショートカット一覧
 
 Our "Mod" key is set to the command key.
 If the corresponding part of the configuration file is not rewritten, the following "Mod" may be replaced with "Cmd", "Super" or "Win".
 
-Mod+Return or Ctrl-Alt-T - exec terminal emulator
+Mod+Return or Ctrl+Alt+T - exec terminal emulator
 Mod+Shift+Q or Alt+F4 - close focused window
 Mod+T - exec thunar
 Mod+D - open rofi launcher
 Mod+X - lock screen
-Mod+S - suspend
+Mod+Alt+S - suspend
 Mod+Shift+S - shutdown now
-Mod+R - reboot
+Mod+Alt+R - reboot
 
 Mod+H or Mod+Left - focus left
 Mod+J or Mod+Down - focus down
@@ -21,7 +22,6 @@ Mod+G - split in horizontal orientation
 Mod+V - split in vertical orientation
 Mod+F - enter fullscreen mode for the focused window
 
- 
 「Mod」キーはコマンドキーに設定されています。
 設定ファイルの該当部分を書き換えない場合は、以下の「Mod」を「Cmd」「Super」「Win」と読み替えて頂いて構いません。
 
@@ -30,9 +30,9 @@ Mod+Shift+Q or Alt+F4 - アクティブなウインドウを閉じる
 Mod+T - Thunarの起動
 Mod+D - ランチャー「rofi」の表示
 Mod+X - 画面のロック
-Mod+S - サスペンド
+Mod+Alt+S - サスペンド
 Mod+Shift+S - シャットダウン
-Mod+R - 再起動
+Mod+Alt+R - 再起動
 
 Mod+H or Mod+Left - アクティブなウインドウを左のモノに切り替える
 Mod+J or Mod+Down - アクティブなウインドウを下のモノに切り替える
