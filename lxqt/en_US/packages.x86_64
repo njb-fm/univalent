@@ -140,7 +140,7 @@ archlinux-appstream-data-pamac
 base-devel
 chromium
 claws-mail
-copyq
+xfce4-clipman-plugin
 curl
 chaotic-mirrorlist
 git

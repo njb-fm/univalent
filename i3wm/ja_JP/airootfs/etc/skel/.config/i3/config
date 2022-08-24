@@ -58,6 +58,9 @@ exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 # Launch Fcitx5
 exec_always --no-startup-id fcitx5
 
+# Launch clipman
+exec_always --no-startup-id xfce4-clipman
+
 # Display Wallpaper, always.
 exec_always feh --bg-fill /usr/share/backgrounds/i3/simple_blue_widescreen.png
 
