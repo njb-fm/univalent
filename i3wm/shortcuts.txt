@@ -1,4 +1,4 @@
-UVGL i3 Flavour (Web Edition) Shortcuts list
+UVGL i3 Flavour (Web Edition) Shortcuts List
 UVGL i3フレーバー(ウェブエディション)ショートカット一覧
 
 Our "Mod" key is set to the command key.
@@ -21,6 +21,15 @@ Mod+L or Mod+Right - focus right
 Mod+G - split in horizontal orientation
 Mod+V - split in vertical orientation
 Mod+F - enter fullscreen mode for the focused window
+Mod+Space - Change focus between tiling / floating windows
+
+Mod+Shift+1-0 - Switch to workspace 1-10
+Mod+Shift+1-0 - Move container to workspace number 1-10
+Mod+PgUp/PgDn - Switch to  previous/next Workspace
+
+Mod+Shift+C - Reload the config file
+Mod+Shift+R - Restart i3-wm
+Mod+Shift+E - logout i3-wm
 
 「Mod」キーはコマンドキーに設定されています。
 設定ファイルの該当部分を書き換えない場合は、以下の「Mod」を「Cmd」「Super」「Win」と読み替えて頂いて構いません。
@@ -42,3 +51,13 @@ Mod+L or Mod+Right - アクティブなウインドウを右のモノに切り�
 Mod+G - 新規ウインドウの作成位置を横方向にする
 Mod+V - 新規ウインドウの作成位置を縦方向にする
 Mod+F - アクティブなウインドウを全画面表示する
+Mod+Space - ウインドウの表示方法をタイルかフロートにするか切り替える
+
+Mod+Shift+1-0 - ワークスペース1-10に切り替える
+Mod+Shift+1-0 - コンテナをワークスペース1-10に移動する
+Mod+PgUp/PgDn - 前・次のワークスペースに切り替える
+
+Mod+Shift+C - 設定ファイルの最読み込み
+Mod+Shift+R - i3-wmの再起動
+Mod+Shift+E - i3-wmからログアウト
+

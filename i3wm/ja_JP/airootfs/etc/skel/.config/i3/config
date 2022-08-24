@@ -61,6 +61,12 @@ exec_always --no-startup-id fcitx5
 # Display Wallpaper, always.
 exec_always feh --bg-fill /usr/share/backgrounds/i3/simple_blue_widescreen.png
 
+# Launch Udiskie
+exec_always --no-startup-id udiskie
+
+# Open shortcuts list
+bindsym $mod+c exec --no-startup-id leafpad ~/.config/i3/shortcuts.list
+
 # Provide Gaps to Windows. Increase/Decrease as you like.
 gaps inner 10
 
@@ -268,7 +274,7 @@ for_window [class="firefox"] move to workspace $ws5
 # defined keybinding, on a certain workspace, without
 # touching program launcher. Assign Programs to respective
 # workspaces.
-bindsym $mod+b workspace 5; exec chromium
+bindsym $mod+b exec chromium
 
 #Multi Monitor (Dual Monitor, extended monitor)
 #Replace HDMI2 with DVI-2, VGA-2, DP-2, DVI-2 etc. Get value by typing xrandr in the terminal.

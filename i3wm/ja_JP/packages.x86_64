@@ -171,6 +171,9 @@ wget
 xscreensaver
 yay
 zip
+xarchiver
+gnome-power-manager
+udiskie
 
 # Printer & Scanner
 cups
