@@ -24,7 +24,7 @@ Mod+V - split in vertical orientation
 Mod+F - enter fullscreen mode for the focused window
 Mod+Space - Change focus between tiling / floating windows
 
-Mod+Shift+1-0 - Switch to workspace 1-10
+Mod+1-0 - Switch to workspace 1-10
 Mod+Shift+1-0 - Move container to workspace number 1-10
 Mod+PgUp/PgDn - Switch to  previous/next Workspace
 

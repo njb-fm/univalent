@@ -25,7 +25,7 @@ Mod+V - split in vertical orientation
 Mod+F - enter fullscreen mode for the focused window
 Mod+Space - Change focus between tiling / floating windows
 
-Mod+Shift+1-0 - Switch to workspace 1-10
+Mod+1-0 - Switch to workspace 1-10
 Mod+Shift+1-0 - Move container to workspace number 1-10
 Mod+PgUp/PgDn - Switch to  previous/next Workspace
 
@@ -57,11 +57,10 @@ Mod+V - 新規ウインドウの作成位置を縦方向にする
 Mod+F - アクティブなウインドウを全画面表示する
 Mod+Space - ウインドウの表示方法をタイルかフロートにするか切り替える
 
-Mod+Shift+1-0 - ワークスペース1-10に切り替える
+Mod+1-0 - ワークスペース1-10に切り替える
 Mod+Shift+1-0 - コンテナをワークスペース1-10に移動する
 Mod+PgUp/PgDn - 前・次のワークスペースに切り替える
 
 Mod+Shift+C - 設定ファイルの最読み込み
 Mod+Shift+R - i3-wmの再起動
 Mod+Shift+E - i3-wmからログアウト
-

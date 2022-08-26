@@ -140,11 +140,12 @@ shadeSortColumn=true
 widgetStyle=Breeze
 
 [Icons]
-Theme=Tela-circle-dark
+Theme=Papirus
 
 [KDE]
 ColorScheme=BreezeLight
 LookAndFeelPackage=com.github.vinceliuice.Qogir-dark
+SingleClick=false
 contrast=4
 widgetStyle=Breeze
 
