@@ -135,6 +135,7 @@ xf86-video-openchrome
 xf86-video-vmware
 
 #UVGL softwares
+ark
 aptpac
 archlinux-appstream-data-pamac
 base-devel

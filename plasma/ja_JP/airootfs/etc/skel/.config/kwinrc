@@ -31,4 +31,4 @@ LayoutName=org.kde.breeze.desktop
 ButtonsOnLeft=M
 ButtonsOnRight=IAX
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Qogir-dark-circle
+theme=kwin4_decoration_qml_plastik
