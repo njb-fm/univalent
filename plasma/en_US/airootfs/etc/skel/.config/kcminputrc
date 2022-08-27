@@ -3,4 +3,4 @@ update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize,kcminp
 
 [Mouse]
 X11LibInputXAccelProfileFlat=false
-cursorTheme=McMojave-cursors
+cursorTheme=Adwaita

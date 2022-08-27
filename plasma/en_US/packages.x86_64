@@ -109,7 +109,7 @@ sddm
 bash-completion
 networkmanager
 konsole
-dolphin
+thunar
 xdg-user-dirs
 spectacle
 packagekit-qt5

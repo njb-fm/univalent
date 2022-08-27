@@ -1,7 +1,5 @@
 [KFileDialog Settings]
-Recent Files[$e]=Desert-Plasma.tar.gz,file:$HOME/ダウンロード/Desert-Plasma.tar.gz
-Recent URLs[$e]=file:$HOME/ダウンロード/
-detailViewIconSize=16
+detailViewIconSize=22
 
 [MainWindow]
 HDMI-1 Height 1600x900=696
