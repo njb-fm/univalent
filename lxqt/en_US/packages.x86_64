@@ -3,6 +3,7 @@
 alsa-utils
 amd-ucode
 arch-install-scripts
+archlinux-keyring
 b43-fwcutter
 base
 bind-tools

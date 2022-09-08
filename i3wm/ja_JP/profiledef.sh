@@ -20,4 +20,6 @@ file_permissions=(
   ["/usr/local/bin/Installation_guide"]="0:0:755"
   ["/usr/local/bin/livecd-sound"]="0:0:755"
   ["/etc/skel/.config/polybar/launch.sh"]="0:0:755"
+  ["/etc/profile.d/packey-reset.sh"]="0:0:644"
+  ["/etc/profile.d/packey-reset.csh"]="0:0:644"
 )
