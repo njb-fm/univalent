@@ -114,7 +114,7 @@ networkmanager
 network-manager-applet
 mousepad
 gvfs
-neofetch
+unifetch
 xfce4-pulseaudio-plugin
 pulseaudio-alsa
 ristretto
