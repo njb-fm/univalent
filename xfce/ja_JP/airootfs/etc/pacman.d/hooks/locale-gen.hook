@@ -11,4 +11,4 @@ When = PostTransaction
 Depends = glibc
 Depends = sed
 Depends = sh
-Exec = /bin/sh -c "sed -i 's/#\(ja_JP\.UTF-8\)/\1/' /etc/locale.gen && locale-gen"
+Exec = /bin/sh -c "sed -i 's/#\(en_US\.UTF-8\)/\1/' /etc/locale.gen && locale-gen"

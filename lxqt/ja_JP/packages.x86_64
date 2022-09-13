@@ -144,11 +144,6 @@ claws-mail
 xfce4-clipman-plugin
 curl
 chaotic-mirrorlist
-fcitx5
-fcitx5-configtool
-fcitx5-gtk
-fcitx5-mozc
-fcitx5-qt
 git
 k3b
 kcalc
@@ -168,6 +163,13 @@ xscreensaver
 yay
 zip
 rhythmbox
+
+# JP Input
+fcitx5
+fcitx5-configtool
+fcitx5-gtk
+fcitx5-mozc
+fcitx5-qt
 
 # Printer & Scanner
 cups
