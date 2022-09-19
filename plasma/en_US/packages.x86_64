@@ -166,7 +166,7 @@ univalent-logo
 
 #Installer
 grub
-univalent/calamares
+calamares-fresh
 uvgl-calam-cfg
 os-prober
 
