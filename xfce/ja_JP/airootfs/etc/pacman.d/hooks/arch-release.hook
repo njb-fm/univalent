@@ -1,0 +1,10 @@
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Type = Package
+Target = filesystem
+
+[Action]
+Description = Generating arch-release file.
+When = PostTransaction
+Exec = /bin/sh -c "echo "Univalent GNU/Linux" >> /etc/arch-release"
