@@ -132,7 +132,7 @@ oxygen
 oxygen-sounds
 plasma-browser-integration
 plasma-desktop
-plasma-disks	
+plasma-disks
 plasma-firewall
 plasma-integration
 plasma-nm
@@ -145,8 +145,6 @@ plasma-workspace
 plasma-workspace-wallpapers
 polkit-kde-agent
 powerdevil
-pipewire-media-session
-phonon-qt5-gstreamer
 sddm-kcm
 systemsettings
 xdg-desktop-portal-kde
@@ -196,7 +194,6 @@ kcalc
 ksysguard
 libpamac-aur
 libreoffice-fresh
-libreoffice-fresh-ja
 pamac-aur
 papirus-icon-theme
 partitionmanager
