@@ -145,6 +145,8 @@ plasma-workspace
 plasma-workspace-wallpapers
 polkit-kde-agent
 powerdevil
+pipewire-media-session
+phonon-qt5-gstreamer
 sddm-kcm
 systemsettings
 xdg-desktop-portal-kde
