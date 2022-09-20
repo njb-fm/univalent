@@ -166,7 +166,7 @@ univalent-logo
 
 #Installer
 grub
-calamares-fresh
+calamares
 uvgl-calam-cfg
 os-prober
 
@@ -205,12 +205,6 @@ yay
 zip
 rhythmbox
 gwenview
-
-#Installer
-grub
-calamares
-uvgl-calam-cfg
-os-prober
 
 # Printer & Scanner
 cups
