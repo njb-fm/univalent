@@ -6,7 +6,7 @@ Type = Package
 Target = glibc
 
 [Action]
-Description = Uncommenting en_US.UTF-8 locale and running locale-gen...
+Description = Generating locales...
 When = PostTransaction
 Depends = glibc
 Depends = sed
