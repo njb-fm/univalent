@@ -26,7 +26,7 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;f" type="empty"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Escape" type="empty"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;Escape" type="empty"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;r" type="empty">
+      <property name="&lt;Primary&gt;&lt;Alt&gt;r" type="xfce4-appfinder -c">
         <property name="startup-notify" type="empty"/>
       </property>
     </property>
@@ -35,7 +35,6 @@
         <property name="startup-notify" type="bool" value="true"/>
       </property>
       <property name="&lt;Alt&gt;Print" type="string" value="xfce4-screenshooter -w"/>
-      <property name="&lt;Super&gt;r" type="string" value="xfce4-appfinder -c">
         <property name="startup-notify" type="bool" value="true"/>
       </property>
       <property name="XF86WWW" type="string" value="exo-open --launch WebBrowser"/>
