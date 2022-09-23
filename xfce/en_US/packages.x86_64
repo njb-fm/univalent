@@ -113,7 +113,7 @@ xdg-user-dirs
 bash-completion
 networkmanager
 network-manager-applet
-mousepad
+leafpad
 gvfs
 unifetch
 xfce4-pulseaudio-plugin
@@ -123,6 +123,12 @@ xfce4-screenshooter
 noto-fonts-cjk
 noto-fonts
 noto-fonts-emoji
+xfce4-battery-plugin
+xfce4-datetime-plugin
+xfce4-mount-plugin
+xfce4-notifyd
+xfce4-wavelan-plugin
+xfce4-taskmanager
 
 #Installer
 grub
