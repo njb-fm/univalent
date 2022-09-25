@@ -2,20 +2,22 @@
 alsa-utils
 amd-ucode
 arch-install-scripts
+archinstall
 b43-fwcutter
 base
-bind-tools
+bind
+brltty
 broadcom-wl
 btrfs-progs
 clonezilla
 cloud-init
-crda
 cryptsetup
 darkhttpd
 ddrescue
 dhclient
 dhcpcd
 diffutils
+dmidecode
 dmraid
 dnsmasq
 dosfstools
@@ -33,18 +35,29 @@ gpart
 gpm
 gptfdisk
 grml-zsh-config
+grub
 hdparm
+hyperv
 intel-ucode
+ipw2100-fw
+ipw2200-fw
 irssi
+iw
 iwd
 jfsutils
+kitty-terminfo
+less
 lftp
+libfido2
+libusb-compat
 linux
 linux-atm
 linux-firmware
+linux-firmware-marvell
 livecd-sounds
 lsscsi
 lvm2
+lynx
 man-db
 man-pages
 mc
@@ -55,6 +68,7 @@ mkinitcpio-archiso
 mkinitcpio-nfs-utils
 modemmanager
 mtools
+nano
 nbd
 ndisc6
 nfs-utils
@@ -62,18 +76,26 @@ nilfs-utils
 nmap
 ntfs-3g
 nvme-cli
+open-iscsi
+open-vm-tools
 openconnect
 openssh
 openvpn
 partclone
 parted
 partimage
+pcsclite
 ppp
 pptpclient
+pv
+qemu-guest-agent
+refind
 reflector
 reiserfsprogs
 rp-pppoe
 rsync
+rxvt-unicode-terminfo
+screen
 sdparm
 sg3_utils
 smartmontools
@@ -83,12 +105,16 @@ sudo
 syslinux
 systemd-resolvconf
 tcpdump
+terminus-font
 testdisk
+tmux
+tpm2-tss
 udftools
 usb_modeswitch
 usbmuxd
 usbutils
 vim
+virtualbox-guest-utils-nox
 vpnc
 wireless-regdb
 wireless_tools
@@ -99,8 +125,7 @@ xl2tpd
 zsh
 
 #Univalent GNU/Linux i3wm
-xorg-server
-xorg-xrandr
+xorg
 acpilight
 xdg-user-dirs
 bash-completion
@@ -112,7 +137,7 @@ lightdm-gtk-greeter
 i3-gaps
 lxterminal
 rofi
-unifetch
+neofetch
 feh
 picom
 lxappearance
@@ -134,7 +159,7 @@ betterlockscreen
 
 #Installer
 grub
-calamares
+calamares_current
 uvgl-calam-cfg
 os-prober
 
@@ -176,11 +201,7 @@ udiskie
 
 # Printer & Scanner
 cups
-ghostscript
-gsfonts
 cups-pdf
-poppler
-a2ps
 system-config-printer
 sane
-skanlite
+xsane

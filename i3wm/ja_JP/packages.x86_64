@@ -99,8 +99,7 @@ xl2tpd
 zsh
 
 #Univalent GNU/Linux i3wm
-xorg-server
-xorg-xrandr
+xorg
 acpilight
 xdg-user-dirs
 bash-completion
@@ -112,7 +111,7 @@ lightdm-gtk-greeter
 i3-gaps
 lxterminal
 rofi
-unifetch
+neofetch
 feh
 picom
 lxappearance
@@ -134,7 +133,7 @@ betterlockscreen
 
 #Installer
 grub
-calamares
+calamares_current
 uvgl-calam-cfg
 os-prober
 
@@ -174,16 +173,13 @@ xarchiver
 gnome-power-manager
 udiskie
 
+
 # Printer & Scanner
 cups
-ghostscript
-gsfonts
 cups-pdf
-poppler
-a2ps
 system-config-printer
 sane
-skanlite
+xsane
 
 #JP Input
 fcitx5

@@ -1,13 +1,10 @@
-#
 # SPDX-License-Identifier: GPL-3.0-or-later
 alsa-utils
 amd-ucode
 arch-install-scripts
-archlinux-keyring
 b43-fwcutter
 base
 bind-tools
-brltty
 broadcom-wl
 btrfs-progs
 clonezilla
@@ -58,7 +55,6 @@ mkinitcpio-archiso
 mkinitcpio-nfs-utils
 modemmanager
 mtools
-nano
 nbd
 ndisc6
 nfs-utils
@@ -92,6 +88,7 @@ udftools
 usb_modeswitch
 usbmuxd
 usbutils
+vim
 vpnc
 wireless-regdb
 wireless_tools
@@ -112,7 +109,7 @@ networkmanager
 network-manager-applet
 leafpad
 gvfs
-unifetch
+neofetch
 pavucontrol-qt
 pulseaudio-alsa
 noto-fonts-cjk
@@ -122,7 +119,7 @@ univalent-logo
 
 #Installer
 grub
-calamares
+calamares_current
 uvgl-calam-cfg
 os-prober
 
@@ -164,11 +161,7 @@ rhythmbox
 
 # Printer & Scanner
 cups
-ghostscript
-gsfonts
 cups-pdf
-poppler
-a2ps
 system-config-printer
 sane
 skanlite
