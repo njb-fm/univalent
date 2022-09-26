@@ -22,6 +22,4 @@ file_permissions=(
   ["/usr/bin/wine-installer"]="0:0:755"
   ["/etc/profile.d/packey-reset.sh"]="0:0:644"
   ["/etc/profile.d/packey-reset.csh"]="0:0:644"
-  ["/etc/profile.d/localeset.sh"]="0:0:644"
-  ["/etc/profile.d/localeset.csh"]="0:0:644"
 )
