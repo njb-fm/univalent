@@ -100,7 +100,7 @@ zsh
 
 #Univalent GNU/Linux LXQt
 lxqt
-xorg-server
+xorg
 lightdm
 lightdm-gtk-greeter
 xdg-user-dirs

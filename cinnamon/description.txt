@@ -1,0 +1,10 @@
+Channel Name : cinnamon
+
+This is a Cinnamon-powered edition of Mint's familiar desktop-environment.
+It looks the closest of MS-Win?
+
+デスクトップ環境にCinnamon(Mintでお馴染みのヤツ)を採用したエディションです。
+この中で一番MS-Winに近い見た目かな？
+
+= 日本語ロケールが正しく設定されない場合 =
+スタートメニューから「mintlocale」と検索→「Japanese, Japan」を選び直して「Apply...」で適用し再度ログイン
