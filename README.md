@@ -7,7 +7,7 @@ UniVaISO用のチャンネルです。テスト用チャンネルはこちら �
 ```bash
 git clone https://github.com/Jin-Asanami/univaiso-channels
 cd univaiso-channels
-sudo mkunivaiso -v <channel>/<locale>
+sudo mkarchiso -v <channel>/<locale>
 ```
 
 Choose from "lxqt", "xfce", "plasma", "i3wm", or "releng" for "channel", and "en_US" or "ja_JP" for "locale".
