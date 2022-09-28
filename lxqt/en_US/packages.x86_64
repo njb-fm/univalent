@@ -161,7 +161,11 @@ rhythmbox
 
 # Printer & Scanner
 cups
+ghostscript
+gsfonts
 cups-pdf
+poppler
+a2ps
 system-config-printer
 sane
 skanlite
