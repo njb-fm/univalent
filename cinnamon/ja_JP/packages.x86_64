@@ -106,7 +106,7 @@ xf86-input-libinput
 cinnamon
 cinnamon-translations
 xdg-user-dirs
-gnome terminal
+gnome-terminal
 gnome-screenshot
 bash-completion
 networkmanager
