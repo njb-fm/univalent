@@ -10,6 +10,6 @@ cd univaiso-channels
 sudo mkarchiso -v <channel>/<locale>
 ```
 
-Choose from "lxqt", "xfce", "plasma", "i3wm", "cinnamon", or "releng" for "channel", and "en_US" or "ja_JP" for "locale".
+Choose from "lxqt", "xfce", "plasma", "i3wm", "cinnamon", "kamuriki", or "releng" for "channel", and "en_US" or "ja_JP" for "locale".
 
-"channel"を「lxqt」「xfce」「plasma」「i3wm」「cinnamon」「releng」から、「locale」を「en_US」(アメリカ語)か「ja_JP」(日本語)からお選び下さい。relengは日本語に対応しておりません。
+"channel"を「lxqt」「xfce」「plasma」「i3wm」「cinnamon」「kamuriki」「releng」から、「locale」を「en_US」(アメリカ語)か「ja_JP」(日本語)からお選び下さい。relengは日本語に対応しておりません。
