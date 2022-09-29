@@ -9,7 +9,6 @@ git clone https://github.com/Jin-Asanami/univaiso-channels
 cd univaiso-channels
 sudo mkarchiso -v <channel>/<locale>
 ```
+For an overview of each channel, please read the "README" in each root directory.
 
-Choose from "lxqt", "xfce", "plasma", "i3wm", "cinnamon", "kamuriki", or "releng" for "channel", and "en_US" or "ja_JP" for "locale".
-
-"channel"を「lxqt」「xfce」「plasma」「i3wm」「cinnamon」「kamuriki」「releng」から、「locale」を「en_US」(アメリカ語)か「ja_JP」(日本語)からお選び下さい。relengは日本語に対応しておりません。
+チャンネル毎の概要については、それぞれのルートディレクトリに置いてある「README」をお読み下さい。
