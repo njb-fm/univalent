@@ -148,6 +148,7 @@ sddm
 bash-completion
 networkmanager
 konsole
+gvfs
 thunar
 xdg-user-dirs
 spectacle
