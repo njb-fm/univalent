@@ -137,7 +137,7 @@ lightdm-gtk-greeter
 i3-gaps
 lxterminal
 rofi
-neofetch
+unifetch
 feh
 picom
 lxappearance

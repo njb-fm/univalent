@@ -109,7 +109,7 @@ networkmanager
 network-manager-applet
 leafpad
 gvfs
-neofetch
+unifetch
 pavucontrol-qt
 pulseaudio-alsa
 noto-fonts-cjk
