@@ -111,6 +111,7 @@ lightdm-gtk-greeter
 i3-gaps
 lxterminal
 rofi
+gvfs
 unifetch
 feh
 picom
