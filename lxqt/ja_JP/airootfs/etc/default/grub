@@ -2,7 +2,7 @@
 
 GRUB_DEFAULT=0
 GRUB_TIMEOUT=5
-GRUB_DISTRIBUTOR="Arch"
+GRUB_DISTRIBUTOR="Univalent"
 GRUB_CMDLINE_LINUX_DEFAULT="loglevel=3 quiet audit=0"
 GRUB_CMDLINE_LINUX=""
 
@@ -43,7 +43,7 @@ GRUB_DISABLE_RECOVERY=true
 #GRUB_COLOR_HIGHLIGHT="light-cyan/black"
 
 # Uncomment one of them for the gfx desired, a image background or a gfxtheme
-#This background comes in the minimal and flagship editions
+#This background comes in the gnome flagship edition.
 #GRUB_BACKGROUND="/usr/share/wallpapers/real-wood/real-wood.jpg"
 #GRUB_THEME=
 
