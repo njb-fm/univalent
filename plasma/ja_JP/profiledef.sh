@@ -2,10 +2,10 @@
 # shellcheck disable=SC2034
 
 iso_name="uvgl-plasma-ja"
-iso_label="UVGL_PLASMA_JA_$(date +%y%m%d)_BETA3"
+iso_label="UVGL_PLASMA_JA_$(date +%y%m%d)_GAMMA1"
 iso_publisher="RadioNewJapan"
 iso_application="UVGL Installation Drive"
-iso_version="$(date +%y.%m.%d).b3"
+iso_version="$(date +%y.%m.%d).g1"
 install_dir="arch"
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
 arch="x86_64"
