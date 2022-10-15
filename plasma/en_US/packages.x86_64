@@ -148,10 +148,10 @@ bash-completion
 networkmanager
 konsole
 gvfs
-thunar
-xfce4-settings
+pcmanfm-qt
 xdg-user-dirs
 spectacle
+leafpad
 unifetch
 pavucontrol-qt
 pulseaudio-alsa
