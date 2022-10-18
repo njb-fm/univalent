@@ -120,8 +120,9 @@ noto-fonts
 noto-fonts-emoji
 polybar
 ttf-ubuntu-font-family
-thunar
+rox
 pavucontrol
+libcdio
 
 #icons & theme
 papirus-icon-theme
