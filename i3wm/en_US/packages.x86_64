@@ -2,8 +2,8 @@
 alsa-utils
 amd-ucode
 arch-install-scripts
-archinstall
 b43-fwcutter
+broadcom-wl
 base
 bind
 brltty
