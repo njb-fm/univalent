@@ -121,6 +121,7 @@ grub
 calamares
 uvgl-calam-cfg
 os-prober
+libcdio
 
 #Graphics Driver
 xf86-video-amdgpu
