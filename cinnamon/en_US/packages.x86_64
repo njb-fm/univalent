@@ -3,6 +3,7 @@ alsa-utils
 amd-ucode
 arch-install-scripts
 b43-fwcutter
+broadcom-wl
 base
 bind-tools
 btrfs-progs
