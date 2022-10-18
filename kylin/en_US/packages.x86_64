@@ -129,6 +129,7 @@ noto-fonts-cjk
 noto-fonts
 noto-fonts-emoji
 univalent-logo
+libcdio
 
 #Installer
 grub
