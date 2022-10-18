@@ -123,6 +123,7 @@ xfce4-mount-plugin
 xfce4-notifyd
 xfce4-wavelan-plugin
 xfce4-taskmanager
+libcdio
 
 #Installer
 grub
