@@ -146,7 +146,7 @@ noto-fonts
 noto-fonts-emoji
 polybar
 ttf-ubuntu-font-family
-rox
+thunar
 pulseaudio-alsa
 pavucontrol
 libcdio
@@ -156,6 +156,7 @@ ntp
 papirus-icon-theme
 arc-gtk-theme
 univalent-logo
+univalent-tools
 
 #lockscreen
 betterlockscreen

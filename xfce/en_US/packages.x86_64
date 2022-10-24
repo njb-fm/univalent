@@ -127,6 +127,8 @@ xfce4-wavelan-plugin
 xfce4-taskmanager
 libcdio
 ntp
+univalent-logo
+univalent-tools
 
 #Installer
 grub

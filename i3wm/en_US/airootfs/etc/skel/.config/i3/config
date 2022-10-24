@@ -1,6 +1,6 @@
 ################################################
 #                                              #
-#   UVGL i3Edition Configuration File.   #
+#   UVGL i3Edition Configuration File.        #
 #   Make a habit to read this file. You will   #
 #   find keybindings and various other         #
 #   settings here. Please see                  #
@@ -88,6 +88,9 @@ bindsym $mod+Mod1+s exec systemctl suspend
 
 # take a screenshot
 bindsym Print exec --no-startup-id screengrab
+
+# Exec univalent-tools with terminal emulator
+bindsym $mod+u exec i3-sensible-terminal -e univalent-tools
 
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.

@@ -121,11 +121,12 @@ noto-fonts
 noto-fonts-emoji
 polybar
 ttf-ubuntu-font-family
-rox
+thunar
 pulseaudio-alsa
 pavucontrol
 libcdio
 ntp
+univalent-tools
 
 #icons & theme
 papirus-icon-theme
