@@ -112,7 +112,8 @@ leafpad
 gvfs
 unifetch
 xfce4-pulseaudio-plugin
-pulseaudio-alsa
+pulseaudio
+pavucontrol
 ristretto
 xfce4-screenshooter
 noto-fonts-cjk

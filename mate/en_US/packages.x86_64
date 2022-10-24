@@ -134,6 +134,8 @@ noto-fonts
 noto-fonts-emoji
 univalent-logo
 libcdio
+pulseaudio
+pavucontrol
 
 #Installer
 grub
