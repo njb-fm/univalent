@@ -125,6 +125,7 @@ rox
 pulseaudio-alsa
 pavucontrol
 libcdio
+ntp
 
 #icons & theme
 papirus-icon-theme

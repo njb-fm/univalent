@@ -119,6 +119,7 @@ univalent-logo
 libcdio
 pulseaudio-alsa
 pavucontrol
+ntp
 
 #Installer
 grub
