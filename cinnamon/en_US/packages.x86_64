@@ -116,6 +116,8 @@ noto-fonts-cjk
 noto-fonts
 noto-fonts-emoji
 univalent-logo
+pulseaudio-alsa
+pavucontrol
 
 #Installer
 grub
