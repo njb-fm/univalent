@@ -7,7 +7,7 @@ Mod+C - Open this shortcut key list
 
 Mod+Return or Ctrl+Alt+T - exec terminal emulator
 Mod+Shift+Q or Alt+F4 - close focused window
-Mod+T - exec thunar
+Mod+T - exec pcmanfm
 Mod+U - exec univalent tools
 Mod+D - open rofi launcher
 Mod+X - lock screen
