@@ -2,7 +2,7 @@
 # shellcheck disable=SC2034
 
 iso_name="uvgl-plasma-en"
-iso_label="UVGL_PLASMA_EN_$(date +%y.%m)"
+iso_label="UVGL_PLASMA_EN_$(date +%y.%m).1"
 iso_publisher="RadioNewJapan"
 iso_application="UVGL Installation Drive"
 iso_version="$(date +%y.%m)"
