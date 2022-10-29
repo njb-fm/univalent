@@ -208,12 +208,9 @@ zip
 rhythmbox
 gwenview
 
-#Japanese Input
-fcitx5
-fcitx5-configtool
-fcitx5-gtk
-fcitx5-mozc
-fcitx5-qt
+# JP Input
+fcitx5-im
+fcitx5-anthy
 
 # Printer & Scanner
 cups

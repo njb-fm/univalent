@@ -154,11 +154,6 @@ gparted
 curl
 chaotic-mirrorlist
 claws-mail
-fcitx5
-fcitx5-configtool
-fcitx5-gtk
-fcitx5-mozc
-fcitx5-qt
 git
 galculator
 libpamac-aur
@@ -191,3 +186,7 @@ a2ps
 system-config-printer
 sane
 skanlite
+
+# JP Input
+fcitx5-im
+fcitx5-anthy
