@@ -207,6 +207,11 @@ yay
 zip
 rhythmbox
 gwenview
+libmtp
+mtpfs
+gphoto2
+gvfs-mtp
+gvfs-gphoto2
 
 # JP Input
 fcitx5-im

@@ -162,6 +162,11 @@ xscreensaver
 yay
 zip
 rhythmbox
+libmtp
+mtpfs
+gphoto2
+gvfs-mtp
+gvfs-gphoto2
 
 # Printer & Scanner
 cups

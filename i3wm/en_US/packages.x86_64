@@ -178,6 +178,11 @@ zip
 xarchiver
 gnome-power-manager
 udiskie
+libmtp
+mtpfs
+gphoto2
+gvfs-mtp
+gvfs-gphoto2
 
 # Printer & Scanner
 cups

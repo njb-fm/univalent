@@ -139,6 +139,11 @@ libcdio
 pulseaudio
 pavucontrol
 ntp
+libmtp
+mtpfs
+gphoto2
+gvfs-mtp
+gvfs-gphoto2
 
 #Installer
 grub

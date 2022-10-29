@@ -163,6 +163,11 @@ xscreensaver
 yay
 zip
 rhythmbox
+libmtp
+mtpfs
+gphoto2
+gvfs-mtp
+gvfs-gphoto2
 
 # JP Input
 fcitx5-im
