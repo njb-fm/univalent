@@ -4,7 +4,7 @@ Name=デフォルト
 # Layout
 Default Layout=jp-OADG109A
 # Default Input Method
-DefaultIM=anthy
+DefaultIM=mozc
 
 [Groups/0/Items/0]
 # Name

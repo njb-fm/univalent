@@ -174,7 +174,7 @@ gvfs-gphoto2
 
 # JP Input
 fcitx5-im
-fcitx5-anthy
+fcitx5-mozc
 
 # Printer & Scanner
 cups
