@@ -195,3 +195,8 @@ skanlite
 # JP Input
 fcitx5-im
 fcitx5-mozc
+
+#Anti-virus
+clamav
+clamtk
+cronie

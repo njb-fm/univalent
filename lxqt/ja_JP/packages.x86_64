@@ -183,3 +183,8 @@ a2ps
 system-config-printer
 sane
 skanlite
+
+#Anti-virus
+clamav
+clamtk
+cronie

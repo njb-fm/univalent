@@ -190,3 +190,8 @@ a2ps
 system-config-printer
 sane
 xsane
+
+#Anti-virus
+clamav
+clamtk
+cronie

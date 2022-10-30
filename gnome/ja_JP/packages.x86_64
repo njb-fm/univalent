@@ -196,3 +196,8 @@ xsane
 ibus
 ibus-typing-booster
 ibus-anthy
+
+#Anti-virus
+clamav
+clamtk
+cronie
