@@ -1,0 +1,12 @@
+[Default Applications]
+x-scheme-handler/http=chromium.desktop
+x-scheme-handler/https=chromium.desktop
+x-scheme-handler/mailto=claws-mail.desktop
+
+[Added Associations]
+x-scheme-handler/http=chromium.desktop
+x-scheme-handler/https=chromium.desktop
+x-scheme-handler/mailto=claws-mail.desktop
+image/jpeg=org.gnome.eog.desktop;
+image/png=org.gnome.eog.desktop;
+image/gif=org.gnome.eog.desktop;
