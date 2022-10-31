@@ -1,0 +1,11 @@
+# remove from airootfs!
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Type = Package
+Target = cups
+
+[Action]
+Description = Enabling CUPS daemon.
+When = PostTransaction
+Exec = /bin/sh -c "systemctl enable cups.service"
