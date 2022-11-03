@@ -192,10 +192,17 @@ system-config-printer
 sane
 xsane
 
+# GNOME Exts
+amber-theme-git
+gnome-shell-extension-dash-to-dock
+gnome-shell-extension-clipboard-indicator
+gnome-shell-extension-clipboard-history
+
 #JP Input
 ibus
 ibus-typing-booster
 ibus-anthy
+kasumi-git
 
 #Anti-virus
 clamav

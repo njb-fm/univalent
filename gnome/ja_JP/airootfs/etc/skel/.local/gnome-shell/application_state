@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Terminal.Preferences.desktop" score="0" last-seen="1667463720"/>
+    <application id="leafpad.desktop" score="0" last-seen="1667463652"/>
+    <application id="org.gnome.Nautilus.desktop" score="10" last-seen="1667463713"/>
+    <application id="org.gnome.Extensions.desktop" score="21" last-seen="1667463623"/>
+    <application id="org.gnome.tweaks.desktop" score="6" last-seen="1667463415"/>
+    <application id="org.gnome.Settings.desktop" score="23" last-seen="1667463574"/>
+    <application id="org.gnome.Terminal.desktop" score="21" last-seen="1667463720"/>
+    <application id="ibus-setup-anthy.desktop" score="5" last-seen="1667462864"/>
+  </context>
+</application-state>
