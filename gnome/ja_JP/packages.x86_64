@@ -202,8 +202,8 @@ gnome-shell-extension-clipboard-indicator
 #JP Input
 ibus
 ibus-typing-booster
-ibus-mozc
-mozc
+ibus-anthy
+kasumi-git
 
 #Anti-virus
 clamav
