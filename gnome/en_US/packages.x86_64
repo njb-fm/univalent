@@ -180,6 +180,7 @@ mtpfs
 gphoto2
 gvfs-mtp
 gvfs-gphoto2
+univalent-tools
 
 # Printer & Scanner
 cups
