@@ -120,6 +120,7 @@ gnome-settings-daemon
 gnome-shell
 gnome-terminal
 gnome-backgrounds
+gnome-system-monitor
 gnome-tweaks
 gvfs
 mutter

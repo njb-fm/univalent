@@ -119,6 +119,7 @@ gnome-session
 gnome-settings-daemon
 gnome-shell
 gnome-terminal
+gnome-system-monitor
 gnome-backgrounds
 gnome-tweaks
 gvfs
