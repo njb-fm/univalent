@@ -8,7 +8,8 @@ Mod+C - Open the shortcut key list
 
 Mod+Return or Ctrl+Alt+T - exec terminal emulator
 Mod+Shift+Q or Alt+F4 - close focused window
-Mod+T - exec thunar
+Mod+T - exec PCManFM
+Mod+U - exec Univalent Tools
 Mod+D - open rofi launcher
 Mod+X - lock screen
 Mod+Alt+S - suspend
@@ -40,7 +41,8 @@ Mod+C - ショートカットキー一覧を開く
 
 Mod+Return or Ctrl-Alt-T - 端末エミュレータの起動
 Mod+Shift+Q or Alt+F4 - アクティブなウインドウを閉じる
-Mod+T - Thunarの起動
+Mod+T - PCManFMの起動
+Mod+U - Univalent Toolsの起動
 Mod+D - ランチャー「rofi」の表示
 Mod+X - 画面のロック
 Mod+Alt+S - サスペンド
