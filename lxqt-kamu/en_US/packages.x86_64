@@ -143,7 +143,6 @@ chromium
 claws-mail
 xfce4-clipman-plugin
 curl
-chaotic-mirrorlist
 git
 k3b
 kcalc
@@ -207,3 +206,7 @@ lib32-gst-plugins-good
 clamav
 clamtk
 cronie
+
+# Chaotic AUR
+chaotic-keyring
+chaotic-mirrorlist

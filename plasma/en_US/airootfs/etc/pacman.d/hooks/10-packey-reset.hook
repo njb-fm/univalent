@@ -1,0 +1,14 @@
+# remove from airootfs!
+[Trigger]
+Operation = Install
+Type = Package
+Target = archlinux-keyring
+Target = chaotic-keyring
+
+[Action]
+Description = importing chaotic keyring...
+When = PostTransaction
+Depends = archlinux-keyring
+Depends = chaotic-keyring
+Depends = sh
+Exec = /bin/sh -c "pacman-key --init && pacman-key --populate archlinux chaotic"

@@ -162,7 +162,6 @@ chromium
 claws-mail
 xfce4-clipman-plugin
 curl
-chaotic-mirrorlist
 git
 brasero
 gnome-calculator
@@ -203,3 +202,7 @@ fcitx5-mozc
 clamav
 clamtk
 cronie
+
+# Chaotic AUR
+chaotic-keyring
+chaotic-mirrorlist

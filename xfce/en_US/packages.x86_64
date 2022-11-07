@@ -152,7 +152,6 @@ base-devel
 chromium
 claws-mail
 curl
-chaotic-mirrorlist
 git
 galculator
 libpamac-aur
@@ -188,7 +187,11 @@ system-config-printer
 sane
 skanlite
 
-#Anti-virus
+# Anti-virus
 clamav
 clamtk
 cronie
+
+# Chaotic AUR
+chaotic-keyring
+chaotic-mirrorlist

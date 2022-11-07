@@ -154,7 +154,6 @@ base-devel
 chromium
 gparted
 curl
-chaotic-mirrorlist
 claws-mail
 git
 galculator
@@ -199,7 +198,11 @@ amber-theme-git
 gnome-shell-extension-dash-to-dock
 gnome-shell-extension-clipboard-indicator
 
-#Anti-virus
+# Anti-virus
 clamav
 clamtk
 cronie
+
+# Chaotic AUR
+chaotic-keyring
+chaotic-mirrorlist

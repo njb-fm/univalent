@@ -159,7 +159,6 @@ chromium
 claws-mail
 xfce4-clipman-plugin
 curl
-chaotic-mirrorlist
 git
 brasero
 galculator
@@ -200,7 +199,11 @@ system-config-printer
 sane
 xsane
 
-#Anti-virus
+# Anti-virus
 clamav
 clamtk
 cronie
+
+# Chaotic AUR
+chaotic-keyring
+chaotic-mirrorlist
