@@ -161,8 +161,7 @@ libpamac-aur
 libreoffice-fresh
 libreoffice-fresh-ja
 pamac-aur
-yaru-icon-theme
-papirus-icon-theme
+oxygen-icons
 unzip
 vim
 vlc
@@ -198,6 +197,7 @@ xsane
 amber-theme-git
 gnome-shell-extension-dash-to-dock
 gnome-shell-extension-clipboard-indicator
+gnome-shell-extension-desktop-icons-ng
 
 # JP Input
 ibus
