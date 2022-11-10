@@ -109,6 +109,7 @@ lightdm
 xf86-input-libinput
 lightdm-gtk-greeter
 i3-gaps
+uvgl-skel-i3wm-en
 lxterminal
 rofi
 gvfs

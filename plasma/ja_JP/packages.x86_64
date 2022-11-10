@@ -145,6 +145,7 @@ sddm-kcm
 systemsettings
 xdg-desktop-portal-kde
 sddm
+uvgl-skel-plasma-ja
 bash-completion
 networkmanager
 konsole

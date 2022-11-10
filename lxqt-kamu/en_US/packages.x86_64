@@ -98,9 +98,10 @@ xfsprogs
 xl2tpd
 zsh
 
-#Univalent GNU/Linux LXQt
-lxqt
+#Univalent GNU/Linux LXQt Kamuriki
 xorg
+lxqt
+uvgl-skel-lxqt-kamu-ja
 lightdm
 lightdm-gtk-greeter
 xdg-user-dirs

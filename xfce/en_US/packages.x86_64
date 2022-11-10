@@ -99,9 +99,10 @@ xl2tpd
 zsh
 
 #Univalent GNU/Linux XFCE
-xfce4
 xorg
+xfce4
 xfce4-whiskermenu-plugin
+uvgl-skel-xfce-en
 lightdm
 lightdm-gtk-greeter
 xdg-user-dirs

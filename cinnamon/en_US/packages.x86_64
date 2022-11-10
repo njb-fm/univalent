@@ -105,7 +105,9 @@ lightdm-gtk-greeter
 xf86-input-libinput
 cinnamon
 cinnamon-translations
+uvgl-skel-cinnamon-en
 xdg-user-dirs
+gvfs
 gnome-terminal
 gnome-screenshot
 bash-completion

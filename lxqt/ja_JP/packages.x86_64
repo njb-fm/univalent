@@ -99,8 +99,9 @@ xl2tpd
 zsh
 
 #Univalent GNU/Linux LXQt
-lxqt
 xorg
+lxqt
+uvgl-skel-lxqt-ja
 lightdm
 lightdm-gtk-greeter
 xdg-user-dirs
