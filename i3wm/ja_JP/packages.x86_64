@@ -163,7 +163,8 @@ git
 xfburn
 galculator
 htop
-leafpad
+gedit
+gedit-plugins
 ristretto
 pamac-aur
 gparted

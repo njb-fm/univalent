@@ -112,7 +112,8 @@ gnome-terminal
 gnome-screenshot
 bash-completion
 networkmanager
-leafpad
+gedit
+gedit-plugins
 unifetch
 noto-fonts-cjk
 noto-fonts

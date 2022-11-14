@@ -154,7 +154,8 @@ pcmanfm-qt
 xdg-user-dirs
 spectacle
 unifetch
-leafpad
+gedit
+gedit-plugins
 pavucontrol
 pulseaudio-alsa
 noto-fonts-cjk

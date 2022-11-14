@@ -125,7 +125,8 @@ ukwm
 uvgl-skel-kylin-en
 xdg-user-dirs
 lxterminal
-leafpad
+gedit
+gedit-plugins
 unifetch
 noto-fonts-cjk
 noto-fonts

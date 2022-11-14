@@ -128,7 +128,8 @@ gnome-keyring
 bash-completion
 networkmanager
 network-manager-applet
-leafpad
+gedit
+gedit-plugins
 unifetch
 noto-fonts-cjk
 noto-fonts
