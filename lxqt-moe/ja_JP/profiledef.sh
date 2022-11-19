@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="uvgl-lxqt-ja"
-iso_label="UVGL_LXQT_JA_$(date +%y.%m)"
+iso_name="moevalent-ja"
+iso_label="MOEVALENT_JA_$(date +%y.%m)"
 iso_publisher="RadioNewJapan"
-iso_application="UVGL Installation Drive"
+iso_application="MVGL Installation Drive"
 iso_version="$(date +%y.%m)"
 install_dir="arch"
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
