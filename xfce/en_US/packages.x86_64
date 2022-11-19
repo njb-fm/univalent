@@ -109,8 +109,7 @@ xdg-user-dirs
 bash-completion
 networkmanager
 network-manager-applet
-gedit
-gedit-plugins
+l3afpad
 gvfs
 unifetch
 xfce4-pulseaudio-plugin
