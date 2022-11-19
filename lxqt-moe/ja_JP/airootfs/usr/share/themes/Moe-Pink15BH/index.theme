@@ -1,0 +1,10 @@
+[X-GNOME-Metatheme]
+Name=Moe-Pink15BH
+Type=X-GNOME-Metatheme
+Comment=Moebuntu theme that modified Ubuntu Yaru theme.
+Encoding=UTF-8
+GtkTheme=Moe-Pink15BH
+IconTheme=MoePinkIcons
+CursorTheme=Yaru, DMZ-White
+CursorSize=24
+ButtonLayout=close,minimize,maximize:

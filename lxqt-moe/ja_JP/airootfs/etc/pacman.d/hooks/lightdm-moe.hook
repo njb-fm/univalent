@@ -1,0 +1,11 @@
+# remove from airootfs!
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Type = Package
+Target = lightdm-gtk-greeter
+
+[Action]
+Description = Generating /etc/issue...
+When = PostTransaction
+Exec = /bin/sh -c "sed -i 's|#theme-name=|theme-name=Moe-Pink15BH|g' /etc/lightdm/lightdm-gtk-greeter.conf && sed -i 's|#font-name=|font-name=SetoFont|g' /etc/lightdm/lightdm-gtk-greeter.conf"
