@@ -98,7 +98,7 @@ xfsprogs
 xl2tpd
 zsh
 
-#Univalent GNU/Linux LXQt
+#Moevalent GNU/Linux
 xorg
 lxqt
 uvgl-skel-lxqt-moe-en
@@ -118,7 +118,11 @@ noto-fonts-cjk
 noto-fonts
 noto-fonts-emoji
 ipa-fonts
+moe-pink-gtk-theme
+moe-pink-icons
+moe-pink-lxqt-theme
 moevalent-logo
+univalent-logo
 univalent-tools
 libcdio
 ntp
@@ -126,7 +130,7 @@ ntp
 #Installer
 grub
 calamares
-uvgl-calam-cfg
+uvgl-moe-calam-cfg
 os-prober
 
 #Graphics Driver
