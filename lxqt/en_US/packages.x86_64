@@ -179,11 +179,6 @@ system-config-printer
 sane
 skanlite
 
-# Anti-virus
-clamav
-clamtk
-cronie
-
 # Chaotic AUR
 chaotic-keyring
 chaotic-mirrorlist

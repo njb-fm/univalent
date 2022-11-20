@@ -199,11 +199,6 @@ gnome-shell-extension-dash-to-dock
 gnome-shell-extension-clipboard-indicator
 gnome-shell-extension-desktop-icons-ng
 
-# Anti-virus
-clamav
-clamtk
-cronie
-
 # Chaotic AUR
 chaotic-keyring
 chaotic-mirrorlist

@@ -206,11 +206,6 @@ ibus-typing-booster
 ibus-anthy
 kasumi-git
 
-# Anti-virus
-clamav
-clamtk
-cronie
-
 # Chaotic AUR
 chaotic-keyring
 chaotic-mirrorlist

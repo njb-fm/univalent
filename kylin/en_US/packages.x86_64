@@ -196,11 +196,6 @@ system-config-printer
 sane
 xsane
 
-# Anti-virus
-clamav
-clamtk
-cronie
-
 # Chaotic AUR
 chaotic-keyring
 chaotic-mirrorlist

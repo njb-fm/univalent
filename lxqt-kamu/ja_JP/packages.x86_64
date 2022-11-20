@@ -208,11 +208,6 @@ gst-plugins-ugly
 lib32-gst-plugins-base
 lib32-gst-plugins-good
 
-# Anti-virus
-clamav
-clamtk
-cronie
-
 # Chaotic AUR
 chaotic-keyring
 chaotic-mirrorlist

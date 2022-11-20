@@ -196,11 +196,6 @@ skanlite
 fcitx5-im
 fcitx5-mozc
 
-# Anti-virus
-clamav
-clamtk
-cronie
-
 # Chaotic AUR
 chaotic-keyring
 chaotic-mirrorlist
