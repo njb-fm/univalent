@@ -8,4 +8,4 @@ Target = filesystem
 [Action]
 Description = Generating /etc/issue...
 When = PostTransaction
-Exec = /bin/sh -c "sed -i 's|Arch Linux|Univalent GNU/Linux|g' /etc/issue /usr/share/factory/etc/issue"
+Exec = /bin/sh -c "sed -i 's|Arch Linux|Moevalent GNU/Linux|g' /etc/issue /usr/share/factory/etc/issue"
