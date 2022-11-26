@@ -128,12 +128,13 @@ pulseaudio-alsa
 pavucontrol
 libcdio
 ntp
+univalent-tools
+w3m
 
 #icons & theme
 papirus-icon-theme
 arc-gtk-theme
 univalent-logo
-univalent-tools
 
 #lockscreen
 betterlockscreen
