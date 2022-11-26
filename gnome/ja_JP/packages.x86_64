@@ -203,8 +203,8 @@ gnome-shell-extension-desktop-icons-ng
 # JP Input
 ibus
 ibus-typing-booster
-ibus-anthy
-kasumi-git
+mozc
+ibus-mozc
 
 # Chaotic AUR
 chaotic-keyring
