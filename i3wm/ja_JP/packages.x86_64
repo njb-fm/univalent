@@ -110,7 +110,7 @@ xf86-input-libinput
 lightdm-gtk-greeter
 i3-gaps
 uvgl-skel-i3wm-ja
-lxterminal
+gnome-terminal
 rofi
 gvfs
 unifetch
