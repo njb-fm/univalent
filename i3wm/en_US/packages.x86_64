@@ -130,9 +130,11 @@ libcdio
 ntp
 univalent-tools
 w3m
+nitrogen
+dunst
 
 #icons & theme
-papirus-icon-theme
+oxygen-icons
 arc-gtk-theme
 univalent-logo
 
@@ -178,6 +180,7 @@ yay
 zip
 xarchiver
 gnome-power-manager
+cbatticon
 udiskie
 libmtp
 mtpfs
