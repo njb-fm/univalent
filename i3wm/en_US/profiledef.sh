@@ -2,10 +2,10 @@
 # shellcheck disable=SC2034
 
 iso_name="uvgl-i3wm-en"
-iso_label="UVGL_I3WM_EN_$(date +%y%m%d)_GAMMA1"
+iso_label="UVGL_I3WM_EN_$(date +%y.%m)"
 iso_publisher="RadioNewJapan"
 iso_application="UVGL Installaton Drive"
-iso_version="$(date +%y.%m.%d).g1"
+iso_version="$(date +%y.%m)"
 install_dir="arch"
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
 arch="x86_64"
