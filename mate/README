@@ -1,9 +1,9 @@
 Channel Name : mate
 
 This edition is using MATE for desktop-environment.
-The User-Interface isn't so Win-like depending on the mood. In addition, is it worth noting that standard theme is Unity7? 
-I really wanted to adopt GNOME...
+I didn't want to make this Win-style, but changed my mind and made this the style.
+Slightly more memory usage than LXQt or Xfce?
 
 デスクトップ環境にMATEを採用したエディションです。
-気分でWin風ではないんだな〜コレが。それと標準のテーマがUnity7なのも特筆するべき点かな？
-本当はGNOMEを採用したかったんだがね…。
+気分でWin風にしたくなかったが、気が変わってWin風にしました。
+LXQtやXfceよりメモリ使用量は若干多いかも？
