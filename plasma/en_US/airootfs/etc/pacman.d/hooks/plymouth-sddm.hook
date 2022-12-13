@@ -11,4 +11,4 @@ When = PostTransaction
 Depends = plymouth
 Depends = update-grub
 Depends = sddm
-Exec = /bin/sh -c "plymouth-set-default-theme -R uvgl-logo && systemctl enable sddm-plymouth.service"
+Exec = /bin/sh -c "systemctl enable sddm-plymouth && plymouth-set-default-theme -R uvgl-logo"
