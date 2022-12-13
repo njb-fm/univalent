@@ -125,6 +125,11 @@ moe-pink-lxqt-theme
 univalent-tools
 libcdio
 ntp
+update-grub
+
+# Boot Splash
+plymouth
+plymouth-theme-mvgl-logo
 
 #Installer
 grub

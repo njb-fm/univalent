@@ -141,6 +141,11 @@ libcdio
 pulseaudio
 pavucontrol
 ntp
+update-grub
+
+# Boot Splash
+plymouth
+plymouth-theme-uvgl-logo
 
 #Installer
 grub

@@ -100,7 +100,7 @@ zsh
 
 #UVGL GNOME
 xorg
-gdm
+gdm-plymouth
 bash-completion
 networkmanager
 eog
@@ -133,6 +133,12 @@ noto-fonts
 noto-fonts-emoji
 ipa-fonts
 univalent-logo
+update-grub
+
+# Boot Splash
+plymouth
+plymouth-theme-uvgl-logo
+
 
 #Installer
 grub
@@ -163,9 +169,6 @@ libreoffice-fresh
 pamac-aur
 oxygen-icons
 unzip
-vim
-vlc
-wget
 vim
 vlc
 wget

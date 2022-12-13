@@ -141,11 +141,11 @@ libcdio
 pulseaudio
 pavucontrol
 ntp
-libmtp
-mtpfs
-gphoto2
-gvfs-mtp
-gvfs-gphoto2
+update-grub
+
+# Boot Splash
+plymouth
+plymouth-theme-uvgl-logo
 
 #Installer
 grub
@@ -185,6 +185,11 @@ wget
 yay
 zip
 rhythmbox
+libmtp
+mtpfs
+gphoto2
+gvfs-mtp
+gvfs-gphoto2
 
 # Printer & Scanner
 cups

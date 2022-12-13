@@ -122,6 +122,11 @@ univalent-tools
 libcdio
 ntp
 windows8-cursor
+update-grub
+
+# Boot Splash
+plymouth
+plymouth-theme-uvgl-logo
 
 #Installer
 grub

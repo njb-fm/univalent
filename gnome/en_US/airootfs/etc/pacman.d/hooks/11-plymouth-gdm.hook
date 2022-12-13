@@ -1,0 +1,14 @@
+# remove from airootfs!
+[Trigger]
+Operation = Install
+Type = Package
+Target = plymouth
+Target = gdm-plymouth
+
+[Action]
+Description = Enabling plymouth...
+When = PostTransaction
+Depends = plymouth
+Depends = update-grub
+Depends = gdm-plymouth
+Exec = /bin/sh -c "plymouth-set-default-theme -R uvgl-logo && systemctl enable gdm-plymouth.service"

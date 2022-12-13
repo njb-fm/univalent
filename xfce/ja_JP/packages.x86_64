@@ -131,6 +131,11 @@ libcdio
 ntp
 univalent-logo
 univalent-tools
+update-grub
+
+# Boot Splash
+plymouth
+plymouth-theme-uvgl-logo
 
 #Installer
 grub

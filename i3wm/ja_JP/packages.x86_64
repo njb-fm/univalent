@@ -132,6 +132,11 @@ univalent-tools
 w3m
 nitrogen
 dunst
+update-grub
+
+# Boot Splash
+plymouth
+plymouth-theme-uvgl-logo
 
 #icons & theme
 oxygen-icons
