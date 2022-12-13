@@ -121,6 +121,7 @@ univalent-logo
 univalent-tools
 libcdio
 ntp
+add-pacman-repository
 update-grub
 
 # Boot Splash

@@ -124,6 +124,7 @@ libcdio
 pulseaudio-alsa
 pavucontrol
 ntp
+add-pacman-repository
 update-grub
 
 # Boot Splash

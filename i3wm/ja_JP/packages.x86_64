@@ -132,6 +132,7 @@ univalent-tools
 w3m
 nitrogen
 dunst
+add-pacman-repository
 update-grub
 
 # Boot Splash

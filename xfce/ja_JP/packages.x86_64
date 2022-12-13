@@ -132,6 +132,7 @@ ntp
 univalent-logo
 univalent-tools
 update-grub
+add-pacman-repository
 
 # Boot Splash
 plymouth

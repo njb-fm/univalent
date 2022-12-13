@@ -166,6 +166,7 @@ univalent-tools
 libcdio
 ntp
 update-grub
+add-pacman-repository
 
 # Boot Splash
 plymouth

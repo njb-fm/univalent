@@ -122,6 +122,7 @@ univalent-tools
 libcdio
 ntp
 windows8-cursor
+add-pacman-repository
 update-grub
 
 # Boot Splash
