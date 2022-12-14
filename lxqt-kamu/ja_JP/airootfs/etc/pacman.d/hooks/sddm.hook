@@ -7,5 +7,5 @@ Target = sddm
 [Action]
 Description = Enabling SDDM...
 When = PostTransaction
-Depends = lightdm
+Depends = sddm
 Exec = /bin/sh -c "systemctl enable sddm"

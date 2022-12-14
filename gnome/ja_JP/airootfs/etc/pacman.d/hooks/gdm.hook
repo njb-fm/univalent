@@ -7,5 +7,5 @@ Target = gdm
 [Action]
 Description = Enabling GDM...
 When = PostTransaction
-Depends = lightdm
+Depends = gdm
 Exec = /bin/sh -c "systemctl enable gdm"
