@@ -102,8 +102,7 @@ zsh
 xorg
 lxqt
 uvgl-skel-lxqt-kamu-ja
-lightdm
-lightdm-gtk-greeter
+sddm
 xdg-user-dirs
 bash-completion
 networkmanager
@@ -123,11 +122,6 @@ libcdio
 ntp
 windows8-cursor
 add-pacman-repository
-update-grub
-
-# Boot Splash
-plymouth
-plymouth-theme-uvgl-logo
 
 #Installer
 grub

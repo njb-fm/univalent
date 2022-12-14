@@ -100,7 +100,7 @@ zsh
 
 #UVGL GNOME
 xorg
-gdm-plymouth
+gdm
 bash-completion
 networkmanager
 eog
@@ -134,12 +134,6 @@ noto-fonts-emoji
 ipa-fonts
 univalent-logo
 add-pacman-repository
-update-grub
-
-# Boot Splash
-plymouth
-plymouth-theme-uvgl-logo
-
 
 #Installer
 grub

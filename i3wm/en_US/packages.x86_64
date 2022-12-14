@@ -133,12 +133,6 @@ w3m
 nitrogen
 dunst
 add-pacman-repository
-update-grub
-
-# Boot Splash
-plymouth
-plymouth-theme-uvgl-logo
-
 
 #icons & theme
 oxygen-icons

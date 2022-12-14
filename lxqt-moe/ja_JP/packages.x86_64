@@ -100,6 +100,8 @@ zsh
 
 #Moevalent GNU/Linux
 xorg
+lightdm
+lightdm-gtk-greeter
 lxqt
 uvgl-skel-lxqt-moe-ja
 lightdm
@@ -120,17 +122,13 @@ noto-fonts-emoji
 ipa-fonts
 moevalent-logo
 univalent-logo
-moe-pink-bh-gtk-theme
+moe-pink-gtk-theme
 moe-pink-lxqt-theme
+moe-pink-icons
 univalent-tools
 libcdio
 ntp
 add-pacman-repository
-update-grub
-
-# Boot Splash
-plymouth
-plymouth-theme-mvgl-logo
 
 #Installer
 grub
@@ -162,7 +160,7 @@ libpamac-aur
 libreoffice-fresh
 libreoffice-fresh-ja
 pamac-aur
-moe-pink-icons
+oxygen-icons
 partitionmanager
 screengrab
 unzip

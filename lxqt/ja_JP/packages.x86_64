@@ -102,8 +102,7 @@ zsh
 xorg
 lxqt
 uvgl-skel-lxqt-ja
-lightdm
-lightdm-gtk-greeter
+sddm
 xdg-user-dirs
 bash-completion
 networkmanager
@@ -122,11 +121,6 @@ univalent-tools
 libcdio
 ntp
 add-pacman-repository
-update-grub
-
-# Boot Splash
-plymouth
-plymouth-theme-uvgl-logo
 
 #Installer
 grub
