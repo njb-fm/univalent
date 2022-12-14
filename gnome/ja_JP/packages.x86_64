@@ -104,7 +104,7 @@ gdm
 bash-completion
 networkmanager
 eog
-l3afpad
+gnome-text-editor
 gnome-desktop
 gnome-clocks
 gnome-calendar

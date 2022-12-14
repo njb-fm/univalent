@@ -110,7 +110,7 @@ xdg-user-dirs
 bash-completion
 networkmanager
 network-manager-applet
-l3afpad
+gnome-text-editor
 gvfs
 unifetch
 pavucontrol
