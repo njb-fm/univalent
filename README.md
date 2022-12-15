@@ -6,7 +6,7 @@ UniVaISO用のチャンネルです。テスト用チャンネルはこちら �
 ## Preparation 準備
 ※The host OS must be Arch or descended in a direct from from it. 親OSはArchかArch直系である必要があります。
 
-1. Install archiso. Archisoを導入する。
+1. Install Archiso. Archisoを導入する。
 ```bash
 sudo pacman -S archiso
 ```
@@ -16,7 +16,7 @@ sudo pacman -S archiso
 sudo pacman-key --recv-key 048E45A1EC694BCE --keyserver keyserver.ubuntu.com
 sudo pacman-key --lsign-key 048E45A1EC694BCE
 sudo pacman -U 'https://osdn.net/projects/univalentgnulinux/storage/repo/univalent-signed/univalent-keyring-20221215-1-any.pkg.tar.zst' 'https://osdn.net/projects/univalentgnulinux/storage/repo/univalent-signed/univalent-mirrorlist-20221215-1-any.pkg.tar.zst'
-echo -e "[univalent-signed]\nInclude = /etc/pacman.d/univalent-mirrorlist]" | sudo tee -a /etc/pacman.conf
+echo -e "[univalent-stable]\nInclude = /etc/pacman.d/univalent-mirrorlist]" | sudo tee -a /etc/pacman.conf
 ```
 
 3. Activate "Chaotic AUR" Chaotic AURを有効化する。
