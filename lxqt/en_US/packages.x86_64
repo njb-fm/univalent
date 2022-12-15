@@ -99,6 +99,8 @@ xl2tpd
 zsh
 
 #Univalent GNU/Linux LXQt
+univalent-keyring
+univalent-mirrorlist
 xorg
 lxqt
 uvgl-skel-lxqt-en

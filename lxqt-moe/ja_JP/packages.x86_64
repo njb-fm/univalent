@@ -99,6 +99,8 @@ xl2tpd
 zsh
 
 #Moevalent GNU/Linux
+univalent-keyring
+univalent-mirrorlist
 xorg
 lightdm
 lightdm-gtk-greeter

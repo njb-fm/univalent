@@ -99,6 +99,8 @@ xl2tpd
 zsh
 
 #Univalent GNU/Linux i3wm
+univalent-keyring
+univalent-mirrorlist
 xorg
 acpilight
 xdg-user-dirs

@@ -99,6 +99,8 @@ xl2tpd
 zsh
 
 #Univalent GNU/Linux Plasma
+univalent-keyring
+univalent-mirrorlist
 xorg
 breeze
 breeze-gtk

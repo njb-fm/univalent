@@ -99,6 +99,8 @@ xl2tpd
 zsh
 
 #UVGL GNOME
+univalent-keyring
+univalent-mirrorlist
 xorg
 gdm
 bash-completion

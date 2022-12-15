@@ -99,6 +99,8 @@ xl2tpd
 zsh
 
 #Univalent Cinnamon
+univalent-keyring
+univalent-mirrorlist
 xorg
 lightdm
 lightdm-gtk-greeter

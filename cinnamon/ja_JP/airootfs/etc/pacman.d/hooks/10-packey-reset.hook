@@ -11,4 +11,4 @@ When = PostTransaction
 Depends = archlinux-keyring
 Depends = chaotic-keyring
 Depends = sh
-Exec = /bin/sh -c "pacman-key --init && pacman-key --populate archlinux chaotic"
+Exec = /bin/sh -c "pacman-key --init && pacman-key --populate archlinux chaotic univalent"

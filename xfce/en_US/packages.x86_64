@@ -99,6 +99,8 @@ xl2tpd
 zsh
 
 #Univalent GNU/Linux XFCE
+univalent-keyring
+univalent-mirrorlist
 xorg
 xfce4
 xfce4-whiskermenu-plugin
