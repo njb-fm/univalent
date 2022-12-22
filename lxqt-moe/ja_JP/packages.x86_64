@@ -3,7 +3,7 @@ alsa-utils
 amd-ucode
 arch-install-scripts
 b43-fwcutter
-broadcom-wl
+broadcom-wl-dkms
 base
 bind-tools
 btrfs-progs
@@ -39,7 +39,8 @@ irssi
 iwd
 jfsutils
 lftp
-linux
+linux-lts
+linux-lts-headers
 linux-atm
 linux-firmware
 livecd-sounds
