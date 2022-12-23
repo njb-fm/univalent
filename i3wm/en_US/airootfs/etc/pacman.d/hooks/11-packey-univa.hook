@@ -1,0 +1,12 @@
+# remove from airootfs!
+[Trigger]
+Operation = Install
+Type = Package
+Target = univalent-keyring
+
+[Action]
+Description = importing chaotic keyring...
+When = PostTransaction
+Depends = univalent-keyring
+Depends = sh
+Exec = /bin/sh -c "pacman-key --lsign-key 048E45A1EC694BCE"
