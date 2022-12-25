@@ -1,0 +1,13 @@
+# remove from airootfs!
+[Trigger]
+Operation = Install
+Type = Package
+Target = lightdm-ubuntu
+
+[Action]
+Description = Enabling LightDM...
+When = PostTransaction
+Depends = lightdm-ubuntu
+Depends = systemd
+Depends = sh
+Exec = /bin/sh -c "systemctl enable --now lightdm"
