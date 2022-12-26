@@ -113,7 +113,7 @@ network-manager-applet
 gnome-text-editor
 gvfs
 unifetch
-pavucontrol
+pavucontrol-qt
 pulseaudio-alsa
 noto-fonts-cjk
 noto-fonts
