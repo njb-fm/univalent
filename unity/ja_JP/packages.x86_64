@@ -141,6 +141,7 @@ aptpac
 archlinux-appstream-data-pamac
 base-devel
 firefox
+firefox-i18n-ja
 claws-mail
 curl
 git
