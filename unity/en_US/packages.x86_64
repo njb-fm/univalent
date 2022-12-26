@@ -125,7 +125,7 @@ xf86-input-synaptics
 #Installer
 grub
 calamares
-uvgl-calam-cfg
+uvgl-unity-calam-cfg
 os-prober
 
 #Graphics Driver
