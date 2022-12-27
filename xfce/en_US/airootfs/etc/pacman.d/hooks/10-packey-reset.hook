@@ -13,4 +13,4 @@ Depends = archlinux-keyring
 Depends = chaotic-keyring
 Depends = univalent-keyring
 Depends = sh
-Exec = /bin/sh -c "pacman-key --init && pacman-key --populate archlinux chaotic univalent"
+Exec = /bin/sh -c "pacman-key --lsign-key 048E45A1EC694BCE && pacman-key --init && pacman-key --populate archlinux chaotic univalent"
