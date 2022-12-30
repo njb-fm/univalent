@@ -121,6 +121,7 @@ pulseaudio-alsa
 pavucontrol
 ntp
 xf86-input-synaptics
+activity-log-manager
 
 #Installer
 grub
