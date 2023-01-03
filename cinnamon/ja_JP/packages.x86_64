@@ -110,6 +110,11 @@ cinnamon-translations
 uvgl-skel-cinnamon-ja
 xdg-user-dirs
 gvfs
+libmtp
+mtpfs
+gphoto2
+gvfs-mtp
+gvfs-gphoto2
 gnome-terminal
 gnome-screenshot
 bash-completion
@@ -170,11 +175,7 @@ zip
 rhythmbox
 ristretto
 xarchiver
-libmtp
-mtpfs
-gphoto2
-gvfs-mtp
-gvfs-gphoto2
+evince
 
 # JP Input
 fcitx5-im

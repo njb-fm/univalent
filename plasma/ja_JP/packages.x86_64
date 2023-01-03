@@ -152,6 +152,11 @@ bash-completion
 networkmanager
 konsole
 gvfs
+libmtp
+mtpfs
+gphoto2
+gvfs-mtp
+gvfs-gphoto2
 pcmanfm-qt
 xdg-user-dirs
 spectacle
@@ -209,11 +214,7 @@ yay
 zip
 rhythmbox
 gwenview
-libmtp
-mtpfs
-gphoto2
-gvfs-mtp
-gvfs-gphoto2
+okular
 
 # JP Input
 fcitx5-im

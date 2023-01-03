@@ -115,6 +115,11 @@ uvgl-skel-i3wm-en
 xfce4-terminal
 rofi
 gvfs
+libmtp
+mtpfs
+gphoto2
+gvfs-mtp
+gvfs-gphoto2
 unifetch
 feh
 picom
@@ -183,11 +188,7 @@ gnome-power-manager
 cbatticon
 volumeicon
 udiskie
-libmtp
-mtpfs
-gphoto2
-gvfs-mtp
-gvfs-gphoto2
+atril
 
 # Printer & Scanner
 cups

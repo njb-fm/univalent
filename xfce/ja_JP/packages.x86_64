@@ -113,6 +113,11 @@ networkmanager
 network-manager-applet
 l3afpad-budlabs
 gvfs
+libmtp
+mtpfs
+gphoto2
+gvfs-mtp
+gvfs-gphoto2
 unifetch
 xfce4-pulseaudio-plugin
 pulseaudio
@@ -178,11 +183,7 @@ xfburn
 yay
 zip
 rhythmbox
-libmtp
-mtpfs
-gphoto2
-gvfs-mtp
-gvfs-gphoto2
+atril
 
 # Printer & Scanner
 cups

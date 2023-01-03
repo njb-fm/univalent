@@ -115,6 +115,11 @@ networkmanager
 network-manager-applet
 l3afpad-budlabs
 gvfs
+libmtp
+mtpfs
+gphoto2
+gvfs-mtp
+gvfs-gphoto2
 unifetch
 pavucontrol
 pulseaudio-alsa
@@ -173,11 +178,7 @@ xscreensaver
 yay
 zip
 rhythmbox
-libmtp
-mtpfs
-gphoto2
-gvfs-mtp
-gvfs-gphoto2
+okular
 
 # JP Input
 fcitx5-im

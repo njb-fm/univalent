@@ -109,6 +109,11 @@ libdbusmenu-gtk3-ubuntu
 uvgl-skel-unity-en
 xdg-user-dirs
 l3afpad-budlabs
+libmtp
+mtpfs
+gphoto2
+gvfs-mtp
+gvfs-gphoto2
 unifetch
 noto-fonts-cjk
 noto-fonts
@@ -164,11 +169,7 @@ rhythmbox
 eom
 gnome-screenshot
 engrampa
-libmtp
-mtpfs
-gphoto2
-gvfs-mtp
-gvfs-gphoto2
+atril
 
 # Printer & Scanner
 cups

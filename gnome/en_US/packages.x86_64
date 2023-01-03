@@ -126,6 +126,11 @@ gnome-backgrounds
 gnome-tweaks
 uvgl-skel-gnome-en
 gvfs
+libmtp
+mtpfs
+gphoto2
+gvfs-mtp
+gvfs-gphoto2
 mutter
 nautilus
 xdg-user-dirs-gtk
@@ -135,6 +140,7 @@ noto-fonts
 noto-fonts-emoji
 ipa-fonts
 univalent-logo
+univalent-tools
 add-pacman-repository
 
 #Installer
@@ -174,13 +180,7 @@ brasero
 yay
 zip
 rhythmbox
-xscreensaver
-libmtp
-mtpfs
-gphoto2
-gvfs-mtp
-gvfs-gphoto2
-univalent-tools
+evince
 
 # Printer & Scanner
 cups
