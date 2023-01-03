@@ -2,7 +2,7 @@
 # shellcheck disable=SC2034
 
 iso_name="uvgl-unity-en"
-iso_label="UVGL_UNITY_EN_$(date_+%y.%m)"
+iso_label="UVGL_UNITY_EN_$(date +%y.%m)"
 iso_publisher="RadioNewJapan"
 iso_application="UVGL Installation Drive"
 iso_version="$(date +%y.%m)"

@@ -159,7 +159,7 @@ xf86-video-vmware
 aptpac
 archlinux-appstream-data-pamac
 base-devel
-chromium
+floorp
 xfce4-clipman-plugin
 curl
 git

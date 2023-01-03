@@ -141,7 +141,7 @@ xf86-video-vmware
 aptpac
 archlinux-appstream-data-pamac
 base-devel
-firefox
+floorp
 claws-mail
 curl
 git

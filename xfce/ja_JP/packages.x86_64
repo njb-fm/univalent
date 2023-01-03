@@ -153,7 +153,7 @@ xf86-video-vmware
 aptpac
 archlinux-appstream-data-pamac
 base-devel
-chromium
+floorp
 gparted
 curl
 claws-mail
