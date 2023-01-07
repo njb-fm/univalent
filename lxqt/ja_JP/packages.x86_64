@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
+# Core Packages
 alsa-utils
 amd-ucode
 arch-install-scripts
@@ -103,14 +104,14 @@ univalent-keyring
 univalent-mirrorlist
 xorg
 lxqt
-uvgl-skel-lxqt-ja
+uvgl-skel-lxqt-en
 lightdm
 lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
 xdg-user-dirs
 bash-completion
 networkmanager
 network-manager-applet
-l3afpad-budlabs
 gvfs
 libmtp
 mtpfs
@@ -120,16 +121,17 @@ gvfs-gphoto2
 unifetch
 pavucontrol-qt
 pulseaudio-alsa
+univalent-logo
+libcdio
+ntp
+oxygen-icons
+
+# Fonts
 noto-fonts-cjk
 noto-fonts
 noto-fonts-emoji
 ipa-fonts
 ttf-ubuntu-font-family
-univalent-logo
-univalent-tools
-libcdio
-ntp
-add-pacman-repository
 
 #Installer
 grub
@@ -145,36 +147,49 @@ xf86-video-nouveau
 xf86-video-openchrome
 xf86-video-vmware
 
-#UVGL softwares
-aptpac
+# Accessories
+l3afpad-budlabs
+qlipper
+kcalc
+vim
+
+# Graphics
+gimp
+screengrab
+
+# System Tools
 archlinux-appstream-data-pamac
+libpamac-aur
+pamac-aur
 base-devel
-floorp
-claws-mail
-xfce4-clipman-plugin
+aptpac
+univalent-tools
+add-pacman-repository
 curl
 git
-k3b
-kcalc
 ksysguard
-libpamac-aur
-libreoffice-fresh
-libreoffice-fresh-ja
-pamac-aur
-oxygen-icons
 partitionmanager
-screengrab
-unzip
-vim
-vlc
-wget
 xscreensaver
 yay
 zip
+unzip
+wget
+
+# Multimedia
+k3b
+vlc
 rhythmbox
+
+# Internet
+floorp
+claws-mail
+
+# Office
+libreoffice-fresh
+libreoffice-fresh-ja
 okular
 
-# JP Input
+# JPN Input
 fcitx5-im
 fcitx5-mozc
 
