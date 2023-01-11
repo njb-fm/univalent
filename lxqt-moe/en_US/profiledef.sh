@@ -2,10 +2,10 @@
 # shellcheck disable=SC2034
 
 iso_name="moevalent-en"
-iso_label="MOEVALENT_EN_22.12"
+iso_label="MOEVALENT_EN_22.12.1"
 iso_publisher="RadioNewJapan"
 iso_application="MVGL Installation Drive"
-iso_version="22.12"
+iso_version="22.12.1"
 install_dir="arch"
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
 arch="x86_64"
