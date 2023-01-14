@@ -104,7 +104,7 @@ univalent-keyring
 univalent-mirrorlist
 xorg
 lxqt
-uvgl-skel-lxqt-en
+uvgl-skel-lxqt-ja
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
@@ -154,7 +154,6 @@ kcalc
 vim
 
 # Graphics
-gimp
 screengrab
 
 # System Tools
