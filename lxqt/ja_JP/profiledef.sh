@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="uvgl-lxqt-ja"
-iso_label="UVGL_LXQT_JA_$(date +%y.%m)"
+iso_name="univalent-ja"
+iso_label="UNIVALENT_JA_$(date +%y.%m)"
 iso_publisher="RadioNewJapan"
 iso_application="UVGL Installation Drive"
 iso_version="$(date +%y.%m)"

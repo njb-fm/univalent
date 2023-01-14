@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="uvgl-xfce-en"
-iso_label="UVGL_XFCE_EN_$(date +%y.%m)"
+iso_name="xunivalent-en"
+iso_label="XUNIVALENT_EN_$(date +%y.%m)"
 iso_publisher="RadioNewJapan"
 iso_application="UVGL Installation Drive"
 iso_version="$(date +%y.%m)"

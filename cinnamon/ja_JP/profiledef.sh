@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="uvgl-cinnamon-ja"
-iso_label="UVGL_CINNAMON_JA_$(date +%y.%m)"
+iso_name="cunivalent-ja"
+iso_label="CUNIVALENT_JA_$(date +%y.%m)"
 iso_publisher="RadioNewJapan"
 iso_application="UVGL Installation Drive"
 iso_version="$(date +%y.%m)"

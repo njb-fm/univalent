@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="uvgl-i3wm-en"
-iso_label="UVGL_I3WM_EN_$(date +%y.%m)"
+iso_name="uni3valent-en"
+iso_label="UNI3VALENT_EN_$(date +%y.%m)"
 iso_publisher="RadioNewJapan"
 iso_application="UVGL Installaton Drive"
 iso_version="$(date +%y.%m)"

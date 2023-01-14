@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="uvgl-mate-ja"
-iso_label="UVGL_MATE_JA_$(date +%y.%m)"
+iso_name="munivalent-ja"
+iso_label="MUNIVALENT_JA_$(date +%y.%m)"
 iso_publisher="RadioNewJapan"
 iso_application="UVGL Installation Drive"
 iso_version="$(date +%y.%m)"

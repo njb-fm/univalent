@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="uvgl-plasma-ja"
-iso_label="UVGL_PLASMA_JA_$(date +%y.%m)"
+iso_name="punivalent-ja"
+iso_label="PUNIVALENT_JA_$(date +%y.%m)"
 iso_publisher="RadioNewJapan"
 iso_application="UVGL Installation Drive"
 iso_version="$(date +%y.%m)"
