@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
+# Core Packages
 alsa-utils
 amd-ucode
 arch-install-scripts
@@ -107,11 +108,11 @@ xfce4-whiskermenu-plugin
 uvgl-skel-xfce-ja
 lightdm
 lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
 xdg-user-dirs
 bash-completion
 networkmanager
 network-manager-applet
-l3afpad
 gvfs
 libmtp
 mtpfs
@@ -124,10 +125,6 @@ pulseaudio
 pavucontrol
 ristretto
 xfce4-screenshooter
-noto-fonts-cjk
-noto-fonts
-noto-fonts-emoji
-ipa-fonts
 xfce4-battery-plugin
 xfce4-datetime-plugin
 xfce4-mount-plugin
@@ -139,6 +136,13 @@ ntp
 univalent-logo
 univalent-tools
 add-pacman-repository
+
+# Fonts
+noto-fonts-cjk
+noto-fonts
+noto-fonts-emoji
+ipa-fonts
+ttf-ubuntu-font-family
 
 #Installer
 grub
@@ -160,6 +164,7 @@ archlinux-appstream-data-pamac
 base-devel
 floorp
 gparted
+l3afpad
 curl
 claws-mail
 git

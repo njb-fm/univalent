@@ -104,6 +104,7 @@ univalent-mirrorlist
 xorg
 lightdm
 lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
 xf86-input-libinput
 mate
 uvgl-skel-mate-ja

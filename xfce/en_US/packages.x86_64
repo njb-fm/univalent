@@ -107,6 +107,7 @@ xfce4-whiskermenu-plugin
 uvgl-skel-xfce-en
 lightdm
 lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
 xdg-user-dirs
 bash-completion
 networkmanager

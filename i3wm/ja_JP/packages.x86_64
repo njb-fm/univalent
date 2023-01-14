@@ -110,7 +110,8 @@ network-manager-applet
 lightdm
 xf86-input-libinput
 lightdm-gtk-greeter
-i3-gaps
+lightdm-gtk-greeter-settings
+i3-wm
 uvgl-skel-i3wm-ja
 xfce4-terminal
 rofi
