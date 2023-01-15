@@ -102,7 +102,7 @@ zsh
 univalent-keyring
 univalent-mirrorlist
 xorg
-gdm
+gdm-plymouth
 bash-completion
 networkmanager
 eog

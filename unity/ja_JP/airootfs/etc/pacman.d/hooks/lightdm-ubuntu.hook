@@ -10,4 +10,4 @@ When = PostTransaction
 Depends = lightdm-ubuntu
 Depends = systemd
 Depends = sh
-Exec = /bin/sh -c "systemctl enable --now lightdm"
+Exec = /bin/sh -c "systemctl enable --now lightdm-plymouth"

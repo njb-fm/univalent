@@ -8,4 +8,4 @@ Target = sddm
 Description = Enabling SDDM...
 When = PostTransaction
 Depends = sddm
-Exec = /bin/sh -c "systemctl enable sddm"
+Exec = /bin/sh -c "systemctl enable sddm-plymouth"
