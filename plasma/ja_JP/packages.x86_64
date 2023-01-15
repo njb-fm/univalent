@@ -234,3 +234,7 @@ skanlite
 # Chaotic AUR
 chaotic-keyring
 chaotic-mirrorlist
+
+# Plymouth
+plymouth
+plymouth-theme-uvgl-logo
