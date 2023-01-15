@@ -136,7 +136,7 @@ ttf-ubuntu-font-family
 #Installer
 grub
 calamares
-uvgl-calam-cfg
+calamares-settings-univalent
 os-prober
 
 #Graphics Driver
