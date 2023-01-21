@@ -4,7 +4,7 @@ alsa-utils
 amd-ucode
 arch-install-scripts
 b43-fwcutter
-broadcom-wl
+broadcom-wl-dkms
 base
 bind-tools
 btrfs-progs
@@ -17,6 +17,7 @@ ddrescue
 dhclient
 dhcpcd
 diffutils
+dkms
 dmraid
 dnsmasq
 dosfstools
@@ -40,8 +41,8 @@ irssi
 iwd
 jfsutils
 lftp
-linux
-linux-atm
+linux-lts
+linux-lts-headers
 linux-firmware
 livecd-sounds
 lsscsi
@@ -104,7 +105,7 @@ univalent-keyring
 univalent-mirrorlist
 xorg
 lxqt
-uvgl-skel-lxqt-moe-ja
+uvgl-skel-lxqt-moe-en
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
@@ -188,7 +189,6 @@ claws-mail
 
 # Office
 libreoffice-fresh
-libreoffice-fresh-ja
 okular
 
 # JPN Input
@@ -209,6 +209,10 @@ skanlite
 # Chaotic AUR
 chaotic-keyring
 chaotic-mirrorlist
+
+# Plymouth
+plymouth
+plymouth-theme-mvgl-logo
 
 # Plymouth
 plymouth

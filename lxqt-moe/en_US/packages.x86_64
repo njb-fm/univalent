@@ -4,7 +4,7 @@ alsa-utils
 amd-ucode
 arch-install-scripts
 b43-fwcutter
-broadcom-wl
+broadcom-wl-dkms
 base
 bind-tools
 btrfs-progs
@@ -17,6 +17,7 @@ ddrescue
 dhclient
 dhcpcd
 diffutils
+dkms
 dmraid
 dnsmasq
 dosfstools
@@ -40,8 +41,8 @@ irssi
 iwd
 jfsutils
 lftp
-linux
-linux-atm
+linux-lts
+linux-lts-headers
 linux-firmware
 livecd-sounds
 lsscsi
@@ -207,7 +208,7 @@ chaotic-mirrorlist
 
 # Plymouth
 plymouth
-plymouth-theme-uvgl-logo
+plymouth-theme-mvgl-logo
 
 # Plymouth
 plymouth
