@@ -150,6 +150,7 @@ grub
 calamares
 calamares-settings-xunivalent
 os-prober
+univalive
 
 #Graphics Driver
 xf86-video-amdgpu
