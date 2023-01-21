@@ -129,6 +129,7 @@ libcdio
 ntp
 
 # Fonts
+ttf-seto
 noto-fonts-cjk
 noto-fonts
 noto-fonts-emoji
