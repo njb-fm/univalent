@@ -122,7 +122,10 @@ ipa-fonts
 univalent-logo
 univalent-tools
 libcdio
-pulseaudio-alsa
+pipewire
+pipewire-media-session
+pipewire-alsa
+pipewire-pulse
 pavucontrol
 ntp
 xf86-input-synaptics

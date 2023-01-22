@@ -121,7 +121,10 @@ gvfs-mtp
 gvfs-gphoto2
 unifetch
 xfce4-pulseaudio-plugin
-pulseaudio
+pipewire
+pipewire-media-session
+pipewire-alsa
+pipewire-pulse
 pavucontrol
 ristretto
 xfce4-screenshooter

@@ -125,6 +125,11 @@ gnome-system-monitor
 gnome-backgrounds
 gnome-tweaks
 uvgl-skel-gnome-en
+pipewire
+pipewire-media-session
+pipewire-alsa
+pipewire-pulse
+pavucontrol
 gvfs
 libmtp
 mtpfs

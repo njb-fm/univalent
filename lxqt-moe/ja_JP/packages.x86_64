@@ -121,7 +121,10 @@ gvfs-mtp
 gvfs-gphoto2
 unifetch
 pavucontrol-qt
-pulseaudio-alsa
+pipewire
+pipewire-media-session
+pipewire-alsa
+pipewire-pulse
 moevalent-logo
 univalent-logo
 moe-pink-lxqt-theme
@@ -190,6 +193,7 @@ claws-mail
 
 # Office
 libreoffice-fresh
+libreoffice-fresh-ja
 okular
 
 # JPN Input

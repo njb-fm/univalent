@@ -132,7 +132,10 @@ ipa-fonts
 polybar
 ttf-ubuntu-font-family
 pcmanfm-qt
-pulseaudio-alsa
+pipewire
+pipewire-media-session
+pipewire-alsa
+pipewire-pulse
 pavucontrol
 libcdio
 ntp
