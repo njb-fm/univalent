@@ -142,7 +142,7 @@ ttf-ubuntu-font-family
 #Installer
 grub
 calamares
-uvgl-moe-calam-cfg
+calamares-settings-moevalent
 os-prober
 univalive
 
@@ -214,10 +214,6 @@ skanlite
 # Chaotic AUR
 chaotic-keyring
 chaotic-mirrorlist
-
-# Plymouth
-plymouth
-plymouth-theme-mvgl-logo
 
 # Plymouth
 plymouth
