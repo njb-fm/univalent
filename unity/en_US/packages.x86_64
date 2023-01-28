@@ -106,7 +106,7 @@ xf86-input-libinput
 unity-meta
 libdbusmenu-glib-ubuntu
 libdbusmenu-gtk3-ubuntu
-uvgl-skel-unity-ja
+uvgl-skel-unity-en
 xdg-user-dirs
 l3afpad
 libmtp
@@ -159,7 +159,6 @@ galculator
 gnome-system-monitor
 libpamac-aur
 libreoffice-fresh
-libreoffice-fresh-ja
 pamac-aur
 oxygen-icons
 gparted

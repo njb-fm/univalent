@@ -124,7 +124,7 @@ gnome-terminal
 gnome-backgrounds
 gnome-system-monitor
 gnome-tweaks
-uvgl-skel-gnome-ja
+uvgl-skel-gnome-en
 gvfs
 libmtp
 mtpfs
@@ -174,7 +174,6 @@ git
 galculator
 libpamac-aur
 libreoffice-fresh
-libreoffice-fresh-ja
 pamac-aur
 oxygen-icons
 unzip
@@ -211,7 +210,6 @@ gnome-shell-extension-kimpanel-git
 
 # Input Method
 fcitx5-im
-fcitx5-mozc
 
 # Chaotic AUR
 chaotic-keyring

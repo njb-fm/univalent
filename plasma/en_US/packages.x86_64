@@ -147,7 +147,7 @@ sddm-kcm
 systemsettings
 xdg-desktop-portal-kde
 sddm
-uvgl-skel-plasma-ja
+uvgl-skel-plasma-en
 bash-completion
 networkmanager
 konsole
@@ -206,7 +206,6 @@ kcalc
 ksysguard
 libpamac-aur
 libreoffice-fresh
-libreoffice-fresh-ja
 pamac-aur
 oxygen-icons
 partitionmanager
@@ -222,7 +221,6 @@ okular
 
 # Input Method
 fcitx5-im
-
 
 # Printer & Scanner
 cups

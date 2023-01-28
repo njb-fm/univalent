@@ -108,7 +108,7 @@ lightdm-gtk-greeter-settings
 xf86-input-libinput
 cinnamon
 cinnamon-translations
-uvgl-skel-cinnamon-ja
+uvgl-skel-cinnamon-en
 xdg-user-dirs
 gvfs
 libmtp
@@ -166,7 +166,6 @@ galculator
 gnome-system-monitor
 libpamac-aur
 libreoffice-fresh
-libreoffice-fresh-ja
 pamac-aur
 oxygen-icons
 gparted

@@ -105,7 +105,7 @@ univalent-mirrorlist
 xorg
 xfce4
 xfce4-whiskermenu-plugin
-uvgl-skel-xfce-ja
+uvgl-skel-xfce-en
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
@@ -176,7 +176,6 @@ git
 galculator
 libpamac-aur
 libreoffice-fresh
-libreoffice-fresh-ja
 pamac-aur
 oxygen-icons
 unzip
