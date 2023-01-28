@@ -207,12 +207,11 @@ amber-theme-git
 gnome-shell-extension-dash-to-dock
 gnome-shell-extension-clipboard-indicator
 gnome-shell-extension-desktop-icons-ng
+gnome-shell-extension-kimpanel-git
 
 # Input Method
-ibus
-ibus-typing-booster
-mozc
-ibus-mozc
+fcitx5-im
+fcitx5-mozc
 
 # Chaotic AUR
 chaotic-keyring
