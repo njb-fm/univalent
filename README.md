@@ -1,4 +1,4 @@
-# univaiso-channels
+# Univalent GNU/Linux
 Channels for UniVaISO. Testing channels are here -> https://github.com/Jin-Asanami/univaiso-testing-channels
 
 UniVaISO用のチャンネルです。テスト用チャンネルはこちら → https://github.com/Jin-Asanami/univaiso-testing-channels
