@@ -206,7 +206,7 @@ system-config-printer
 sane
 skanlite
 
-# JP Input
+# Input Method
 fcitx5-im
 fcitx5-mozc
 

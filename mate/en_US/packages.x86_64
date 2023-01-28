@@ -107,7 +107,7 @@ lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 xf86-input-libinput
 mate
-uvgl-skel-mate-en
+uvgl-skel-mate-ja
 caja-open-terminal
 caja-share
 caja-sendto
@@ -194,7 +194,6 @@ wget
 yay
 zip
 rhythmbox
-atril
 
 # Printer & Scanner
 cups
@@ -206,6 +205,10 @@ a2ps
 system-config-printer
 sane
 xsane
+
+# Input Method
+fcitx5-im
+
 
 # Chaotic AUR
 chaotic-keyring

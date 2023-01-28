@@ -147,7 +147,7 @@ sddm-kcm
 systemsettings
 xdg-desktop-portal-kde
 sddm
-uvgl-skel-plasma-en
+uvgl-skel-plasma-ja
 bash-completion
 networkmanager
 konsole
@@ -160,8 +160,8 @@ gvfs-gphoto2
 dolphin
 xdg-user-dirs
 spectacle
-l3afpad
 unifetch
+l3afpad
 pavucontrol-qt
 pipewire
 pipewire-media-session
@@ -206,6 +206,7 @@ kcalc
 ksysguard
 libpamac-aur
 libreoffice-fresh
+libreoffice-fresh-ja
 pamac-aur
 oxygen-icons
 partitionmanager
@@ -218,6 +219,10 @@ zip
 rhythmbox
 gwenview
 okular
+
+# Input Method
+fcitx5-im
+
 
 # Printer & Scanner
 cups

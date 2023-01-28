@@ -104,7 +104,7 @@ univalent-keyring
 univalent-mirrorlist
 xorg
 lxqt
-uvgl-skel-lxqt-en
+uvgl-skel-lxqt-ja
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
@@ -189,7 +189,12 @@ claws-mail
 
 # Office
 libreoffice-fresh
+libreoffice-fresh-ja
 okular
+
+# Input Method
+fcitx5-im
+
 
 # Printer & Scanner
 cups

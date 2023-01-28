@@ -102,7 +102,7 @@ zsh
 univalent-keyring
 univalent-mirrorlist
 xorg
-gdm-plymouth
+gdm
 bash-completion
 networkmanager
 eog
@@ -153,7 +153,6 @@ grub
 calamares
 uvgl-calam-cfg
 os-prober
-univalive
 
 #Graphics Driver
 xf86-video-amdgpu
@@ -209,7 +208,7 @@ gnome-shell-extension-dash-to-dock
 gnome-shell-extension-clipboard-indicator
 gnome-shell-extension-desktop-icons-ng
 
-# JP Input
+# Input Method
 ibus
 ibus-typing-booster
 mozc

@@ -112,7 +112,7 @@ xf86-input-libinput
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 i3-wm
-uvgl-skel-i3wm-en
+uvgl-skel-i3wm-ja
 xfce4-terminal
 rofi
 gvfs
@@ -204,6 +204,10 @@ a2ps
 system-config-printer
 sane
 xsane
+
+# Input Method
+fcitx5-im
+
 
 # Chaotic AUR
 chaotic-keyring

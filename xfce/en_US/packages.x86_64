@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
+# Core Packages
 alsa-utils
 amd-ucode
 arch-install-scripts
@@ -104,7 +105,7 @@ univalent-mirrorlist
 xorg
 xfce4
 xfce4-whiskermenu-plugin
-uvgl-skel-xfce-en
+uvgl-skel-xfce-ja
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
@@ -112,7 +113,6 @@ xdg-user-dirs
 bash-completion
 networkmanager
 network-manager-applet
-l3afpad
 gvfs
 libmtp
 mtpfs
@@ -128,22 +128,25 @@ pipewire-pulse
 pavucontrol
 ristretto
 xfce4-screenshooter
-xcape
-noto-fonts-cjk
-noto-fonts
-noto-fonts-emoji
-ipa-fonts
 xfce4-battery-plugin
 xfce4-datetime-plugin
 xfce4-mount-plugin
 xfce4-notifyd
 xfce4-wavelan-plugin
 xfce4-taskmanager
+xcape
 libcdio
 ntp
 univalent-logo
 univalent-tools
 add-pacman-repository
+
+# Fonts
+noto-fonts-cjk
+noto-fonts
+noto-fonts-emoji
+ipa-fonts
+ttf-ubuntu-font-family
 
 #Installer
 grub
@@ -160,26 +163,31 @@ xf86-video-nouveau
 xf86-video-openchrome
 xf86-video-vmware
 
-#UVGL Softwares
+#UVGL softwares
 aptpac
 archlinux-appstream-data-pamac
 base-devel
 floorp
-claws-mail
+gparted
+l3afpad
 curl
+claws-mail
 git
 galculator
 libpamac-aur
 libreoffice-fresh
+libreoffice-fresh-ja
 pamac-aur
 oxygen-icons
-gparted
 unzip
 vim
 vlc
 wget
 xfce4-clipman-plugin
 xfce4-screensaver
+vim
+vlc
+wget
 xarchiver
 xfburn
 yay
@@ -197,6 +205,10 @@ a2ps
 system-config-printer
 sane
 skanlite
+
+# Input Method
+fcitx5-im
+
 
 # Chaotic AUR
 chaotic-keyring

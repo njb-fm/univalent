@@ -205,7 +205,7 @@ system-config-printer
 sane
 xsane
 
-# JP Input
+# Input Method
 fcitx5-im
 fcitx5-mozc
 

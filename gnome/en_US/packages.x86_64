@@ -102,7 +102,7 @@ zsh
 univalent-keyring
 univalent-mirrorlist
 xorg
-gdm-plymouth
+gdm
 bash-completion
 networkmanager
 eog
@@ -121,21 +121,21 @@ gnome-session
 gnome-settings-daemon
 gnome-shell
 gnome-terminal
-gnome-system-monitor
 gnome-backgrounds
+gnome-system-monitor
 gnome-tweaks
-uvgl-skel-gnome-en
-pipewire
-pipewire-media-session
-pipewire-alsa
-pipewire-pulse
-pavucontrol
+uvgl-skel-gnome-ja
 gvfs
 libmtp
 mtpfs
 gphoto2
 gvfs-mtp
 gvfs-gphoto2
+pipewire
+pipewire-media-session
+pipewire-alsa
+pipewire-pulse
+pavucontrol
 mutter
 nautilus
 xdg-user-dirs-gtk
@@ -153,7 +153,6 @@ grub
 calamares
 uvgl-calam-cfg
 os-prober
-univalive
 
 #Graphics Driver
 xf86-video-amdgpu
@@ -175,9 +174,13 @@ git
 galculator
 libpamac-aur
 libreoffice-fresh
+libreoffice-fresh-ja
 pamac-aur
 oxygen-icons
 unzip
+vim
+vlc
+wget
 vim
 vlc
 wget
@@ -204,6 +207,12 @@ amber-theme-git
 gnome-shell-extension-dash-to-dock
 gnome-shell-extension-clipboard-indicator
 gnome-shell-extension-desktop-icons-ng
+
+# Input Method
+ibus
+ibus-typing-booster
+mozc
+ibus-mozc
 
 # Chaotic AUR
 chaotic-keyring
