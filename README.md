@@ -1,7 +1,7 @@
 # Univalent GNU/Linux
-Channels for UniVaISO. Testing channels are here -> https://github.com/Jin-Asanami/univaiso-testing-channels
+Profiles for Archiso. Testing channels are here -> https://github.com/Jin-Asanami/univaiso-testing-channels
 
-UniVaISO用のチャンネルです。テスト用チャンネルはこちら → https://github.com/Jin-Asanami/univaiso-testing-channels
+Archiso用の設定ファイル群です。テスト用チャンネルはこちら → https://github.com/Jin-Asanami/univaiso-testing-channels
 
 ## Preparation 準備
 ※The host OS must be Arch or descended in a direct from from it. 親OSはArchかArch直系である必要があります。
