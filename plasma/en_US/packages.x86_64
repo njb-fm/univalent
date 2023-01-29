@@ -164,7 +164,8 @@ unifetch
 l3afpad
 pavucontrol-qt
 pipewire
-pipewire-media-session
+wireplumber
+pipewire-jack
 pipewire-alsa
 pipewire-pulse
 noto-fonts-cjk

@@ -121,7 +121,8 @@ gvfs-gphoto2
 unifetch
 pavucontrol-qt
 pipewire
-pipewire-media-session
+wireplumber
+pipewire-jack
 pipewire-alsa
 pipewire-pulse
 univalent-logo

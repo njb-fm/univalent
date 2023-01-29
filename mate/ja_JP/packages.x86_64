@@ -148,7 +148,8 @@ univalent-logo
 univalent-tools
 libcdio
 pipewire
-pipewire-media-session
+wireplumber
+pipewire-jack
 pipewire-alsa
 pipewire-pulse
 pavucontrol

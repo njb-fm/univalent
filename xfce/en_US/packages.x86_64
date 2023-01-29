@@ -122,7 +122,8 @@ gvfs-gphoto2
 unifetch
 xfce4-pulseaudio-plugin
 pipewire
-pipewire-media-session
+wireplumber
+pipewire-jack
 pipewire-alsa
 pipewire-pulse
 pavucontrol

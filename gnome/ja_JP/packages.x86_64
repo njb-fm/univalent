@@ -132,7 +132,8 @@ gphoto2
 gvfs-mtp
 gvfs-gphoto2
 pipewire
-pipewire-media-session
+wireplumber
+pipewire-jack
 pipewire-alsa
 pipewire-pulse
 pavucontrol

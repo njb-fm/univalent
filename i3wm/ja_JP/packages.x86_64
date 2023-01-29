@@ -133,7 +133,8 @@ polybar
 ttf-ubuntu-font-family
 pcmanfm-qt
 pipewire
-pipewire-media-session
+wireplumber
+pipewire-jack
 pipewire-alsa
 pipewire-pulse
 pavucontrol
