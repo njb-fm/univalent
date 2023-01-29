@@ -2,10 +2,10 @@
 # shellcheck disable=SC2034
 
 iso_name="univalent-ja"
-iso_label="UNIVALENT_JA_$(date +%y.%m)"
+iso_label="UNIVALENT_JA_23.02"
 iso_publisher="RadioNewJapan"
 iso_application="UVGL Installation Drive"
-iso_version="$(date +%y.%m)"
+iso_version="23.02"
 install_dir="arch"
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
 arch="x86_64"
