@@ -132,6 +132,7 @@ gphoto2
 gvfs-mtp
 gvfs-gphoto2
 pipewire
+qjackctl
 wireplumber
 pipewire-jack
 pipewire-alsa

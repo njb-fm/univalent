@@ -122,6 +122,7 @@ gvfs-gphoto2
 unifetch
 xfce4-pulseaudio-plugin
 pipewire
+qjackctl
 wireplumber
 pipewire-jack
 pipewire-alsa

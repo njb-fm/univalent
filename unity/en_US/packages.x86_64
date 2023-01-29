@@ -123,6 +123,7 @@ univalent-logo
 univalent-tools
 libcdio
 pipewire
+qjackctl
 wireplumber
 pipewire-jack
 pipewire-alsa

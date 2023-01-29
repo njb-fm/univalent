@@ -164,6 +164,7 @@ unifetch
 l3afpad
 pavucontrol-qt
 pipewire
+qjackctl
 wireplumber
 pipewire-jack
 pipewire-alsa

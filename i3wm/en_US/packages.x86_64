@@ -133,6 +133,7 @@ polybar
 ttf-ubuntu-font-family
 pcmanfm-qt
 pipewire
+qjackctl
 wireplumber
 pipewire-jack
 pipewire-alsa

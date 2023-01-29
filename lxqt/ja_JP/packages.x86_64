@@ -121,6 +121,7 @@ gvfs-gphoto2
 unifetch
 pavucontrol-qt
 pipewire
+qjackctl
 wireplumber
 pipewire-jack
 pipewire-alsa
