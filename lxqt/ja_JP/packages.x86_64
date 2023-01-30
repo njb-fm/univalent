@@ -122,7 +122,8 @@ unifetch
 pavucontrol-qt
 pipewire
 qjackctl
-wireplumber
+pipewire-media-session
+gst-plugin-pipewire
 pipewire-jack
 pipewire-alsa
 pipewire-pulse
