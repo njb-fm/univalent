@@ -4,8 +4,7 @@ amd-ucode
 arch-install-scripts
 b43-fwcutter
 base
-bind-tools
-broadcom-wl
+bind
 btrfs-progs
 clonezilla
 cloud-init
