@@ -186,7 +186,9 @@ evince
 
 # Input Method
 fcitx5-im
-fcitx5-mozc
+fcitx5-anthy-unicode
+anthy-unicode
+kasumi-unicode
 
 # Printer & Scanner
 cups
