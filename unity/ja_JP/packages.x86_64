@@ -180,9 +180,9 @@ atril
 # Input Method
 fcitx-im
 fcitx-configtool
-fcitx-anthy-unicode
-anthy-unicode
-kasumi-unicode
+fcitx-mozc
+
+
 
 # Printer & Scanner
 cups

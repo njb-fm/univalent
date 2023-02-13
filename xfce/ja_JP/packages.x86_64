@@ -210,9 +210,9 @@ skanlite
 
 # Input Method
 fcitx5-im
-fcitx5-anthy-unicode
-anthy-unicode
-kasumi-unicode
+fcitx5-mozc
+
+
 
 # Chaotic AUR
 chaotic-keyring
