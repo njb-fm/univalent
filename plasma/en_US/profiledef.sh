@@ -2,10 +2,10 @@
 # shellcheck disable=SC2034
 
 iso_name="punivalent-en"
-iso_label="PUNIVALENT_EN_23.02"
+iso_label="PUNIVALENT_EN_23.02.1"
 iso_publisher="RadioNewJapan"
 iso_application="UVGL Installation Drive"
-iso_version="23.02"
+iso_version="23.02.1"
 install_dir="arch"
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
 arch="x86_64"
