@@ -132,7 +132,7 @@ ristretto
 xfce4-screenshooter
 xfce4-battery-plugin
 xfce4-datetime-plugin
-xfce4-mount-plugin
+udiskie
 xfce4-notifyd
 xfce4-wavelan-plugin
 xfce4-taskmanager
