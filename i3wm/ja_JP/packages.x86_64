@@ -113,6 +113,7 @@ lightdm-gtk-greeter-settings
 i3-wm
 uvgl-skel-i3wm-ja
 xfce4-terminal
+polkit-gnome
 rofi
 gvfs
 libmtp
