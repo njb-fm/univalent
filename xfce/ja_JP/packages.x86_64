@@ -169,7 +169,8 @@ xf86-video-vmware
 aptpac
 archlinux-appstream-data-pamac
 base-devel
-floorp
+firefox
+firefox-i18n-ja
 gparted
 l3afpad
 curl
