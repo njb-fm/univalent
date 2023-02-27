@@ -199,7 +199,8 @@ ark
 aptpac
 archlinux-appstream-data-pamac
 base-devel
-floorp
+firefox
+firefox-i18n-ja
 claws-mail
 curl
 git
