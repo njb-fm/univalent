@@ -1,0 +1,35 @@
+#!/bin/sh
+mkarchiso -v lxqt/ja_JP
+rm -rf work
+mkarchiso -v lxqt/en_US
+rm -rf work
+mkarchiso -v xfce/ja_JP
+rm -rf work
+mkarchiso -v xfce/en_US
+rm -rf work
+mkarchiso -v plasma/ja_JP
+rm -rf work
+mkarchiso -v plasma/en_US
+rm -rf work
+mkarchiso -v i3wm/ja_JP
+rm -rf work
+mkarchiso -v i3wm/en_US
+rm -rf work
+mkarchiso -v cinnamon/ja_JP
+rm -rf work
+mkarchiso -v cinnamon/en_US
+rm -rf work
+mkarchiso -v gnome/ja_JP
+rm -rf work
+mkarchiso -v gnome/en_US
+rm -rf work
+mkarchiso -v mate/ja_JP
+rm -rf work
+mkarchiso -v mate/en_US
+rm -rf work
+mkarchiso -v unity/ja_JP
+rm -rf work
+mkarchiso -v unity/en_US
+rm -rf work
+#yes|pacman -Sccc
+#cp out/* /run/media/hay/SONY-8GT/

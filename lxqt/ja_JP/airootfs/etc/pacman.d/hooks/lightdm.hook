@@ -8,4 +8,4 @@ Target = lightdm
 Description = Enabling LightDM...
 When = PostTransaction
 Depends = lightdm
-Exec = /bin/sh -c "systemctl enable lightdm-plymouth"
+Exec = /bin/sh -c "systemctl enable lightdm"
