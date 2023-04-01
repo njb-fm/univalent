@@ -182,7 +182,7 @@ add-pacman-repository
 #Installer
 grub
 calamares
-calamares-settings-punivalent
+calamares-settings-univalent
 os-prober
 univalive
 

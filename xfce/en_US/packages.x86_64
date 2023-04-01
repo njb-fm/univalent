@@ -153,7 +153,7 @@ ttf-ubuntu-font-family
 #Installer
 grub
 calamares
-calamares-settings-xunivalent
+calamares-settings-univalent
 os-prober
 univalive
 

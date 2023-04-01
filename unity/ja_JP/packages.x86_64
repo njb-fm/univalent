@@ -137,7 +137,7 @@ activity-log-manager
 #Installer
 grub
 calamares
-uvgl-unity-calam-cfg
+calamares-settings-univalent
 os-prober
 univalive
 
