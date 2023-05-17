@@ -41,6 +41,7 @@ lftp
 linux
 linux-atm
 linux-firmware
+linux-headers
 livecd-sounds
 lsscsi
 lvm2
