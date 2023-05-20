@@ -176,7 +176,7 @@ xf86-video-vmware
 
 #UVGL softwares
 aptpac
-archlinux-appstream-data-pamac
+archlinux-appstream-data
 base-devel
 firefox
 claws-mail
