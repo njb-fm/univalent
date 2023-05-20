@@ -16,6 +16,7 @@ ddrescue
 dhclient
 dhcpcd
 diffutils
+dkms
 dmraid
 dnsmasq
 dosfstools
@@ -164,7 +165,7 @@ vim
 screengrab
 
 # System Tools
-archlinux-appstream-data-pamac
+archlinux-appstream-data
 libpamac-aur
 pamac-aur
 base-devel

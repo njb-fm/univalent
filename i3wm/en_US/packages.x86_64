@@ -15,6 +15,7 @@ ddrescue
 dhclient
 dhcpcd
 diffutils
+dkms
 dmraid
 dnsmasq
 dosfstools
@@ -170,7 +171,7 @@ xf86-video-vmware
 
 #UVGL softwares
 aptpac
-archlinux-appstream-data-pamac
+archlinux-appstream-data
 base-devel
 firefox
 xfce4-clipman-plugin
