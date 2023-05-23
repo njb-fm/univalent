@@ -126,7 +126,7 @@ pipewire
 qjackctl
 pipewire-media-session
 gst-plugin-pipewire
-pipewireck
+pipewire-jack
 pipewire-alsa
 pipewire-pulse
 pavucontrol
@@ -173,7 +173,7 @@ dnfpac
 archlinux-appstream-data
 base-devel
 firefox
-firefox-i18n
+firefox-i18n-ja
 gparted
 l3afpad
 curl
