@@ -105,7 +105,7 @@ univalent-keyring
 univalent-mirrorlist
 xorg
 lxqt
-uvgl-skel-lxqt-ja
+uvgl-skel-lxqt
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
@@ -125,7 +125,7 @@ pipewire
 qjackctl
 pipewire-media-session
 gst-plugin-pipewire
-pipewire-jack
+pipewireck
 pipewire-alsa
 pipewire-pulse
 univalent-logo
@@ -190,12 +190,12 @@ rhythmbox
 
 # Internet
 firefox
-firefox-i18n-ja
+firefox-i18n
 claws-mail
 
 # Office
 libreoffice-fresh
-libreoffice-fresh-ja
+libreoffice-fresh
 okular
 
 # Input Method

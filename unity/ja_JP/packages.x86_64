@@ -108,7 +108,7 @@ unitylent-desktop
 polkit-gnome
 libdbusmenu-glib-ubuntu
 libdbusmenu-gtk3-ubuntu
-uvgl-skel-unity-ja
+uvgl-skel-unity
 xdg-user-dirs
 l3afpad
 libmtp
@@ -128,7 +128,7 @@ pipewire
 qjackctl
 pipewire-media-session
 gst-plugin-pipewire
-pipewire-jack
+pipewireck
 pipewire-alsa
 pipewire-pulse
 pavucontrol
@@ -157,7 +157,7 @@ dnfpac
 archlinux-appstream-data
 base-devel
 firefox
-firefox-i18n-ja
+firefox-i18n
 claws-mail
 curl
 git
@@ -166,7 +166,7 @@ galculator
 gnome-system-monitor
 libpamac-aur
 libreoffice-fresh
-libreoffice-fresh-ja
+libreoffice-fresh
 pamac-aur
 oxygen-icons
 gparted

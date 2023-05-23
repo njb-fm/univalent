@@ -125,7 +125,7 @@ gnome-terminal
 gnome-backgrounds
 gnome-system-monitor
 gnome-tweaks
-uvgl-skel-gnome-ja
+uvgl-skel-gnome
 gvfs
 libmtp
 mtpfs
@@ -136,7 +136,7 @@ pipewire
 qjackctl
 pipewire-media-session
 gst-plugin-pipewire
-pipewire-jack
+pipewireck
 pipewire-alsa
 pipewire-pulse
 pavucontrol
@@ -172,7 +172,7 @@ dnfpac
 archlinux-appstream-data
 base-devel
 firefox
-firefox-i18n-ja
+firefox-i18n
 gparted
 curl
 claws-mail
@@ -180,7 +180,7 @@ git
 galculator
 libpamac-aur
 libreoffice-fresh
-libreoffice-fresh-ja
+libreoffice-fresh
 pamac-aur
 oxygen-icons
 unzip

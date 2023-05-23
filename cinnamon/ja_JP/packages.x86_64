@@ -109,7 +109,7 @@ lightdm-gtk-greeter-settings
 xf86-input-libinput
 cinnamon
 cinnamon-translations
-uvgl-skel-cinnamon-ja
+uvgl-skel-cinnamon
 xdg-user-dirs
 gvfs
 libmtp
@@ -134,7 +134,7 @@ pipewire
 qjackctl
 pipewire-media-session
 gst-plugin-pipewire
-pipewire-jack
+pipewireck
 pipewire-alsa
 pipewire-pulse
 pavucontrol
@@ -162,7 +162,7 @@ dnfpac
 archlinux-appstream-data
 base-devel
 firefox
-firefox-i18n-ja
+firefox-i18n
 claws-mail
 xfce4-clipman-plugin
 curl
@@ -172,7 +172,7 @@ galculator
 gnome-system-monitor
 libpamac-aur
 libreoffice-fresh
-libreoffice-fresh-ja
+libreoffice-fresh
 pamac-aur
 oxygen-icons
 gparted
