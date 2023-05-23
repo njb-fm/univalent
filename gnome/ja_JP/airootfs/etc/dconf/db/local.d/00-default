@@ -1,0 +1,225 @@
+[ca/desrt/dconf-editor]
+saved-pathbar-path='/org/gnome/desktop/input-sources/xkb-options'
+saved-view='/org/gnome/desktop/input-sources/xkb-options'
+window-height=500
+window-is-maximized=false
+window-width=540
+
+[org/gnome/calculator]
+accuracy=9
+angle-units='degrees'
+base=10
+button-mode='basic'
+number-format='automatic'
+show-thousands=false
+show-zeroes=false
+source-currency=''
+source-units='degree'
+target-currency=''
+target-units='radian'
+word-size=64
+
+[org/gnome/control-center]
+last-panel='info-overview'
+window-state=(946, 741, true)
+
+[org/gnome/desktop/app-folders]
+folder-children=['Utilities', 'YaST']
+
+[org/gnome/desktop/background]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///usr/share/backgrounds/univalent/univalent-wall-blue.png'
+picture-uri-dark='file:///usr/share/backgrounds/univalent/univalent-wall-grey.png'
+primary-color='#3071AE'
+secondary-color='#000000'
+
+[org/gnome/desktop/input-sources]
+sources=[('xkb', 'us')]
+xkb-options=['shift:both_capslock']
+
+[org/gnome/desktop/interface]
+color-scheme='default'
+cursor-theme='Adwaita'
+document-font-name='IPAexゴシック 11'
+font-antialiasing='grayscale'
+font-hinting='slight'
+font-name='IPAexゴシック 11'
+gtk-theme='Amber'
+icon-theme='oxygen'
+monospace-font-name='Source Code Pro 10'
+
+[org/gnome/desktop/notifications]
+application-children=['firefox', 'gnome-power-panel', 'org-gnome-nautilus']
+
+[org/gnome/desktop/notifications/application/firefox]
+application-id='firefox.desktop'
+
+[org/gnome/desktop/notifications/application/gnome-power-panel]
+application-id='gnome-power-panel.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-nautilus]
+application-id='org.gnome.Nautilus.desktop'
+
+[org/gnome/desktop/peripherals/keyboard]
+numlock-state=true
+
+[org/gnome/desktop/peripherals/touchpad]
+two-finger-scrolling-enabled=true
+
+[org/gnome/desktop/screensaver]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///usr/share/backgrounds/gnome/adwaita-l.webp'
+primary-color='#3071AE'
+secondary-color='#000000'
+
+[org/gnome/desktop/wm/preferences]
+button-layout='appmenu:minimize,maximize,close'
+titlebar-font='IPAexゴシック Bold 11'
+
+[org/gnome/evolution-data-server]
+migrated=true
+network-monitor-gio-name=''
+
+[org/gnome/gedit/plugins]
+active-plugins=['spell', 'sort', 'modelines', 'docinfo', 'filebrowser', 'openlinks']
+
+[org/gnome/gedit/preferences/editor]
+editor-font='Monospace 16'
+scheme='cobalt'
+use-default-font=false
+wrap-last-split-mode='word'
+
+[org/gnome/gedit/preferences/ui]
+show-tabs-mode='auto'
+
+[org/gnome/gedit/state/window]
+bottom-panel-size=140
+side-panel-active-page='GeditWindowDocumentsPanel'
+side-panel-size=200
+size=(900, 700)
+state=87168
+
+[org/gnome/nautilus/preferences]
+default-folder-viewer='icon-view'
+migrated-gtk-settings=true
+search-filter-time-type='last_modified'
+search-view='list-view'
+
+[org/gnome/nautilus/window-state]
+initial-size=(890, 550)
+maximized=false
+
+[org/gnome/settings-daemon/plugins/media-keys]
+custom-keybindings=['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom2/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom3/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom4/']
+home=['<Super>e']
+search=['<Super>f']
+
+[org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0]
+binding='<Control><Alt>t'
+command='gnome-terminal'
+name='Launch Terminal'
+
+[org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1]
+binding='<Control>d'
+command='gnome-control-center display'
+name='Launch Display Settings'
+
+[org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom2]
+binding='<Alt>v'
+command='vlc'
+name='Launch Media Player'
+
+[org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom3]
+binding='<Control><Alt>s'
+command='systemctl suspend'
+name='Suspend'
+
+[org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom4]
+binding='<Shift><Control><Alt>r'
+command='systemctl reboot'
+name='Reboot without confirmation'
+
+[org/gnome/shell]
+app-picker-layout=[{'bssh.desktop': <{'position': <0>}>, 'bvnc.desktop': <{'position': <1>}>, 'avahi-discover.desktop': <{'position': <2>}>, 'org.gnome.clocks.desktop': <{'position': <3>}>, 'org.gnome.Extensions.desktop': <{'position': <4>}>, 'org.gnome.eog.desktop': <{'position': <5>}>, 'qv4l2.desktop': <{'position': <6>}>, 'qvidcap.desktop': <{'position': <7>}>, 'brasero.desktop': <{'position': <8>}>, 'org.gnome.Settings.desktop': <{'position': <9>}>, 'org.gnome.Calendar.desktop': <{'position': <10>}>, 'org.gnome.tweaks.desktop': <{'position': <11>}>, 'org.gnome.Screenshot.desktop': <{'position': <12>}>, 'galculator.desktop': <{'position': <13>}>, 'gparted.desktop': <{'position': <14>}>, 'libreoffice-base.desktop': <{'position': <15>}>, 'libreoffice-calc.desktop': <{'position': <16>}>, 'libreoffice-draw.desktop': <{'position': <17>}>, 'libreoffice-impress.desktop': <{'position': <18>}>, 'libreoffice-math.desktop': <{'position': <19>}>, 'libreoffice-startcenter.desktop': <{'position': <20>}>, 'org.gnome.Logs.desktop': <{'position': <21>}>, 'cups.desktop': <{'position': <22>}>, 'system-config-printer.desktop': <{'position': <23>}>}, {'org.gnome.Rhythmbox3.desktop': <{'position': <0>}>, 'vim.desktop': <{'position': <1>}>, 'xarchiver.desktop': <{'position': <2>}>, 'xsane.desktop': <{'position': <3>}>, 'org.gnome.Terminal.desktop': <{'position': <4>}>, 'vlc.desktop': <{'position': <5>}>, 'arandr.desktop': <{'position': <6>}>, 'l3afpad.desktop': <{'position': <7>}>, 'org.fcitx.Fcitx5.desktop': <{'position': <8>}>, 'org.rncbc.qjackctl.desktop': <{'position': <9>}>, 'calamares.desktop': <{'position': <10>}>, 'org.fcitx.fcitx5-migrator.desktop': <{'position': <11>}>, 'fcitx5-configtool.desktop': <{'position': <12>}>, 'gnome-system-monitor.desktop': <{'position': <13>}>, 'pavucontrol.desktop': <{'position': <14>}>, 'kbd-layout-viewer5.desktop': <{'position': <15>}>, 'org.gnome.Evince.desktop': <{'position': <16>}>, 'gcdmaster.desktop': <{'position': <17>}>, 'lftp.desktop': <{'position': <18>}>, 'stoken-gui.desktop': <{'position': <19>}>, 'stoken-gui-small.desktop': <{'position': <20>}>}]
+disabled-extensions=['window-list@gnome-shell-extensions.gcampax.github.com', 'workspace-indicator@gnome-shell-extensions.gcampax.github.com']
+enabled-extensions=['apps-menu@gnome-shell-extensions.gcampax.github.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'clipboard-indicator@tudmotu.com', 'dash-to-dock@micxgx.gmail.com', 'pamac-updates@manjaro.org', 'ding@rastersoft.com', 'kimpanel@kde.org']
+favorite-apps=['calamares.desktop', 'firefox.desktop', 'claws-mail.desktop', 'org.gnome.Nautilus.desktop', 'libreoffice-writer.desktop', 'org.manjaro.pamac.manager.desktop', 'univalent-tools.desktop']
+welcome-dialog-last-shown-version='42.0'
+
+[org/gnome/shell/extensions/dash-to-dock]
+background-opacity=0.80000000000000004
+dash-max-icon-size=48
+dock-fixed=true
+dock-position='LEFT'
+extend-height=true
+height-fraction=0.90000000000000002
+multi-monitor=true
+preferred-monitor=-2
+preferred-monitor-by-connector='Virtual1'
+
+[org/gnome/shell/extensions/ding]
+show-network-volumes=true
+show-volumes=false
+
+[org/gnome/shell/extensions/user-theme]
+name='Amber'
+
+[org/gnome/shell/keybindings]
+show-screen-recording-ui=@as []
+
+[org/gnome/shell/world-clocks]
+locations=@av []
+
+[org/gnome/software]
+check-timestamp=int64 1651497135
+first-run=false
+
+[org/gnome/terminal/legacy/profiles:]
+default='b964fe05-2151-4943-ac96-683011726e3d'
+list=['b964fe05-2151-4943-ac96-683011726e3d']
+
+[org/gnome/terminal/legacy/profiles:/:b964fe05-2151-4943-ac96-683011726e3d]
+background-color='rgb(0,0,0)'
+cursor-colors-set=false
+foreground-color='rgb(255,255,255)'
+use-theme-colors=false
+visible-name='univalent'
+
+[org/gnome/tweaks]
+show-extensions-notice=false
+
+[org/gtk/gtk4/settings/file-chooser]
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=199
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'
+window-size=(906, 327)
+
+[org/gtk/settings/color-chooser]
+custom-colors=[(0.12156862745098036, 0.71372549019607845, 0.84705882352941175, 1.0), (0.092333333333333309, 0.78948098434004488, 0.92333333333333334, 1.0), (0.070588235294117646, 0.28235294117647058, 0.54509803921568623, 1.0), (0.79999999999999982, 0.0, 1.0, 1.0), (0.93725490196078431, 0.058823529411764705, 0.058823529411764705, 1.0), (0.49803921568627452, 1.0, 0.0, 1.0), (0.82745098039215681, 0.84313725490196079, 0.81176470588235294, 1.0), (0.20000000000000018, 1.0, 0.0, 1.0)]
+selected-color=(true, 0.12156862745098036, 0.71372549019607845, 0.84705882352941175, 1.0)
+
+[org/gtk/settings/file-chooser]
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=189
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'
+window-position=(78, 27)
+window-size=(946, 703)
+
+[system/proxy]
+mode='none'
