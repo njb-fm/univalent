@@ -170,6 +170,7 @@ libpamac-aur
 pamac-aur
 base-devel
 aptpac
+dnfpac
 univalent-tools
 add-pacman-repository
 curl

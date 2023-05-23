@@ -199,6 +199,7 @@ xf86-video-vmware
 #UVGL softwares
 ark
 aptpac
+dnfpac
 archlinux-appstream-data
 base-devel
 firefox

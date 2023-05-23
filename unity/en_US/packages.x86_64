@@ -153,6 +153,7 @@ xf86-video-vmware
 
 #UVGL softwares
 aptpac
+dnfpac
 archlinux-appstream-data
 base-devel
 firefox
