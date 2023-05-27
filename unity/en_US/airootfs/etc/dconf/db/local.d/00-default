@@ -242,7 +242,6 @@ picture-uri='file:///usr/share/backgrounds/univalent/univalent-wall-blue.png'
 
 [org/gnome/desktop/input-sources]
 current=uint32 0
-sources=[('xkb', 'us')]
 xkb-options=@as []
 
 [org/gnome/desktop/interface]
