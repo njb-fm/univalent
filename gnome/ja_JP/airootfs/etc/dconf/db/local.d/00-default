@@ -1,10 +1,3 @@
-[ca/desrt/dconf-editor]
-saved-pathbar-path='/org/gnome/desktop/input-sources/xkb-options'
-saved-view='/org/gnome/desktop/input-sources/xkb-options'
-window-height=500
-window-is-maximized=false
-window-width=540
-
 [org/gnome/calculator]
 accuracy=9
 angle-units='degrees'
@@ -35,7 +28,7 @@ primary-color='#3071AE'
 secondary-color='#000000'
 
 [org/gnome/desktop/input-sources]
-sources=[('xkb', 'us')]
+sources=[('xkb', 'jp')]
 xkb-options=['shift:both_capslock']
 
 [org/gnome/desktop/interface]
