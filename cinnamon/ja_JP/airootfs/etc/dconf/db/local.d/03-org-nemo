@@ -1,0 +1,14 @@
+[org/nemo/desktop]
+computer-icon-visible=true
+home-icon-visible=true
+network-icon-visible=true
+trash-icon-visible=true
+
+[org/nemo/preferences]
+show-hidden-files=false
+
+[org/nemo/window-state]
+geometry='800x550+50+50'
+maximized=false
+sidebar-bookmark-breakpoint=0
+start-with-sidebar=true
