@@ -108,7 +108,7 @@ lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 xf86-input-libinput
 mate
-uvgl-skel-mate
+uvgl-skel-mate-en
 caja-open-terminal
 caja-share
 caja-sendto

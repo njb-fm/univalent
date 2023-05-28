@@ -109,7 +109,7 @@ lightdm-gtk-greeter-settings
 xf86-input-libinput
 cinnamon
 cinnamon-translations
-uvgl-skel-cinnamon
+uvgl-skel-cinnamon-en
 xdg-user-dirs
 gvfs
 libmtp
