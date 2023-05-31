@@ -45,6 +45,7 @@ linux-atm
 linux-firmware
 linux-headers
 livecd-sounds
+lsb-release
 lsscsi
 lvm2
 man-db
