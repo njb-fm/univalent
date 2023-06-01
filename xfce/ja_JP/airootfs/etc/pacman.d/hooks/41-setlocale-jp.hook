@@ -1,0 +1,12 @@
+# remove from airootfs!
+[Trigger]
+Operation = Install
+Type = Package
+Target = glibc
+
+[Action]
+Description = Setting up the locale...
+When = PostTransaction
+Depends = glibc
+Depends = sh
+Exec = /bin/sh -c "localectl set-locale ja_JP.UTF-8"

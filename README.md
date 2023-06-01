@@ -15,7 +15,7 @@ sudo pacman -S archiso
 ```bash
 sudo pacman-key --recv-key 048E45A1EC694BCE --keyserver keyserver.ubuntu.com
 sudo pacman-key --lsign-key 048E45A1EC694BCE
-sudo pacman -U 'https://osdn.net/projects/univalentgnulinux/storage/repo/univalent-signed/univalent-keyring-20221215-1-any.pkg.tar.zst' 'https://osdn.net/projects/univalentgnulinux/storage/repo/univalent-signed/univalent-mirrorlist-20221215-1-any.pkg.tar.zst'
+sudo pacman -U 'https://osdn.net/projects/univalentgnulinux/storage/repo/univalent-stable/univalent-keyring-20221215-1-any.pkg.tar.zst' 'https://osdn.net/projects/univalentgnulinux/storage/repo/univalent-stable/univalent-mirrorlist-20221215-1-any.pkg.tar.zst'
 echo -e "[univalent-stable]\nInclude = /etc/pacman.d/univalent-mirrorlist]" | sudo tee -a /etc/pacman.conf
 ```
 
@@ -31,7 +31,7 @@ echo -e "[chaotic-aur]\nInclude = /etc/pacman.d/chaotic-mirrorlist" | sudo tee -
 
 ## Usage 使用法
 ```bash
-git clone https://github.com/Jin-Asanami/univaiso-channels
+git clone https://github.com/njb-fm/univaiso-channels
 cd univaiso-channels
 sudo mkarchiso -v <channel>/<locale>
 ```
