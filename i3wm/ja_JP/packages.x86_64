@@ -114,7 +114,7 @@ xf86-input-libinput
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 i3-wm
-uvgl-skel-i3wm-ja
+uvgl-skel-i3wm
 xfce4-terminal
 polkit-gnome
 rofi
