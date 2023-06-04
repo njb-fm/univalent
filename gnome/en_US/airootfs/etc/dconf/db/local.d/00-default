@@ -28,6 +28,7 @@ primary-color='#3071AE'
 secondary-color='#000000'
 
 [org/gnome/desktop/input-sources]
+sources=[('xkb', 'us')]
 xkb-options=['shift:both_capslock']
 
 [org/gnome/desktop/interface]
