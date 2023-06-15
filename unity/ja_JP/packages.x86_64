@@ -186,7 +186,7 @@ atril
 # Input Method
 fcitx-im
 fcitx-configtool
-fcitx-anthy-unicode
+fcitx-anthy
 anthy-unicode
 kasumi-unicode
 
