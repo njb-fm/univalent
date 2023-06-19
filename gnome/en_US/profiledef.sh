@@ -4,7 +4,7 @@
 iso_name="gunivalent-en"
 iso_label="GUNIVALENT_EN_23.06"
 iso_publisher="RadioNewJapan"
-iso_application="UVGL Installation Drive"
+iso_application="UVE Installation Drive"
 iso_version="23.06"
 install_dir="arch"
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
