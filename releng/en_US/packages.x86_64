@@ -116,7 +116,7 @@ gvfs-gphoto2
 unifetch
 pavucontrol-qt
 pipewire
-pipewire-media-session
+wireplumber
 gst-plugin-pipewire
 pipewire-jack
 pipewire-alsa

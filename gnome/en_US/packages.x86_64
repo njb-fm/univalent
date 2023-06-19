@@ -135,7 +135,7 @@ gvfs-mtp
 gvfs-gphoto2
 pipewire
 qjackctl
-pipewire-media-session
+wireplumber
 gst-plugin-pipewire
 pipewire-jack
 pipewire-alsa

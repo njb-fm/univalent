@@ -125,7 +125,7 @@ unifetch
 xfce4-pulseaudio-plugin
 pipewire
 qjackctl
-pipewire-media-session
+wireplumber
 gst-plugin-pipewire
 pipewire-jack
 pipewire-alsa

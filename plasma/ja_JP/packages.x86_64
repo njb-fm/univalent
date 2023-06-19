@@ -167,7 +167,7 @@ l3afpad
 pavucontrol-qt
 pipewire
 qjackctl
-pipewire-media-session
+wireplumber
 gst-plugin-pipewire
 pipewire-jack
 pipewire-alsa

@@ -151,7 +151,7 @@ univalent-tools
 libcdio
 pipewire
 qjackctl
-pipewire-media-session
+wireplumber
 gst-plugin-pipewire
 pipewire-jack
 pipewire-alsa
