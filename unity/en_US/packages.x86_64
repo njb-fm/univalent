@@ -152,7 +152,7 @@ xf86-video-nouveau
 xf86-video-openchrome
 xf86-video-vmware
 
-#UVGL softwares
+#UVE softwares
 aptpac
 dnfpac
 archlinux-appstream-data

@@ -100,7 +100,7 @@ xfsprogs
 xl2tpd
 zsh
 
-#UVGL GNOME
+#UVE GNOME
 univalent-keyring
 univalent-mirrorlist
 xorg
@@ -167,7 +167,7 @@ xf86-video-nouveau
 xf86-video-openchrome
 xf86-video-vmware
 
-#UVGL softwares
+#UVE softwares
 aptpac
 dnfpac
 archlinux-appstream-data
@@ -181,7 +181,7 @@ git
 galculator
 libpamac-aur
 libreoffice-fresh
-libreoffice-fresh
+libreoffice-fresh-ja
 pamac-aur
 oxygen-icons
 unzip

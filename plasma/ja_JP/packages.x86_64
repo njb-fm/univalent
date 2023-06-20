@@ -100,7 +100,7 @@ xfsprogs
 xl2tpd
 zsh
 
-#Univalent GNU/Linux Plasma
+#Univalent Versatile Environment Plasma
 univalent-keyring
 univalent-mirrorlist
 xorg
@@ -197,7 +197,7 @@ xf86-video-nouveau
 xf86-video-openchrome
 xf86-video-vmware
 
-#UVGL softwares
+#UVE softwares
 ark
 aptpac
 dnfpac

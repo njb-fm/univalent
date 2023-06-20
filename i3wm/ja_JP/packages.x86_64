@@ -100,7 +100,7 @@ xfsprogs
 xl2tpd
 zsh
 
-#Univalent GNU/Linux i3wm
+#Univalent Versatile Environment i3wm
 univalent-keyring
 univalent-mirrorlist
 xorg
@@ -170,7 +170,7 @@ xf86-video-nouveau
 xf86-video-openchrome
 xf86-video-vmware
 
-#UVGL softwares
+#UVE softwares
 aptpac
 dnfpac
 archlinux-appstream-data
