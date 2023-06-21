@@ -2,11 +2,11 @@
 # shellcheck disable=SC2034
 
 iso_name="univalent-en"
-iso_label="UNIVALENT_EN_23.06"
+iso_label="UVE_2306L"
 iso_publisher="RadioNewJapan"
 iso_application="UVE Installation Drive"
-iso_version="23.06"
-install_dir="arch"
+iso_version="23.06.1"
+install_dir="univa"
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
 arch="x86_64"
 pacman_conf="pacman.conf"
