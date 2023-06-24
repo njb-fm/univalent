@@ -1,8 +1,14 @@
 # Univalent GNU/Linux
+
+<p align="center">
+    <img src="img/univalent.svg">
+</p>
+
 Univalent GNU/Linux is an Arch-based and user-friendly distro.
+
 <p align="center">
     <a href="https://njb-fm.github.io/">
-        <img src="https://img.shields.io/badge/Developer%3F-RadioNewJapan-blue?style=flat-square">
+        <img src="https://img.shields.io/badge/Developer-RadioNewJapan-blue?style=flat-square">
     </a>
     <a href="https://osdn.net/projects/univalentgnulinux/">
         <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square">
@@ -11,7 +17,7 @@ Univalent GNU/Linux is an Arch-based and user-friendly distro.
         <img src="https://img.shields.io/github/license/njb-fm/univalent?style=flat-square">
     </a>
     <a href="https://www.archlinux.org/">
-        <img src="https://img.shields.io/badge/BASE-ArchLinux-blue?style=flat-square&logo=arch-linux" alt="Base">
+        <img src="https://img.shields.io/badge/BASE-Arch%20Linux-blue?style=flat-square&logo=arch-linux" alt="Base">
     </a>
     <a href="https://github.com/njb-fm/univalent/actions">
         <img src="https://img.shields.io/github/workflow/status/njb-fm/univalent/ShellCheck%20CL?style=flat-square">
@@ -40,20 +46,19 @@ Univalent GNU/Linux is an Arch-based and user-friendly distro.
 </p>
 -----
 
-Profiles for Archiso.
+# Overview
+Univalent GNU/Linux is an Arch-based distro.
 
-Archiso用の設定ファイル群です。
-
-
-## Preparation 準備
-※The host OS must be Arch or descended in a direct from from it. 親OSはArchかArch直系である必要があります。
+# How to build
+## Preparation
+※The host OS must be Arch or descended in a direct from from it.
 
 1. Install Archiso. Archisoを導入する。
 ```bash
 sudo pacman -S archiso
 ```
 
-2. Activate Univalent repo. Univalentのリポジトリを有効化する。
+2. Activate Univalent repo.
 ```bash
 sudo pacman-key --recv-key 048E45A1EC694BCE --keyserver keyserver.ubuntu.com
 sudo pacman-key --lsign-key 048E45A1EC694BCE
@@ -61,7 +66,7 @@ sudo pacman -U 'https://osdn.net/projects/univalentgnulinux/storage/repo/univale
 echo -e "[univalent-stable]\nInclude = /etc/pacman.d/univalent-mirrorlist]" | sudo tee -a /etc/pacman.conf
 ```
 
-3. Activate "Chaotic AUR" Chaotic AURを有効化する。
+3. Activate Chaotic AUR.
 ```bash
 sudo pacman-key --recv-key 3056513887B78AEB --keyserver keyserver.ubuntu.com
 sudo pacman-key --lsign-key 3056513887B78AEB
@@ -71,12 +76,13 @@ sudo pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.ta
 echo -e "[chaotic-aur]\nInclude = /etc/pacman.d/chaotic-mirrorlist" | sudo tee -a /etc/pacman.conf
 ```
 
-## Usage 使用法
+## Usage
 ```bash
 git clone https://github.com/njb-fm/univaiso-channels
 cd univaiso-channels
 sudo mkarchiso -v <channel>/<locale>
 ```
+
 For an overview of each channel, please read the "README" in each root directory.
 
-チャンネル毎の概要については、それぞれのルートディレクトリに置いてある「README」をお読み下さい。
+(C) 2022-2023 Radio New Japan Broadcasting Club.
