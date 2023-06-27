@@ -132,7 +132,7 @@ noto-fonts-cjk
 noto-fonts
 noto-fonts-emoji
 ipa-fonts
-polybar
+tint2
 ttf-ubuntu-font-family
 pcmanfm-qt
 pipewire
@@ -197,10 +197,8 @@ yay
 zip
 xarchiver
 gnome-power-manager
-cbatticon
 volumeicon
 udiskie
-atril
 
 # Printer & Scanner
 cups

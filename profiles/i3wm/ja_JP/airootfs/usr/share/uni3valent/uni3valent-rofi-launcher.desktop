@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=sh -c "TERMINAL=xfce4-terminal rofi -show drun -theme Monokai -icon-theme "Oxygen" -show-icons"
+Name=Start Menu
+Icon=univalent
