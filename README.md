@@ -1,10 +1,12 @@
-# Univalent GNU/Linux
+# Univalent Versatile Environment"
 
 <p align="center">
     <img src="img/univalent.svg">
 </p>
 
-Univalent GNU/Linux is an Arch-based and user-friendly distro.
+<b>This repository will be retired in the near future, and we'll distribute the source code at <a href="https://osdn.net/projects/univalentgnulinux/">OSDN</a> in tarball format.</b>
+
+Univalent Versatile Environment (UVE) is an Arch-based and user-friendly distro.
 
 <p align="center">
     <a href="https://njb-fm.github.io/">
