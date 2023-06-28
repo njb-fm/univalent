@@ -1,4 +1,4 @@
-# Univalent Versatile Environment"
+# Univalent Versatile Environment
 
 <p align="center">
     <img src="img/univalent.svg">
