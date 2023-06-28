@@ -4,7 +4,7 @@
     <img src="img/univalent.svg">
 </p>
 
-<b>This repository will be retired in the near future, and we'll distribute the source code at <a href="https://osdn.net/projects/univalentgnulinux/">OSDN</a> in tarball format.</b>
+<b>This repository will be deprecated in the near future, and we'll distribute the source code at <a href="https://osdn.net/projects/univalentgnulinux/">OSDN</a> in tarball format.</b>
 
 Univalent Versatile Environment (UVE) is an Arch-based and user-friendly distro.
 
