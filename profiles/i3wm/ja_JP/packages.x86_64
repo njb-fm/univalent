@@ -182,8 +182,9 @@ xfce4-clipman-plugin
 curl
 git
 xfburn
+rhythmbox
 galculator
-htop
+lxtask-gtk3
 l3afpad
 ristretto
 pamac-aur
@@ -200,6 +201,9 @@ xarchiver
 gnome-power-manager
 volumeicon
 udiskie
+atril
+libreoffice-fresh
+libreoffice-fresh-ja
 
 # Printer & Scanner
 cups
