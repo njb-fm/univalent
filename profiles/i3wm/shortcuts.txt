@@ -1,10 +1,12 @@
-UVGL i3 Flavour (Web Edition) Shortcuts List
-UVGL i3フレーバー(ウェブエディション)ショートカット一覧
+UVE i3 Flavour (Web Edition) Shortcuts List
+UVE i3フレーバー(ウェブエディション)ショートカット一覧
 
 Our "Mod" key is set to the command key.
 If the corresponding part of the configuration file is not rewritten, the following "Mod" may be replaced with "Cmd", "Super" or "Win".
 
 Mod+C - Open the shortcut key list
+
+Mod+I - exec Calamares installer
 
 Mod+Return or Ctrl+Alt+T - exec terminal emulator
 Mod+Shift+Q or Alt+F4 - close focused window
@@ -38,6 +40,8 @@ Mod+Shift+E - logout i3-wm
 設定ファイルの該当部分を書き換えない場合は、以下の「Mod」を「Cmd」「Super」「Win」と読み替えて頂いて構いません。
 
 Mod+C - ショートカットキー一覧を開く
+
+Mod+I - Calamaresインストーラーを起動する
 
 Mod+Return or Ctrl-Alt-T - 端末エミュレータの起動
 Mod+Shift+Q or Alt+F4 - アクティブなウインドウを閉じる

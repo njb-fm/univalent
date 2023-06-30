@@ -6,4 +6,3 @@ Also, this edition don't include LibreOffice, Rhythmbox, and so on. as standard 
 
 デスクトップ環境…というかウインドウマネージャーにi3-gapsを採用したフレーバーです。
 i3-gapsは本家i3-wmを改造したモノで、例えばウインドウの間を空けるなどといった機能が搭載されています。
-またこの版はウェブアプリケーションの実行に重きをおいてある故、LibreOfficeやRhythmboxなどは搭載してありません。
