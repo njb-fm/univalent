@@ -178,6 +178,7 @@ archlinux-appstream-data
 base-devel
 firefox
 firefox-i18n-ja
+claws-mail
 xfce4-clipman-plugin
 curl
 git

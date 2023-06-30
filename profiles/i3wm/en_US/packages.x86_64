@@ -177,6 +177,7 @@ dnfpac
 archlinux-appstream-data
 base-devel
 firefox
+claws-mail
 xfce4-clipman-plugin
 curl
 git
