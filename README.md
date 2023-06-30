@@ -40,14 +40,11 @@ Univalent Versatile Environment (UVE) is an Arch-based and user-friendly distro.
     <a href="https://github.com/njb-fm/univalent/">
         <img src="https://img.shields.io/github/repo-size/njb-fm/univalent?style=flat-square">
     </a>
-    <a href="https://github.com/njb-fm/univalent">
-        <img src="https://img.shields.io/tokei/lines/github/njb-fm/univalent?style=flat-square">
-    </a>
 </p>
 -----
 
 # Overview
-Univalent GNU/Linux is an Arch-based distro.
+Univalent Versatile Environment is an Arch-based distro.
 
 # How to build
 ## Preparation
