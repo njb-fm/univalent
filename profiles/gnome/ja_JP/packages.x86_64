@@ -158,7 +158,6 @@ grub
 calamares
 calamares-settings-univalent
 os-prober
-univabootmnt
 
 #Graphics Driver
 xf86-video-amdgpu
