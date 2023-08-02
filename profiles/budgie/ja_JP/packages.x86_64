@@ -215,3 +215,42 @@ chaotic-mirrorlist
 # Plymouth
 plymouth
 plymouth-theme-uve-logo
+
+# 23.08 Limited Edition
+marble-maps
+quassel-client
+filezilla
+pidgin
+gnome-weather
+akregator
+korganizer
+kicad
+librecad
+scribus
+inkscape
+shotcut
+audacity
+gnome-sound-recorder
+mixxx
+obs-studio
+
+# Games
+aisleriot
+five-or-more
+four-in-a-row
+gnome-2048
+gnome-chess
+gnome-klotski
+gnome-mahjongg
+gnome-mines
+gnome-nibbles
+gnome-robots
+gnome-sudoku
+gnome-taquin
+gnome-tetravex
+hitori
+iagno
+lightsoff
+quadrapassel
+swell-fool
+tali
