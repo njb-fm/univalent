@@ -6,6 +6,7 @@ arch-install-scripts
 b43-fwcutter
 base
 bind
+broadcom-wl-dkms
 btrfs-progs
 clonezilla
 cloud-init
