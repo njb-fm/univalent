@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
+# Core Packages
 alsa-utils
 amd-ucode
 arch-install-scripts
@@ -38,18 +39,15 @@ intel-ucode
 irssi
 iwd
 jfsutils
-lftp
-linux
 linux-atm
 linux-firmware
-linux-headers
-livecd-sounds
+linux-rt
+linux-rt-headers
 lsb-release
 lsscsi
 lvm2
 man-db
 man-pages
-mc
 mdadm
 memtest86+
 mkinitcpio

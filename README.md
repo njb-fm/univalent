@@ -46,6 +46,9 @@ Univalent Versatile Environment (UVE) is an Arch-based and user-friendly distro.
 # Overview
 Univalent Versatile Environment is an Arch-based distro.
 
+* Tuned desktop environments
+* Relatively lightweight due to RT kernel (from 23.10)
+
 # How to build
 ## Preparation
 ※The host OS must be Arch or descended in a direct from from it.
