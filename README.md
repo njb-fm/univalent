@@ -14,7 +14,7 @@ Univalent Versatile Environment (UVE) is an Arch-based and user-friendly distro.
         <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square">
     </a>
     <a href="LICENSE">
-        <img src="https://img.shields.io/badge/license-BSD-3-clause?style=flat-square">
+        <img src="https://img.shields.io/github/license/njb-fm/univalent?style=flat-square">
     </a>
     <a href="https://www.archlinux.org/">
         <img src="https://img.shields.io/badge/BASE-Arch%20Linux-blue?style=flat-square&logo=arch-linux" alt="Base">
