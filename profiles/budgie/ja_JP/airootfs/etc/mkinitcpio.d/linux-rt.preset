@@ -1,5 +1,5 @@
 #
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: BSD-3-clause
 
 # mkinitcpio preset file for the 'linux-rt' package on archiso
 
