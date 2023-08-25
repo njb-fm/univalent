@@ -2,10 +2,10 @@
 # shellcheck disable=SC2034
 
 iso_name="xunivalent-ja"
-iso_label="UVE_2310X"
+iso_label="UVE_2309X"
 iso_publisher="RadioNewJapan"
 iso_application="UVE Installation Drive"
-iso_version="23.10"
+iso_version="23.09"
 install_dir="univa"
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.grub.esp' 'uefi-x64.grub.eltorito' 'uefi-ia32.grub.esp' 'uefi-ia32.grub.eltorito')
 arch="x86_64"
