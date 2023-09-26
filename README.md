@@ -53,7 +53,7 @@ Univalent Versatile Environment is an Arch-based distro.
 ## Preparation
 ※The host OS must be Arch or descended in a direct from from it.
 
-1. Install Archiso. Archisoを導入する。
+1. Install Archiso.
 ```bash
 sudo pacman -S archiso
 ```
