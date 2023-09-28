@@ -41,13 +41,16 @@ Univalent Versatile Environment (UVE) is an Arch-based and user-friendly distro.
         <img src="https://img.shields.io/github/repo-size/njb-fm/univalent?style=flat-square">
     </a>
 </p>
------
+
+(C) 2022-2023 Radio New Japan Broadcasting Club.
+----
 
 # Overview
 Univalent Versatile Environment is an Arch-based distro.
 
 * Tuned desktop environments
-* Relatively lightweight due to RT kernel (from 23.09)
+* Relatively lightweight due to RT kernel
+* 9 flavours - LXQt / Xfce / KDE Plasma / i3-wm / Cinnamon / GNOME / MATE / Budgie / Studio (with Plasma Desktop)
 
 # How to build
 ## Preparation
@@ -63,7 +66,6 @@ sudo pacman -S archiso
 sudo pacman-key --recv-key 36F612F2 --keyserver keyserver.ubuntu.com
 sudo pacman-key --lsign-key 36F612F2
 sudo pacman -U 'https://sourceforge.net/projects/univalentgnulinux/files/repo/univalent-stable/univalent-keyring-20230723-1-any.pkg.tar.zst' 'https://sourceforge.net/projects/univalentgnulinux/files/repo/univalent-stable/univalent-mirrorlist-20221215-1-any.pkg.tar.zst'
-echo -e "[univalent-stable]\nInclude = /etc/pacman.d/univalent-mirrorlist]" | sudo tee -a /etc/pacman.conf
 ```
 
 3. Activate Chaotic AUR.
@@ -73,16 +75,14 @@ sudo pacman-key --lsign-key 3056513887B78AEB
 sudo pacman-key --recv-key FBA220DFC880C036 --keyserver keyserver.ubuntu.com
 sudo pacman-key --lsign-key FBA220DFC880C036
 sudo pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst' 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'
-echo -e "[chaotic-aur]\nInclude = /etc/pacman.d/chaotic-mirrorlist" | sudo tee -a /etc/pacman.conf
 ```
 
 ## Usage
 ```bash
-git clone https://github.com/njb-fm/univaiso-channels
-cd univaiso-channels
-sudo mkarchiso -v <channel>/<locale>
+git clone https://github.com/njb-fm/univalent
+cd univalent
+sudo mkarchiso -v profiles/<desktop>/<locale>
 ```
 
 For an overview of each channel, please read the "README" in each root directory.
 
-(C) 2022-2023 Radio New Japan Broadcasting Club.
