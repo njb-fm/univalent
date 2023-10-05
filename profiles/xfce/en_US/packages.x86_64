@@ -209,9 +209,11 @@ system-config-printer
 sane
 skanlite
 
+# Themes
+midnight-gtk-theme-git
+
 # Input Method
 fcitx5-im
-
 
 # Chaotic AUR
 chaotic-keyring

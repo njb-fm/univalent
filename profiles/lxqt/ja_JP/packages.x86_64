@@ -214,6 +214,10 @@ system-config-printer
 sane
 skanlite
 
+# Themes
+viewglass-lxqt-theme
+ultimate-dark-gtk-theme
+
 # Chaotic AUR
 chaotic-keyring
 chaotic-mirrorlist

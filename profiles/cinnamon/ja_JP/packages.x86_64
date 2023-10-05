@@ -205,6 +205,12 @@ system-config-printer
 sane
 xsane
 
+# Themes
+bluesky-gtk-theme-git
+gtk-theme-bubble-dark-blue-git
+ultimate-dark-gtk-theme
+numix-cinnamon-semi-transparent-git
+
 # Chaotic AUR
 chaotic-keyring
 chaotic-mirrorlist

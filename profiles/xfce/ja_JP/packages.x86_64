@@ -211,6 +211,9 @@ system-config-printer
 sane
 skanlite
 
+# Themes
+midnight-gtk-theme-git
+
 # Input Method
 fcitx5-im
 fcitx5-anthy

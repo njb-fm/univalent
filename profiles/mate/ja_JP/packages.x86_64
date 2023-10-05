@@ -213,6 +213,13 @@ system-config-printer
 sane
 xsane
 
+#Themes
+midnight-gtk-theme-git
+ultimate-dark-gtk-theme
+gtk-theme-bubble-dark-blue-git
+bluesky-gtk-theme-git
+unity-7-gtk-theme
+
 # Input Method
 fcitx5-im
 fcitx5-anthy

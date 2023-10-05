@@ -208,6 +208,10 @@ system-config-printer
 sane
 xsane
 
+# Themes
+midnight-gtk-theme-git
+ultimate-dark-gtk-theme
+
 # GNOME Exts
 amber-theme-git
 #gnome-shell-extension-dash-to-dock

@@ -189,7 +189,6 @@ atril
 # Input Method
 fcitx5-im
 
-
 # Printer & Scanner
 cups
 ghostscript
@@ -200,6 +199,12 @@ a2ps
 system-config-printer
 sane
 xsane
+
+# Themes
+bluesky-gtk-theme-git
+gtk-theme-bubble-dark-blue-git
+ultimate-dark-gtk-theme
+numix-cinnamon-semi-transparent-git
 
 # Chaotic AUR
 chaotic-keyring

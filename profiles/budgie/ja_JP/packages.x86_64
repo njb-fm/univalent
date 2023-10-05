@@ -201,6 +201,10 @@ system-config-printer
 sane
 xsane
 
+# Themes
+midnight-gtk-theme-git
+ultimate-dark-gtk-theme
+
 # Input Method
 fcitx5-im
 fcitx5-anthy
