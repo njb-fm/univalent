@@ -267,9 +267,9 @@ skanlite
 
 #Themes
 ultimate-dark-gtk-theme
-desert-plasma-themes-git
-infinity-plasma-themes-git
-shadows-plasma-themes-git
+desert-plasma-theme-git
+infinity-plasma-theme-git
+shadows-plasma-theme-git
 
 # Chaotic AUR
 chaotic-keyring
