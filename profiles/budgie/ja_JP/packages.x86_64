@@ -180,9 +180,7 @@ unzip
 vim
 vlc
 wget
-vim
-vlc
-wget
+gnome-system-monitor
 xarchiver
 xfburn
 nako
