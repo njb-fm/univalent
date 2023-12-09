@@ -157,7 +157,6 @@ pipewire-alsa
 pipewire-pulse
 pavucontrol
 ntp
-add-pacman-repository
 
 #Installer
 grub

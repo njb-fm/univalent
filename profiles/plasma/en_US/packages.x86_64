@@ -179,7 +179,6 @@ univalent-logo
 univalent-tools
 libcdio
 ntp
-add-pacman-repository
 
 #Installer
 grub

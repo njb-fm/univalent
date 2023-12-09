@@ -137,7 +137,6 @@ noto-fonts-cjk
 noto-fonts
 noto-fonts-emoji
 ipa-fonts
-ttf-ubuntu-font-family
 
 #Installer
 grub
@@ -171,7 +170,6 @@ base-devel
 aptpac
 dnfpac
 univalent-tools
-add-pacman-repository
 curl
 git
 ksysguard

@@ -142,14 +142,12 @@ libcdio
 ntp
 univalent-logo
 univalent-tools
-add-pacman-repository
 
 # Fonts
 noto-fonts-cjk
 noto-fonts
 noto-fonts-emoji
 ipa-fonts
-ttf-ubuntu-font-family
 
 #Installer
 grub

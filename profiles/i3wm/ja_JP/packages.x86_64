@@ -132,7 +132,6 @@ noto-fonts
 noto-fonts-emoji
 ipa-fonts
 tint2
-ttf-ubuntu-font-family
 pcmanfm-qt
 pipewire
 qjackctl
@@ -148,7 +147,6 @@ univalent-tools
 w3m
 nitrogen
 dunst
-add-pacman-repository
 
 #icons & theme
 oxygen-icons

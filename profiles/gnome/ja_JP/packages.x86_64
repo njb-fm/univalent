@@ -150,7 +150,6 @@ noto-fonts-emoji
 ipa-fonts
 univalent-logo
 univalent-tools
-add-pacman-repository
 
 #Installer
 grub
