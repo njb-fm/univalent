@@ -147,22 +147,23 @@ powerdevil
 sddm-kcm
 systemsettings
 xdg-desktop-portal-kde
-sddm
 uve-skel-plasma
 bash-completion
 networkmanager
-konsole
 gvfs
 libmtp
 mtpfs
 gphoto2
 gvfs-mtp
 gvfs-gphoto2
-dolphin
 xdg-user-dirs
-spectacle
 unifetch
-l3afpad
+univalent-logo
+
+# Display Manager
+sddm
+
+# Sound
 pavucontrol-qt
 pipewire
 qjackctl
@@ -171,23 +172,22 @@ gst-plugin-pipewire
 pipewire-jack
 pipewire-alsa
 pipewire-pulse
+
+# Fonts
+ttf-liberation
 noto-fonts-cjk
 noto-fonts
 noto-fonts-emoji
 ipa-fonts
-univalent-logo
-univalent-tools
-libcdio
-ntp
 
-#Installer
+# Installer
 grub
 calamares
 calamares-settings-univalent
 os-prober
 univalive
 
-#Graphics Driver
+# Graphics Driver
 xf86-video-amdgpu
 xf86-video-ati
 xf86-video-intel
@@ -195,34 +195,47 @@ xf86-video-nouveau
 xf86-video-openchrome
 xf86-video-vmware
 
-#UVE softwares
+# Accessories
 ark
+kcalc
+dolphin
+l3afpad
+
+# Graphics
+gwenview
+spectacle
+
+# System Tools
+archlinux-appstream-data
+libpamac-aur
+base-devel
+pamac-aur
 aptpac
 dnfpac
-archlinux-appstream-data
-base-devel
+univalent-tools
+curl
+git
+ksysguard
+partitionmanager
+nako
+zip
+unzip
+wget
+konsole
+
+# Multimedia
+k3b
+vlc
+rhythmbox
+
+# Internet
 firefox
 firefox-i18n-ja
 claws-mail
-curl
-git
-k3b
-kcalc
-ksysguard
-libpamac-aur
+
+# Office
 libreoffice-fresh
 libreoffice-fresh-ja
-pamac-aur
-oxygen-icons
-partitionmanager
-unzip
-vim
-vlc
-wget
-nako
-zip
-rhythmbox
-gwenview
 okular
 
 # Input Method
@@ -247,6 +260,7 @@ ultimate-dark-gtk-theme
 desert-plasma-theme-git
 infinity-plasma-theme-git
 shadows-plasma-theme-git
+oxygen-icons
 
 # Chaotic AUR
 chaotic-keyring

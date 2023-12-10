@@ -103,11 +103,6 @@ zsh
 univalent-keyring
 univalent-mirrorlist
 xorg
-gdm
-bash-completion
-networkmanager
-eog
-l3afpad
 gnome-desktop
 gnome-clocks
 gnome-calendar
@@ -116,22 +111,36 @@ gnome-common
 gnome-keyring
 gnome-logs
 gnome-menus
-gnome-screenshot
 gnome-shell-extensions
 gnome-session
 gnome-settings-daemon
 gnome-shell
-gnome-terminal
-gnome-backgrounds
-gnome-system-monitor
 gnome-tweaks
+gnome-backgrounds
+mutter
 uve-skel-gnome
+xdg-user-dirs
 gvfs
 libmtp
 mtpfs
 gphoto2
 gvfs-mtp
 gvfs-gphoto2
+bash-completion
+networkmanager
+unifetch
+univalent-logo
+
+# Display Manager
+gdm
+
+#Installer
+grub
+calamares
+calamares-settings-univalent
+os-prober
+
+# Sound
 pipewire
 qjackctl
 wireplumber
@@ -140,24 +149,15 @@ pipewire-jack
 pipewire-alsa
 pipewire-pulse
 pavucontrol
-mutter
-nautilus
-xdg-user-dirs-gtk
-unifetch
+
+# Fonts
+ttf-liberation
 noto-fonts-cjk
 noto-fonts
 noto-fonts-emoji
 ipa-fonts
-univalent-logo
-univalent-tools
 
-#Installer
-grub
-calamares
-calamares-settings-univalent
-os-prober
-
-#Graphics Driver
+# Graphics Driver
 xf86-video-amdgpu
 xf86-video-ati
 xf86-video-intel
@@ -165,30 +165,45 @@ xf86-video-nouveau
 xf86-video-openchrome
 xf86-video-vmware
 
-#UVE softwares
+# Accessories
+l3afpad
+nautilus
+galculator
+xarchiver
+
+# Graphics
+eog
+gnome-screenshot
+
+# System Tools
+archlinux-appstream-data
+libpamac-aur
+pamac-aur
+base-devel
 aptpac
 dnfpac
-archlinux-appstream-data
-base-devel
-firefox
-gparted
+univalent-tools
 curl
-claws-mail
 git
-galculator
-libpamac-aur
-libreoffice-fresh
-pamac-aur
-oxygen-icons
-unzip
-vim
-vlc
-wget
-xarchiver
-brasero
+gnome-system-monitor
+gparted
 nako
 zip
+unzip
+wget
+gnome-terminal
+
+# Multimedia
+brasero
 rhythmbox
+vlc
+
+# Internet
+firefox
+claws-mail
+
+# Office
+libreoffice-fresh
 evince
 
 # Printer & Scanner
@@ -205,6 +220,7 @@ xsane
 # Themes
 midnight-gtk-theme-git
 ultimate-dark-gtk-theme
+oxygen-icons
 
 # GNOME Exts
 amber-theme-git

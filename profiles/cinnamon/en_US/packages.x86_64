@@ -103,10 +103,6 @@ zsh
 univalent-keyring
 univalent-mirrorlist
 xorg
-lightdm
-lightdm-gtk-greeter
-lightdm-gtk-greeter-settings
-xf86-input-libinput
 cinnamon
 cinnamon-translations
 uve-skel-cinnamon
@@ -117,19 +113,25 @@ mtpfs
 gphoto2
 gvfs-mtp
 gvfs-gphoto2
-gnome-terminal
-gnome-screenshot
 bash-completion
 networkmanager
-l3afpad
+xf86-input-libinput
 unifetch
+univalent-logo
+
+# Display Manager
+lightdm
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
+
+# Fonts
+ttf-liberation
 noto-fonts-cjk
 noto-fonts
 noto-fonts-emoji
 ipa-fonts
-univalent-logo
-univalent-tools
-libcdio
+
+# Sound
 pipewire
 qjackctl
 wireplumber
@@ -140,14 +142,14 @@ pipewire-pulse
 pavucontrol
 ntp
 
-#Installer
+# Installer
 grub
 calamares
 calamares-settings-univalent
 os-prober
 univalive
 
-#Graphics Driver
+# Graphics Driver
 xf86-video-amdgpu
 xf86-video-ati
 xf86-video-intel
@@ -155,34 +157,47 @@ xf86-video-nouveau
 xf86-video-openchrome
 xf86-video-vmware
 
-#UVE softwares
+# Accessories
+l3afpad
+galculator
+nemo
+xarchiver
+xfce4-clipman-plugin
+
+# Graphics
+ristretto
+gnome-screenshot
+
+# System Tools
+archlinux-appstream-data
+libpamac-aur
+pamac-aur
+base-devel
 aptpac
 dnfpac
-archlinux-appstream-data
-base-devel
-firefox
-claws-mail
-xfce4-clipman-plugin
+univalent-tools
 curl
 git
-brasero
-galculator
 gnome-system-monitor
-libpamac-aur
-libreoffice-fresh
-pamac-aur
-oxygen-icons
 gparted
-unzip
-vim
-vlc
-wget
 xscreensaver
 nako
 zip
+unzip
+wget
+gnome-terminal
+
+# Multimedia
+brasero
+vlc
 rhythmbox
-ristretto
-xarchiver
+
+# Internet
+firefox
+claws-mail
+
+# Office
+libreoffice-fresh
 atril
 
 # Input Method
@@ -204,6 +219,7 @@ bluesky-gtk-theme-git
 gtk-theme-bubble-dark-blue-git
 ultimate-dark-gtk-theme
 numix-cinnamon-semi-transparent-git
+oxygen-icons
 
 # Chaotic AUR
 chaotic-keyring

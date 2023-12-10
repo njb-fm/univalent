@@ -147,22 +147,23 @@ powerdevil
 sddm-kcm
 systemsettings
 xdg-desktop-portal-kde
-sddm
 uve-skel-plasma
 bash-completion
 networkmanager
-konsole
 gvfs
 libmtp
 mtpfs
 gphoto2
 gvfs-mtp
 gvfs-gphoto2
-dolphin
 xdg-user-dirs
-spectacle
 unifetch
-l3afpad
+univalent-logo
+
+# Display Manager
+sddm
+
+# Sound
 pavucontrol-qt
 pipewire
 qjackctl
@@ -171,23 +172,23 @@ gst-plugin-pipewire
 pipewire-jack
 pipewire-alsa
 pipewire-pulse
+easyeffects
+
+# Fonts
+ttf-liberation
 noto-fonts-cjk
 noto-fonts
 noto-fonts-emoji
 ipa-fonts
-univalent-logo
-univalent-tools
-libcdio
-ntp
 
-#Installer
+# Installer
 grub
 calamares
 calamares-settings-univalent
 os-prober
 univalive
 
-#Graphics Driver
+# Graphics Driver
 xf86-video-amdgpu
 xf86-video-ati
 xf86-video-intel
@@ -195,37 +196,45 @@ xf86-video-nouveau
 xf86-video-openchrome
 xf86-video-vmware
 
-#UVE softwares
+# Accessories
 ark
+kcalc
+dolphin
+l3afpad
+
+# Graphics
+gwenview
+spectacle
+cheese
+krita
+krita-plugin-gmic
+blender
+inkscape
+shotwell
+xf86-input-wacom
+
+# System Tools
+archlinux-appstream-data
+libpamac-aur
+base-devel
+pamac-aur
 aptpac
 dnfpac
-archlinux-appstream-data
-base-devel
-firefox
-firefox-i18n-ja
-claws-mail
+univalent-tools
 curl
 git
-k3b
-kcalc
 ksysguard
-libpamac-aur
-libreoffice-fresh
-libreoffice-fresh-ja
-pamac-aur
-oxygen-icons
 partitionmanager
-unzip
-vim
-vlc
-wget
 nako
 zip
-rhythmbox
-gwenview
-okular
+unzip
+wget
+konsole
 
-# UVE (pronounce: YUU-vii-ii) Studio
+# Multimedia
+k3b
+vlc
+rhythmbox
 audacity
 muse
 hexter
@@ -235,17 +244,18 @@ qsynth
 mixxx
 vmpk
 shotcut
-cheese
-krita
-krita-plugin-gmic
-blender
-inkscape
-blender
-shotwell
-scribus
-xf86-input-wacom
 obs-studio
-easyeffects
+
+# Internet
+firefox
+firefox-i18n-ja
+claws-mail
+
+# Office
+libreoffice-fresh
+libreoffice-fresh-ja
+okular
+scribus
 
 # Input Method
 fcitx5-im
@@ -269,6 +279,7 @@ ultimate-dark-gtk-theme
 desert-plasma-theme-git
 infinity-plasma-theme-git
 shadows-plasma-theme-git
+oxygen-icons
 
 # Chaotic AUR
 chaotic-keyring

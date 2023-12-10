@@ -142,6 +142,7 @@ pipewire-pulse
 pavucontrol
 
 # Fonts
+ttf-liberation
 noto-fonts-cjk
 noto-fonts
 noto-fonts-emoji

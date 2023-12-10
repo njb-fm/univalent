@@ -103,36 +103,40 @@ zsh
 univalent-keyring
 univalent-mirrorlist
 xorg
+i3-wm
+tint2
+rofi
+w3m
+nitrogen
+dunst
+feh
+picom
 acpilight
+polkit-gnome
+gnome-power-manager
+volumeicon
+udiskie
+uve-skel-i3wm
 xdg-user-dirs
 bash-completion
 networkmanager
 network-manager-applet
-lightdm
-xf86-input-libinput
-lightdm-gtk-greeter
-lightdm-gtk-greeter-settings
-i3-wm
-uve-skel-i3wm
-xfce4-terminal
-polkit-gnome
-rofi
 gvfs
 libmtp
 mtpfs
 gphoto2
 gvfs-mtp
 gvfs-gphoto2
+xf86-input-libinput
 unifetch
-feh
-picom
-lxappearance
-noto-fonts-cjk
-noto-fonts
-noto-fonts-emoji
-ipa-fonts
-tint2
-pcmanfm-qt
+univalent-logo
+
+# Display Manager
+lightdm
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
+
+# Sound
 pipewire
 qjackctl
 wireplumber
@@ -141,17 +145,13 @@ pipewire-jack
 pipewire-alsa
 pipewire-pulse
 pavucontrol
-libcdio
-ntp
-univalent-tools
-w3m
-nitrogen
-dunst
 
-#icons & theme
-oxygen-icons
-arc-gtk-theme
-univalent-logo
+# Fonts
+ttf-liberation
+noto-fonts-cjk
+noto-fonts
+noto-fonts-emoji
+ipa-fonts
 
 #Installer
 grub
@@ -167,40 +167,50 @@ xf86-video-nouveau
 xf86-video-openchrome
 xf86-video-vmware
 
-#UVE softwares
+# Accessories
+pcmanfm-qt
+l3afpad
+xfce4-clipman-plugin
+galculator
+xarchiver
+
+# Graphics
+ristretto
+screengrab
+
+# Syetem Tools
+archlinux-appstream-data
+libpamac-aur
+pamac-aur
+base-devel
 aptpac
 dnfpac
-archlinux-appstream-data
-base-devel
+univalent-tools
+curl
+git
+lxtask-gtk3
+gparted
+nako
+zip
+unzip
+wget
+xfce4-terminal
+lxappearance
+
+# Multimedia
+xfburn
+rhythmbox
+vlc
+
+# Internet
 firefox
 firefox-i18n-ja
 claws-mail
-xfce4-clipman-plugin
-curl
-git
-xfburn
-rhythmbox
-galculator
-lxtask-gtk3
-l3afpad
-ristretto
-pamac-aur
-gparted
-screengrab
-unzip
-vim
-vlc
-wget
-xscreensaver
-nako
-zip
-xarchiver
-gnome-power-manager
-volumeicon
-udiskie
-atril
+
+# Office
 libreoffice-fresh
 libreoffice-fresh-ja
+atril
 
 # Printer & Scanner
 cups
@@ -216,6 +226,8 @@ xsane
 #Themes
 ultimate-dark-gtk-theme
 midnight-gtk-theme-git
+oxygen-icons
+arc-gtk-theme
 
 # Input Method
 fcitx5-im
