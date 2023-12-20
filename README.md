@@ -65,8 +65,7 @@ sudo pacman -S archiso
 ```bash
 sudo pacman-key --recv-key 36F612F2 --keyserver keyserver.ubuntu.com
 sudo pacman-key --lsign-key 36F612F2
-sudo pacman -U 'https://sourceforge.net/projects/univalentgnulinux/files/repo/univalent-stable/univalent-keyring-20230723-1-any.pkg.tar.zst' 'https://sourceforge.net/projects/univalentgnulinux/files/repo/univalent-stable/univalent-mirrorlist-20221215-1-any.pkg.tar.zst'
-```
+sudo pacman -U 'https://njb-fm.github.io/uve-repo/univalent/x86_64/univalent-keyring-20231211-1-any.pkg.tar.zst' 'https://njb-fm.github.io/uve-repo/univalent/x86_64/univalent-mirrorlist-20231004-1-any.pkg.tar.zst'```
 
 3. Activate Chaotic AUR.
 ```bash
