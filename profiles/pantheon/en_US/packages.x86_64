@@ -265,6 +265,10 @@ fcitx5-anthy
 anthy-unicode
 kasumi-unicode
 
+# Chaotic AUR
+chaotic-keyring
+chaotic-mirrorlist
+
 # Plymouth
 plymouth
 plymouth-theme-uve-logo

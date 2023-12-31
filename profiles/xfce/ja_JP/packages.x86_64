@@ -182,6 +182,7 @@ tkpacman
 base-devel
 aptpac
 dnfpac
+univalent-tools
 curl
 git
 xfce4-taskmanager
