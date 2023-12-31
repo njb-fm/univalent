@@ -250,7 +250,7 @@ system-config-printer
 sane
 skanlite
 
-#Themes
+# Themes
 ultimate-dark-gtk-theme
 desert-plasma-theme-git
 infinity-plasma-theme-git

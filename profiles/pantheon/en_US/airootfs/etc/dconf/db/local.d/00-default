@@ -1,0 +1,61 @@
+[io/elementary/files/preferences]
+active-tab-position=0
+default-viewmode='icon'
+show-hiddenfiles=false
+sidebar-width=191
+singleclick-select=false
+window-size=(1000, 680)
+window-state='normal'
+
+[io/elementary/onboarding]
+viewed=['welcome', 'style', 'night-light', 'housekeeping', 'onlineaccounts', 'finish']
+
+[io/elementary/switchboard/saved-state]
+window-maximized=false
+window-position=(246, 52)
+window-size=(1024, 720)
+
+[io/elementary/tasks]
+selected-list='system-task-list'
+window-maximized=false
+window-position=(189, 64)
+window-size=(1000, 800)
+
+[io/elementary/terminal/settings]
+natural-copy-paste=false
+theme='custom'
+
+[net/launchpad/plank/docks/dock1]
+dock-items=['calamares.dockitem', 'applications.dockitem', 'io.elementary.files.dockitem', 'firefox.dockitem', 'claws-mail.dockitem', 'io.elementary.calendar.dockitem', 'vlc.dockitem', 'io.elementary.files.dockitem', 'org.gnome.Terminal.dockitem', 'clock.dockitem', 'trash.dockitem', 'desktop.dockitem']
+
+[org/gnome/desktop/background]
+picture-uri='file:///usr/share/backgrounds/univalent/univalent-wall-blue.png'
+
+[org/gnome/desktop/input-sources]
+sources=[('xkb', 'jp+OADG109A')]
+
+[org/gnome/desktop/interface]
+gtk-theme='io.elementary.stylesheet.blueberry'
+icon-theme='elementary'
+
+[org/gnome/desktop/privacy]
+remove-old-temp-files=false
+remove-old-trash-files=false
+
+[org/gnome/evolution-data-server]
+migrated=true
+
+[org/gnome/settings-daemon/plugins/color]
+night-light-enabled=false
+night-light-last-coordinates=(34.986806409013496, 138.3742)
+
+[org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(0,0,0)'
+backspace-binding='ascii-backspace'
+delete-binding='delete-sequence'
+font='Monospace 12'
+foreground-color='rgb(255,255,255)'
+palette=['rgb(0,0,0)', 'rgb(205,0,0)', 'rgb(0,205,0)', 'rgb(205,205,0)', 'rgb(0,0,238)', 'rgb(205,0,205)', 'rgb(0,205,205)', 'rgb(229,229,229)', 'rgb(127,127,127)', 'rgb(255,0,0)', 'rgb(0,255,0)', 'rgb(255,255,0)', 'rgb(92,92,255)', 'rgb(255,0,255)', 'rgb(0,255,255)', 'rgb(255,255,255)']
+use-system-font=false
+use-theme-colors=false
+visible-name='univalent'
