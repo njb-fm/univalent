@@ -184,6 +184,10 @@ gnome-screenshot
 
 # System Tools
 archlinux-appstream-data
+gnome-software
+fwupd
+vte3
+tkpacman
 libpamac-aur
 pamac-aur
 base-devel

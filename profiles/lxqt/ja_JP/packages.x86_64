@@ -165,8 +165,11 @@ screengrab
 
 # System Tools
 archlinux-appstream-data
-libpamac-aur
-pamac-aur
+discover
+packagekit-qt5
+fwupd
+vte3
+tkpacman
 base-devel
 aptpac
 dnfpac

@@ -207,9 +207,12 @@ spectacle
 
 # System Tools
 archlinux-appstream-data
-libpamac-aur
+discover
+packagekit-qt5
+fwupd
+vte3
+tkpacman
 base-devel
-pamac-aur
 aptpac
 dnfpac
 univalent-tools
