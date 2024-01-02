@@ -1,8 +1,7 @@
 Channel Name : i3wm
 
-This is a flavour which installed i3-gaps as a  window manager.
-i3-gaps is a modification of the original i3-wm and includes functions such as gaps between windows.
-Also, this edition don't include LibreOffice, Rhythmbox, and so on. as standard because this is focused on running web apps.
+This is a flavour which installed i3-wm as a window manager.
+Try this! It could be addicted to use...
 
-デスクトップ環境…というかウインドウマネージャーにi3-gapsを採用したフレーバーです。
-i3-gapsは本家i3-wmを改造したモノで、例えばウインドウの間を空けるなどといった機能が搭載されています。
+デスクトップ環境…というかウインドウマネージャーにi3-wmを採用したフレーバーである。
+試してみな！癖になるかもよ…
