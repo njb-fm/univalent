@@ -167,7 +167,7 @@ xarchiver
 
 # Graphics
 eog
-gnome-screenshooter
+gnome-screenshot
 
 # System Tools
 archlinux-appstream-data

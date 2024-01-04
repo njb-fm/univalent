@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="xunivalent-ja"
+iso_name="xunivalent-amber-ja"
 iso_label="UVE_2401X"
 iso_publisher="RadioNewJapan"
 iso_application="UVE Installation Drive"

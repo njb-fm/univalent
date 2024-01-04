@@ -226,7 +226,7 @@ oxygen-icons
 
 # GNOME Exts
 amber-theme-git
-#gnome-shell-extension-dash-to-dock
+gnome-shell-extension-dash-to-dock
 gnome-shell-extension-clipboard-indicator
 gnome-shell-extension-desktop-icons-ng
 gnome-shell-extension-kimpanel-git
