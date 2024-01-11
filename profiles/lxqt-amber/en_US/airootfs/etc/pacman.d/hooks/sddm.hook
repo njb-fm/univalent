@@ -2,10 +2,10 @@
 [Trigger]
 Operation = Install
 Type = Package
-Target = lightdm
+Target = sddm
 
 [Action]
 Description = Enabling LightDM...
 When = PostTransaction
-Depends = lightdm
-Exec = /bin/sh -c "systemctl enable lightdm"
+Depends = sddm
+Exec = /bin/sh -c "systemctl enable sddm"

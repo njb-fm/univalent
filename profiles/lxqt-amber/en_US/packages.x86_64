@@ -120,9 +120,7 @@ unifetch
 univalent-logo
 
 # Display Manager
-lightdm
-lightdm-gtk-greeter
-lightdm-gtk-greeter-settings
+sddm
 
 # Sound
 pavucontrol-qt
