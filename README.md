@@ -8,7 +8,7 @@ Univalent Versatile Environment (UVE) is an Arch-based and user-friendly distro.
 
 <p align="center">
     <a href="https://njb-fm.github.io/">
-        <img src="https://img.shields.io/badge/Developer-RadioNewJapan-blue?style=flat-square">
+        <img src="https://img.shields.io/badge/Developer-NakamuraJukebox-blue?style=flat-square">
     </a>
     <a href="https://sourceforge.net/projects/univalentgnulinux/">
         <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square">
@@ -42,7 +42,7 @@ Univalent Versatile Environment (UVE) is an Arch-based and user-friendly distro.
     </a>
 </p>
 
-(C) 2022-2023 Radio New Japan Broadcasting Club.
+(C) 2022-2024 Naka-mura Jukebox.
 ----
 
 # Overview
