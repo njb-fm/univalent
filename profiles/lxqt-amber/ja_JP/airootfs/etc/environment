@@ -1,0 +1,6 @@
+# SPDX-License-Identifier: BSD-3-clause
+
+GTK_IM_MODULE="fcitx5"
+QT_IM_MODULE="fcitx5"
+XMODIFIERS='@im=fcitx5'
+
